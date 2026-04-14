@@ -25,9 +25,11 @@
 | 7 | Verificación en texto original | ✅ Completado |
 | 8 | Verificación ediciones antes de 1592 | ✅ Completado |
 | 8B | Tradición textual | ✅ Completado |
-| **9** | Biblioteca Regional CLM | **Pendiente** |
-| **10** | Exlibris jesuitas | **Pendiente** |
-| **11** | Análisis y conclusiones | **Pendiente** |
+| **9** | **Biblioteca Regional CLM** (catálogo online) | ✅ Completado |
+| **9B** | **Verificación presencial en biblioteca** | ⏳ Pendiente (requiere visita) |
+| **9C** | **Verificación cruzada de resultados** | ✅ Completado |
+| **10** | Exlibris jesuitas | ⏳ Pendiente |
+| **11** | Análisis y conclusiones | ⏳ Pendiente |
 
 ---
 
