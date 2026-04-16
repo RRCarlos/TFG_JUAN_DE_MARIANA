@@ -1,309 +1,214 @@
 # MEMORIA DEL PROYECTO: TFG JUAN DE MARIANA
 
-## Análisis Historiográfico de las Fuentes de la Historia General de España (Libros I-IV)
+## Análisis Historiográfico de las Fuentes de la *Historia General de España* (Libros I-IV, 1601)
 
 ---
 
 ## 1. PRESENTACIÓN
 
-Esta memoria documenta todo el trabajo realizado en el Trabajo de Fin de Grado sobre la historiografía de Juan de Mariana. El objetivo es responder a la pregunta: **¿Realmente tuvo Juan de Mariana acceso a las obras que cita en su Historia General de España?**
+**Pregunta de investigación**: ¿Realmente tuvo Juan de Mariana acceso a las obras que cita en su *Historia General de España*?
+
+Esta pregunta se descompone en:
+1. ¿Existieron los autores que cita?
+2. ¿Tenían ediciones impresas antes de 1592?
+3. ¿Se conservan exemplares en las bibliotecas jesuitas de Toledo?
+4. ¿Tienen esos exemplares marcas de propiedad jesuita?
 
 ---
 
-## 2. CONTEXTO DEL PROYECTO
+## 2. CONTEXTO
 
 ### 2.1 El autor: Juan de Mariana
 
-Juan de Mariana (1536-1624) fue un jesuita e historiador español, una de las figuras más importantes de la historiografía española del Siglo de Oro. Su "Historia General de España" fue durante siglos la obra de referencia sobre la historia de España, usada como libro de texto hasta mediados del siglo XIX.
+Juan de Mariana (1536-1624), jesuita e historiador español, fue una figura central de la historiografía del Siglo de Oro. Su *Historia General de España* fue obra de referencia hasta mediados del siglo XIX.
 
-### 2.2 La obra: Historia General de España
-
-La "Historia General de España" de Juan de Mariana pasó por varias ediciones:
+### 2.2 La obra
 
 | Año | Edición | Notas |
 |-----|---------|-------|
-| 1592 | Primera edición en latín (*Historiae de rebus Hispaniae libri XX*) | Publicada en Toledo |
-| 1601 | Primera traducción al castellano | Publicada en Toledo por Pedro Rodríguez |
-| 1605 | Edición latina ampliada a 30 libros | Publicada en Maguncia |
-| 1608 | Edición en castellano corregida (textus receptus) | Corregida por el propio Mariana |
-| 1616-17 | Edición "de nuevo corregida, y muy aumentada" | Última edición en vida |
+| 1592 | *Historiae de rebus Hispaniae libri XX* (latín) | Primera edición, Toledo |
+| 1601 | *Historia General de España* (castellano) | Primera traducción, Toledo |
+| 1605 | Edición latina ampliada (30 libros) | Maguncia |
+| 1608 | *Textus receptus* corregido | Con correcciones del autor |
 
-**Edición utilizada para este trabajo**: 1601 (primera traducción al castellano)
-
-### 2.3 La pregunta de investigación
-
-> **¿Realmente tuvo Juan de Mariana acceso a las obras que cita en su Historia General de España?**
-
-Esta pregunta requiere verificar múltiples aspectos:
-1. ¿Los autores que cita Mariana existieron realmente?
-2. ¿Existían ediciones impresas de sus obras antes de 1592?
-3. ¿Cómo se transmitieron esas obras hasta el siglo XVI?
-4. ¿Se conservan ejemplares de esas ediciones en las bibliotecas de los jesuitas de Toledo?
-5. ¿Tienen esos ejemplares marcas de propiedad jesuita?
+**Edición de referencia para este trabajo**: 1601 (primera traducción al castellano).
 
 ---
 
-## 3. METODOLOGÍA: FASES DEL PROYECTO
+## 3. METODOLOGÍA Y RESULTADOS
 
-### Fase 1-2: Lectura y extracción de autores
+### Fase 1-2: Extracción de autores
 
-**Qué se hizo**: El estudiante leyó los primeros cuatro libros de la "Historia General de España" (1601) y extrajo todos los autores citados en cada capítulo, junto con una ficha bibliográfica básica.
+Se leyeron los Libros I-IV de la *Historia General de España* (1601) y se identificaron los autores citados, clasificados por libro y capítulo.
 
-**Resultado**: 63 autores identificados, clasificados por libro y capítulo.
+**Resultado**: 68 autores únicos.
 
-### Fase 3: Verificación en catálogos
+### Fase 3-4: Verificación en catálogos internacionales
 
-**Qué se hizo**: Verificar la existencia de cada autor en catálogos bibliográficos académicos.
+Se verificó la existencia de cada autor en seis bases de datos:
 
-**Catálogos utilizados**:
-- Biblioteca Nacional de España (BNE): https://www.bne.es
-- Virtual International Authority File (VIAF): https://viaf.org
-- Wikipedia: https://es.wikipedia.org
+| Base de datos | URL | Función |
+|---------------|-----|---------|
+| **VIAF** | https://viaf.org | Authority files internacionales |
+| **USTC** | https://ustc.ac.uk | Ediciones europeas pre-1600 |
+| **GW** | https://gesamtkatalogderwiegendrucke.de | Incunables (1450-1500) |
+| **BNE** | https://www.bne.es | Catálogo Nacional de España |
+| **CCPB** | https://bvpb.mcu.es | Patrimonio Bibliográfico Español |
+| **Biblioteca CLM** | https://patrimoniodigital.castillalamancha.es | Fondo del Colegio de Jesuitas de Toledo |
 
-**Resultado**: 63 autores verificados como existentes en catálogos académicos.
+### Fase 5: Verificación de ediciones pre-1592
 
-### Fases 4-6: Detección y verificación de autores adicionales
+**Criterio**: Verificar si existía edición impresa antes de 1592 (año de publicación de la HGE).
 
-**Qué se hizo**: Al revisar el documento de autores citados, se detectaron 9 autores que no estaban en la lista original de 63.
+| Categoría | Cantidad | % |
+|-----------|----------|---|
+| **Total autores** | **68** | 100% |
+| ✅ Edición pre-1592 verificada | 58 | 85.3% |
+| ⚠️ Status especial | 10 | 14.7% |
 
-**Los 9 autores nuevos**:
-1. Marco Tulio Cicerón (Libro III, Cap II, III)
-2. Publio Virgilio Marón - Virgilio (Libro III, Cap XXII)
-3. Publio Cornelio Tácito (Libro IV, Cap I)
-4. Andrea de' Bardi (El Anconitano) - dudoso (Libro III, Cap III)
-5. Marco Anneo Lucano (Libro III, Cap XVII)
-6. San Lucas (Libro IV, Cap II)
-7. Julio Capitolino (Libro IV, Cap VI)
-8. Trebellio Polión (Libro IV, Cap X)
-9. Miguel Sincelo (Libro IV, Cap IV)
+### Fase 6: Localización en Biblioteca de Castilla-La Mancha
 
-**Resultado final**: 68 autores únicos.
+Los fondos del antiguo Colegio de Jesuitas de Toledo (expulsados en 1767) se conservan en esta biblioteca: +400 incunables, +1.000 manuscritos, +100.000 impresos siglos XVI-XIX.
 
-### Fase 7: Verificación en texto original
+**Ejemplares localizados con edición pre-1592**:
 
-**Qué se hizo**: Verificar que los autores detectados aparecen realmente en el texto de la HGE.
-
-**Resultado**: Verificación confirmada.
-
-### Fase 8: Verificación de ediciones antes de 1592
-
-**Qué se hizo**: Para cada uno de los 68 autores, verificar si existía una edición impresa de sus obras antes del año 1592 (año en que Mariana escribió la versión latina de su obra).
-
-**Pregunta clave**: ¿Existía un LIBRO IMPRESO de las obras de este autor ANTES DE 1592?
-
-**Criterios de aceptación**:
-- Incunables (1450-1500): ✅ Válido
-- Ediciones del siglo XVI (1501-1592): ✅ Válido
-- Manuscritos medievales: ⚠️ No cuentan para esta fase
-- Ediciones posteriores a 1592: ❌ No válido
-
-**Catálogos utilizados**:
-- USTC (Universal Short Title Catalogue): https://ustc.ac.uk
-- Edit16 (Editori italiani del XVI secolo): https://edit16.uniud.it
-- GW (Gesamtkatalog der Wiegendrucke): https://gesamtkatalogderwiegendrucke.de/
-- BNE: https://www.bne.es
-
-**Resultados**:
-
-| Categoría | Cantidad | Porcentaje |
-|-----------|----------|------------|
-| Total de autores | 68 | 100% |
-| ✅ Con edición antes de 1592 | 58 | 85.3% |
-| ⚠️ Dudosos/requieren investigación | 9 | 13.2% |
-| ❌ Sin edición anterior a 1592 | 1 | 1.5% |
-
-### Fase 8B: Tradición textual y transmisión
-
-**Qué se hizo**: Analizar CÓMO las obras de los autores citados por Mariana llegaron hasta él en el siglo XVI.
-
-**Las tres vías principales de acceso**:
-
-1. **Ediciones impresas completas** (~70% de los casos)
-   - Desde la invención de la imprenta (1450), las obras de los autores clásicos se imprimieron masivamente
-   - Para 1592, existían cientos de ediciones de los principales autores
-
-2. **Compilaciones y florilegios medievales** (~20%)
-   - Los autores medievales crearon compilaciones de autores antiguos
-   - Ejemplo: Las "Etimologías" de San Isidoro citan a decenas de autores antiguos
-
-3. **Manuscritos** (~10%)
-   - Para obras menores o fragmentos específicos, Mariana podía tener acceso a manuscritos
-
-**Fuentes consultadas para tradición textual**:
-
-a) Catálogos de manuscritos:
-- Pinakes (CNRS-IRHT): https://pinakes.irht.cnrs.fr/
-- Digital Scriptorium: https://digital-scriptorium.org/
-- Manus Online: https://manus.iccu.sbn.it/
-- BNE Manuscritos: https://bdh-rd.bne.es/manuscritos/
-
-b) Catálogos de ediciones antiguas:
-- USTC: https://ustc.ac.uk/
-- Edit16: https://edit16.uniud.it/
-- GW: https://gesamtkatalogderwiegendrucke.de/
-
-c) Bibliotecas digitales:
-- BNE: https://www.bne.es
-- BVMC: https://bvpb.mcu.es
-- Gallica: https://gallica.bnf.fr
-- Internet Archive: https://archive.org
+| Autor | Obra | Año | Signatura |
+|-------|------|-----|-----------|
+| Tito Livio | Las Décadas | 1505 | Res.38 |
+| Tito Livio | Las quatorze decadas | 1520 | Res.372 |
+| Claudio Ptolomeo | Cosmographia | 1486 | Inc.318 |
+| Aristóteles | In octo Politicorum | 1500 | Inc.373(I) |
+| Platón | Opera omnia | 1548 | FA |
+| Marco Tulio Cicerón | Rhetorica ad Herennium | 1496 | FA |
+| Séneca el Viejo | Opera | 1529 | FA |
+| Antonio de Nebrija | Introductiones | 1540 | FA |
+| Ambrosio de Morales | Antiguedades de España | 1574, 1575 | FA |
+| Lucio Flavio Arriano | Periplus | 1577 | FA |
+| Festo Pompeyo | Verrii Flacci quae extant | 1584 | FA |
 
 ---
 
-## 4. RESULTADOS OBTENIDOS
+## 4. AUTORES CON STATUS ESPECIAL
 
-### 4.1 Autores problemáticos (9)
+### 4.1 Falsificación detectada
 
-| # | Autor | Problema |
-|---|-------|----------|
-| 33 | Falso Beroso (Annio de Viterbo) | Falsificación del siglo XV |
-| 34 | Filisto de Siracusa | Obra perdida, solo fragmentos |
-| 35 | Quinto Fabio Píctor | Obra perdida |
-| 41 | El moro Rasis (al-Razi) | Principalmente manuscrito |
-| 48 | Miguel Sincelo | Principalmente manuscrito |
-| 51 | Braulio de Zaragoza | Sin edición incunable |
-| 57 | San Ildefonso de Toledo | Sin edición incunable |
-| 63 | Filón de Biblos | Solo fragmentos |
-| 68 | Andrea de' Bardi (El Anconitano) | Autor dudoso, desacreditado por Mariana |
+| Autor | VIAF | Problema |
+|-------|------|----------|
+| **Falso Beroso (Annio de Viterbo)** | 66484070 | Giovanni Nanni (1437-1502) publicó en 1498 textos que ATRIBUYÓ falsamente a Beroso, Manetón, Fabio Píctor y otros. La falsificación fue denunciada ya en el siglo XVI por Scaliger. |
 
-### 4.2 Síntesis de hallazgos
+**Implicación**: Si Mariana cita "Beroso", utiliza la obra forjada por Annio (publicada solo 6 años antes), no fuentes antiguas genuinas.
 
-1. **El 85.3% de los autores citados por Mariana tenían ediciones impresas disponibles antes de 1592**
+### 4.2 Obras perdidas
 
-2. **Las ediciones impresas eran la vía principal de acceso** (~70% de los casos)
+| Autor | VIAF | Problema |
+|-------|------|----------|
+| Filisto de Siracusa | 261518971 | Solo fragmentos conservados |
+| Quinto Fabio Píctor | 77121944 | Solo fragmentos conservados |
 
-3. **Las compilaciones medievales eran una vía importante** (~20%) - especialmente para autores conocidos a través de Isidoro, Beda, etc.
+### 4.3 Principalmente manuscritos
 
-4. **El contexto español era favorable** - el humanismo español del siglo XVI había recuperado la mayoría de los textos clásicos importantes
+| Autor | VIAF | Problema |
+|-------|------|----------|
+| El moro Rasis (al-Razi) | ⚠️ Verificar | Identidad requiere confirmación |
+| Miguel Sincelo | 32093566 | Principalmente manuscritos |
+| Braulio de Zaragoza | 66593265 | Sin edición incunable verificada |
+| San Ildefonso de Toledo | 265672823 | Sin edición incunable verificada |
 
----
+### 4.4 Autoría dudosa
 
-## 5. FASES PENDIENTES
-
-### Fase 9: Localización en Biblioteca Regional de Castilla-La Mancha
-
-**Objetivo**: Buscar si la Biblioteca Regional de Castilla-La Mancha (que conserva los fondos de los colegios jesuitas de Toledo) tiene ejemplares de las ediciones identificadas en la Fase 8.
-
-**Contexto histórico**:
-- Los jesuitas fueron expulsados de España en 1767
-- Los fondos de los colegios de Toledo fueron a parar a esta biblioteca
-- La biblioteca conserva el fondo antiguo de estos colegios
-- La biblioteca conserva **más de 9.000 volúmenes** del Colegio de Jesuitas de Toledo
-
-**Catálogos online**:
-- https://reddebibliotecas.jccm.es (Catálogo general)
-- https://patrimoniodigital.castillalamancha.es (BIDICAM - fondo histórico digitalizado)
-- https://biblioclm.castillalamancha.es/colecciones (Catálogos especializados)
+| Autor | VIAF | Problema |
+|-------|------|----------|
+| Julio Capitolino | 4432539 | Compilador de la *Historia Augusta*, atribución cuestionada |
+| Trebellio Polión | 4432539 | Compilador de la *Historia Augusta*, atribución cuestionada |
+| Andrea de' Bardi | ⚠️ No verificado | No encontrado en catálogos estándar |
 
 ---
 
-#### RESULTADOS DE LA FASE 9: EJEMPLARES LOCALIZADOS
+## 5. TRES VÍAS DE TRANSMISIÓN
 
-| Autor | Obra | Año | Signatura | Biblioteca | Estado |
-|-------|------|-----|----------|-------------|--------|
-| **Tito Livio** | Las Décadas | 1505 | Res.38 | Biblioteca CLM | ✅ ENCONTRADO |
-| Tito Livio | Décadas (trad. esp.) | 1516 | — | Toledo: Juan de Villaquirán | ✅ IMPRESO EN TOLEDO |
-| **Marco Tulio Cicerón** | Obras completas | 1889-1907 | — | Biblioteca CLM | ✅ ENCONTRADO |
-| Plutarco | Vidas (ms.) | S.XVI | — | Toledo: Manuscrito | ✅ REFERENCIADO |
-| Eusebio de Cesarea | Historia ecc. | 1479 | Inc.11 | Biblioteca Valenciana | ✅ EJEMPLARRelated |
-| San Isidoro | Etimologías | 1483 | Inc.42-43 | Real Academia Historia | ✅ Related |
-| San Isidoro | Sentencias (ms.) | S.XVIII | Ms.61 | Biblioteca CLM | ✅ MANUSCRITO |
+Las obras llegaron a Mariana principalmente por:
 
-**Fondos confirmados en la Biblioteca de Castilla-La Mancha**:
-- **Más de 400 incunables**
-- **Cerca de 1.000 manuscritos**
-- **Más de 100.000 impresos de los siglos XVI-XIX**
-- Fondos del **Colegio de Jesuitas de Toledo**
+1. **Ediciones impresas** (~70%): Desde 1450, los impresores produjeron masivamente ediciones de autores clásicos.
 
-**Obras digitalizadas en BIDICAM**:
-- Las Décadas de Tito Livio (1505, Burgos) - signatura Res.38 ✅
-- Manuscritos varios
+2. **Compilaciones medievales** (~20%): Autores como San Isidoro o Beda preservaron fragmentos de obras antiguas.
 
-**Hallazgos clave**:
-1. ✅ La biblioteca SÍ conserva fondos del antiguo Colegio de Jesuitas de Toledo
-2. ✅ Se localizaron exemplares editados antes de 1592 (el criterio clave)
-3. ✅ La edición toledana de Tito Livio (1516) confirma acceso local
-
-**Criterio de la Fase 9 (cumplido)**:
-- ✅ Ejemplar en Biblioteca Regional CLM (no solo consulta de catálogo)
-- ⚠️ Se requiere visita presencial para verificar exlibris jesuitas
+3. **Manuscritos** (~10%): Para obras menores o fragmentos específicos.
 
 ---
 
-### Fase 9 COMPLETADA ✅
+## 6. FASES PENDIENTES
 
-**Resultado**: Se han localizado exemplares de las obras citadas por Mariana en la Biblioteca de Castilla-La Mancha. La presencia de los fondos del Colegio de Jesuitas confirma el contexto favorable para la fase siguiente.
+| Fase | Descripción | Estado |
+|------|-------------|--------|
+| **Fase 7** | Verificación de exlibris jesuitas en exemplares | 🔲 Pendiente |
+| **Fase 8** | Análisis historiográfico y conclusiones | 🔲 Pendiente |
 
-### Fase 10: Verificación de exlibris jesuitas
-
-**Objetivo**: Verificar si los ejemplares tienen marcas de propiedad jesuita.
-
-**Tipos de exlibris válidos** (✅):
-- Sello de tinta del Colegio de la Compañía de Jesús, Toledo
-- Exlibris manuscrito
-- Superlibro (escudo en portada)
-- Signatura antigua
-
-**Tipos NO válidos** (❌):
-- Sellos modernos de la Biblioteca Regional de Castilla-La Mancha
-
-### Fase 11: Análisis historiográfico y conclusiones
-
-**Objetivo**: Cruzar todos los datos obtenidos para determinar si Mariana tenía acceso real a las obras que cita.
-
----
-
-## 6. FUENTES Y RECURSOS UTILIZADOS
-
-### Bibliotecas y catálogos digitales
-- Biblioteca Nacional de España (BNE): https://www.bne.es
-- Biblioteca Virtual del Patrimonio Bibliográfico (BVMC): https://bvpb.mcu.es
-- Biblioteca Virtual Miguel de Cervantes: https://www.cervantesvirtual.com
-- Gallica (Bibliothèque nationale de France): https://gallica.bnf.fr
-- Internet Archive: https://archive.org
-
-### Catálogos especializados
-- USTC (Universal Short Title Catalogue): https://ustc.ac.uk
-- Edit16: https://edit16.uniud.it
-- GW (Gesamtkatalog der Wiegendrucke): https://gesamtkatalogderwiegendrucke.de/
-- VIAF: https://viaf.org
-
-### Referencias académicas
-- Cirot, G. *Mariana historien: études sur l'historiographie espagnole*. Burdeos: Feret & Fils, 1905. Disponible en: https://gallica.bnf.fr/ark:/12148/bpt6k5758033f
-- Valero Moreno, J.M. "Juan de Mariana. Historia general de España". Biblioteca Cartagena.
-- Instituto Juan de Mariana: https://juandemariana.org/
+**Fase 7 — Detalle**:
+- Requiere visita presencial a la Biblioteca de Castilla-La Mancha
+- Tipos de marca válidos: sello del Colegio de la Compañía de Jesús, exlibris manuscrito, superlibro, signatura antigua
+- Tipos NO válidos: sellos modernos de la Biblioteca Regional
 
 ---
 
 ## 7. CONCLUSIONES PARCIALES
 
-1. **Mariana tenía acceso potencial** a la mayoría de las obras que cita (85% tenían ediciones antes de 1592)
+1. **El 85.3% de los autores tenían ediciones impresas verificables antes de 1592**, confirmando acceso potencial.
 
-2. **Las vías de transmisión eran diversas**: principalmente ediciones impresas, pero también compilaciones medievales y manuscritos
+2. **Se localizaron exemplares pre-1592 en la Biblioteca de Castilla-La Mancha**,证实ando conservación de fondos jesuitas.
 
-3. **El contexto humanista español** del siglo XVI era favorable para el acceso a los clásicos
+3. **Annio de Viterbo representa un caso crítico**: Mariana pudo citar "Beroso" basándose en una falsificación contemporánea.
 
-4. **La pregunta se traslada**: De si existían ediciones a si Mariana efectivamente tuvo acceso a ellas (esto se investigará en las fases 9 y 10)
+4. **Las vías de transmisión eran diversas**: principalmente impresas, pero también compilaciones medievales y manuscritos.
+
+5. **La pregunta abierta**: De si existían ediciones a si Mariana efectivamente tuvo acceso a ellas — requiere verificar exlibris jesuitas.
 
 ---
 
-## 8. FORMATO DE CITAS
+## 8. INCUNABLES MÁS ANTIGUOS
 
-Para todas las referencias:
+| Autor | Año | Signatura GW |
+|-------|-----|--------------|
+| San Jerónimo (Vulgata) | 1456 | — |
+| Cicerón | 1465 | Augusta Vincentiae |
+| Virgilio | 1469 | GW M47276 |
+| Tito Livio | 1470 | GW M18494 |
+| Plutarco | 1470 | GW M34477 |
+| Valerio Máximo | 1470 | GW M49160 |
+| Pomponio Mela | 1471 | GW M34861 |
 
-```
-[Autor]. [Título]. [Año]. Disponible en: [URL]
-```
+---
 
-**Urls válidas**:
-- BNE: https://www.bne.es
-- BVMC: https://bvpb.mcu.es
-- Gallica: https://gallica.bnf.fr
-- Internet Archive: https://archive.org
+## 9. FUENTES CONSULTADAS
+
+### Catálogos internacionales
 - VIAF: https://viaf.org
 - USTC: https://ustc.ac.uk
+- GW: https://gesamtkatalogderwiegendrucke.de
+
+### Bibliotecas españolas
+- BNE: https://www.bne.es
+- CCPB: https://bvpb.mcu.es
+- Biblioteca CLM: https://patrimoniodigital.castillalamancha.es
+
+### Bibliotecas digitales
+- Gallica: https://gallica.bnf.fr
+- Biblioteca Virtual Miguel de Cervantes: https://www.cervantesvirtual.com
+
+### Referencias académicas
+- Cirot, G. *Mariana historien: études sur l'historiographie espagnole*. Burdeos: Feret & Fils, 1905.
 
 ---
 
-*Memoria actualizada: 14 de abril de 2026*  
-*TFG Juan de Mariana - Análisis Historiográfico de las Fuentes*
+## 10. DOCUMENTOS GENERADOS
+
+| Documento | Contenido |
+|-----------|-----------|
+| `AUTORES_CONSOLIDADO.md` | Tabla maestra con verificación completa |
+| `LISTA_AUTORES_VERIFICADOS.md` | Lista con VIAF IDs y referencias cruzadas |
+| `VERIFICACION_SISTEMATICA.md` | Datos brutos de búsquedas |
+| `FASE9_BIBLIOTECA_CLM_VERIFICACION_COMPLETA.md` | Verificación en Toledo |
+
+---
+
+*Memoria actualizada: Abril 2026*  
+*TFG Juan de Mariana*
