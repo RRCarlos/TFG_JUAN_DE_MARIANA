@@ -12,6 +12,22 @@ Este repositorio contiene la documentación del Trabajo de Fin de Grado sobre la
 
 ## Estructura del proyecto
 
+```
+TFG_JUAN_DE_MARIANA/
+├── README.md
+├── .gitignore
+├── docs/                    ← Documentación académica
+│   ├── MEMORIA.md
+│   ├── AUTORES_CONSOLIDADO.md
+│   ├── CONTEXTO_OPENCODE.md
+│   ├── FASE9_BIBLIOTECA_CLM_VERIFICACION_COMPLETA.md
+│   ├── LISTA_AUTORES_VERIFICADOS.md
+│   └── VERIFICACION_SISTEMATICA.md
+└── data/                    ← Datos o archivos generados
+```
+
+### Documentación (`docs/`)
+
 | Documento | Descripción |
 |-----------|-------------|
 | `MEMORIA.md` | Documento principal con metodología y resultados |
