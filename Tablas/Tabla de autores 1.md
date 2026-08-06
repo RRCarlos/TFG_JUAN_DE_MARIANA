@@ -1,6 +1,6 @@
 # Tabla de autores 1
 
-Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Historia General de España* (edición de 1601). Cada fila indica una aparición concreta del autor, ordenada por libro y capítulo. Las filas marcadas con * fueron añadidas en la revisión de julio 2026. La columna **Cita** reproduce el pasaje original del OCR sin normalizar. La columna **Cita normalizada** aplica ortografía moderna (s larga→s, espacios) con revisión manual pendiente. La columna **Contexto** describe brevemente el contexto historiográfico de cada cita.
+Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Historia General de España* (edición de 1601). Cada fila indica una aparición concreta del autor, ordenada por libro y capítulo. Las filas marcadas con * fueron añadidas en la revisión de julio 2026. La columna **Cita** reproduce el pasaje original del OCR sin normalizar. La columna **Cita normalizada** aplica ortografía moderna (s larga→s, espacios) con revisión manual pendiente. La columna **Contexto** describe brevemente el contexto historiográfico de cada cita. Verificación manual en proceso; se ha completado la revisión exhaustiva de numeración, correcciones y resumen (213 filas iniciales + 2 añadidas). La revisión entrada por entrada va por la entrada 45 (Aristóteles, cap. XVII); en la numeración del usuario equivale a la 40, con desfase de +5 por los añadidos y correcciones de las rondas anteriores.
 
 ## Libro Primero
 
@@ -68,7 +68,7 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | 55 | Dionisio de Halicarnaso | II | 96 | miÃ³ hombres y ganados fin numero y fin cuento. Hizicron menciÃ³defea plaga Thucidides,Tito Liuio,y DionyfioHalicarnaÃ­feo ,y aun nueftras 50 Ã­iiftorias atribuyen la caufa defta mortandad ala fequedad del ayre. Pero | murieron hombres y ganados sin nÃºmero y sin cuenta. Hicieron menciÃ³n de esta plaga TucÃ­dides, Tito Livio, y Dionisio de Halicarnaseo, y aun nuestras historias atribuyen la causa de esta mortandad a la sequedad del aire. Pero | CicerÃ³n cita a Dionisio sobre la peste antigua |
 | 56 | Tito Livio | II | 96 | miÃ³ hombres y ganados fin numero y fin cuento. Hizicron menciÃ³defea plaga Thucidides,Tito Liuio,y DionyfioHalicarnaÃ­feo ,y aun nueftras 50 Ã­iiftorias atribuyen la caufa defta mortandad ala fequedad del ayre. Pero | murieron hombres y ganados sin nÃºmero y sin cuenta. Hicieron menciÃ³n de esta plaga TucÃ­dides, Tito Livio, y Dionisio de Halicarnaseo, y aun nuestras historias atribuyen la causa de esta mortandad a la sequedad del aire. Pero | CicerÃ³n cita a Tito Livio sobre la peste antigua |
 | 57 | Tucides | II | 96 | miÃ³ hombres y ganados fin numero y fin cuento. Hizicron menciÃ³defea plaga Thucidides,Tito Liuio,y DionyfioHalicarnaÃ­feo ,y aun nueftras 50 Ã­iiftorias atribuyen la caufa defta mortandad ala fequedad del ayre. Pero | murieron hombres y ganados sin nÃºmero y sin cuenta. Hicieron menciÃ³n de esta plaga TucÃ­dides, Tito Livio, y Dionisio de Halicarnaseo, y aun nuestras historias atribuyen la causa de esta mortandad a la sequedad del aire. Pero | CicerÃ³n cita a Tucides sobre la peste antigua |
-| 58 | HipÃ³crates | II | 98 | Ã­iiftorias atribuyen la caufa defta mortandad ala fequedad del ayre. Pero Hippocrates que viuio por el mifmotiÃ©po,affirma q para librar a Thefia- liadefta pefte,hizo el quemarlos montes y bofques de aquella tierra. Lo | historias atribuyen la causa de esta mortandad a la sequedad del aire. Pero HipÃ³crates que viviÃ³ por el mismo tiempo, afirma que para librar a Tesalia de esta peste, hizo el quemar los montes y bosques de aquella tierra. Lo | HipÃ³crates: remedio contra la peste antigua (quema de montes y bosques en Tesalia) |
+| 58 | Hipócrates | II | 98 | Ã­iiftorias atribuyen la caufa defta mortandad ala fequedad del ayre. Pero Hippocrates que viuio por el mifmotiÃ©po,affirma q para librar a Thefia- liadefta pefte,hizo el quemarlos montes y bofques de aquella tierra. Lo | historias atribuyen la causa de esta mortandad a la sequedad del aire. Pero HipÃ³crates que viviÃ³ por el mismo tiempo, afirma que para librar a Tesalia de esta peste, hizo el quemar los montes y bosques de aquella tierra. Lo | HipÃ³crates: remedio contra la peste antigua (quema de montes y bosques en Tesalia) |
 | 59 | Aristoteles | II | 301 | con su flota dieron la bueltados quales llegados a Carthago, dieron auifo al senado de todo. Ariftotelesdize, que tratado elnegocio en el senado, acorÂ¬ daron | con su flota dieron la vuelta, los cuales llegados a Cartago, dieron aviso al senado de todo. AristÃ³teles dice, que tratado el negocio en el senado, acordaron | AristÃ³teles: Cartago oculta el descubrimiento |
 | 60 | Eusebio de Cesarea | III | 361 | fe profeguia c5 varios trances y fucceÃ­los,halla tanto q vltimamente el aÃ±o diez y feys defpues que fe comenco, que a la cuentade Eufebio dÃ©la fun- $ 8 6 daciÃ³n de Roma fue eldetrezientosy ochenta y feys,o como otros mejor | se prosiguiÃ³ con varios trances y sucesos, halla tanto que Ãºltimamente el aÃ±o diez y seis despuÃ©s que se comenzÃ³, que a la cuenta de Eusebio de la fundaciÃ³n de Roma fue de trescientos ochenta y seis, o como otros mejor | Eusebio: cÃ¡lculo cronolÃ³gico |
 | 61 | Orosio | V | 507 | bertad de aquella prouincia.El principalde laembaxadafe llamÃ³ Maurlno, Ã­egun fe lee en Paulo Orofio.elqual de camino juntandofeconlosembaxa dores de la Gallia que hazian el mifmo viaje,vltimamente llegÃ³ a Babylo- | bertad de aquella provincia. El principal de la embajada se llamÃ³ Maurino, segÃºn se lee en Paulo Orosio, el cual de camino juntÃ¡ndose con los embajadores de la Galia que hacÃ­an el mismo viaje, Ãºltimamente llegÃ³ a Babilonia | Orosio: embajada espaÃ±ola a Alejandro |
@@ -261,14 +261,14 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | *Antonio de Nebrija | 1 | III | Verificación arqueológica de la Vía de la Plata |
 | *Antonino | 1 | I | Itinerario geográfico, fuentes de viajeros |
 | Aristóteles | 3 | I, II | Costumbres funerarias hispanas, política cartaginesa, fenicios en el estrecho de Cádiz |
-| Arriano | 2 | I, II | Topografía de la costa africana, crónicas de Alejandro Magno y embajadas |
+| Arriano | 2 | II | Topografía de la costa africana, crónicas de Alejandro Magno y embajadas |
 | *Appiano | 5 | I, III | Conquista romana de Hispania, guerras numantinas, sitio de Numancia, ubicación de Segeda en la Celtiberia |
 | *Aulo Gelio | 1 | II | Campañas militares de Catón contra Numancia |
 | *Beda | 1 | IV | Cronología apostólica (predicación de Pablo en Narbona) |
 | Braulio de Zaragoza | 1 | IV | Hagiografía de Santa Leocadia |
 | *Claudiano | 1 | IV | Poesía épica, batalla de Frígido (394) |
 | Cayo Julio Solino | 3 | I | Etnografía antigua, fundaciones de ciudades (Valencia, Tarragona), mitología de Ultramediterráneo |
-| Cayo Silio Italico | 6 | I, II, IV | Guerras púnicas en Hispania (Córdoba), biografía imperial (Nerón), consulado, longevidad de Argantonio |
+| Cayo Silio Italico | 6 | I, II, III, IV | Guerras púnicas en Hispania (Córdoba), biografía imperial (Nerón), consulado, longevidad de Argantonio |
 | Cayo Suetonio Tranquilo | 3 | I, IV | Religiones antiguas (templo de los Gériones), persecuciones imperiales (Domiciano) |
 | *Casiodoro | 1 | IV | Sobrenombre Magnus de Pompeyo, cita conjunta con Tertuliano |
 | Cicerón | 4 | III | Retórica y elocuencia, biografías de oradores hispanos, etimología de «Era», costumbres de pueblos |
@@ -291,7 +291,7 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | Floro | 1 | III | Guerras civiles en Hispania |
 | Gregorio Giraldo | 1 | IV | Biografía de Silio Itálico y su patria |
 | Heródoto | 1 | I | Curiosidades etnográficas (derrota asiria por ratones) |
-| *Hilderico | 1 | IV | Fuente sobre la cronologia de la Era, de nacion Frances, contemporaneo de San Isidoro |
+| *Hilderico | 1 | III | Fuente sobre la cronologia de la Era, de nacion Frances, contemporaneo de San Isidoro |
 | Hipócrates | 1 | II | Remedio contra la peste antigua (quema de montes y bosques en Tesalia) |
 | Juan de Mariana | 2 | III, IV | Autoreferencias a su *Historiae de Rebus Hispaniae* (1592): inscripción de Sertorio (Ébora) y epístola de Vespasiano (Sabora). Función metodológica, no de autoridad factual. |
 | *Juan Margarite | 1 | III | Discrepancia sobre la Era del César (Mariana lo corrige). Obispo de Gerona, citado en la edición de 1601. |
@@ -310,7 +310,7 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | Pietro Ricci (Crinito) | 2 | IV | Biografía de Silio Itálico, erudición literaria |
 | Plinio | 20 | I, II, III, IV | Geografía de Hispania, flora y fauna, costumbres púnicas y romanas, etnografía, datos numéricos |
 | Plutarco | 9 | I, II, III, IV | Biografías comparadas, etimología, costumbres, enfermedades, guerras civiles, Clunia/Colonia |
-| Pomponio Mela | 2 | I, III | Geografía costera de Galicia, monumentos augustales |
+| Pomponio Mela | 2 | I, IV | Geografía costera de Galicia, monumentos augustales |
 | Poggio Florentín | 1 | IV | Recuperación de las *Instituciones oratorias* de Quintiliano |
 | Procopio | 2 | IV | Usurpaciones imperiales, historia bizantina tardía |
 | Prospero de Aquitania | 1 | IV | Cronología del saqueo de Roma (410) |
@@ -325,7 +325,7 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | San Isidoro de Sevilla | 7 | I, III, IV | Etimología, división provincial de Hispania, erudición enciclopédica, fuentes visigodas |
 | San Lucas | 2 | IV | Hechos apostólicos (Agripa), martirio de Santiago |
 | *Severo Sulpicio | 1 | IV | Crónica eclesiástica, excomunión de Priscilianos |
-| Seneca | 7 | III, IV | Retórica hispana, destierro, oradores españoles, muerte bajo Nerón, filosofía |
+| Seneca | 7 | IV | Retórica hispana, destierro, oradores españoles, muerte bajo Nerón, filosofía |
 | Sexto Rufo | 1 | I | División constantiniana de Hispania en tres provincias |
 | Sigiberto de Gembloux | 1 | IV | Discrepancias sobre sedes episcopales (Lamego vs. Empañas) |
 | Tacito | 1 | IV | Religión romana, prodigios (ave fénix) |
@@ -338,4 +338,4 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | Valerio Máximo | 1 | II | Ejempla morales, hechos memorables (Mancino) |
 | Virgilio | 2 | I, III | Eneida, mitos fundacionales (Hércules), geografía, referente literario de la hispanidad |
 
-**Total de autores distintos: 84 (83 fuentes externas + 1 autoreferencias de Juan de Mariana)**
+**Total de autores distintos: 83 (82 fuentes externas + 1 autoreferencias de Juan de Mariana)**
