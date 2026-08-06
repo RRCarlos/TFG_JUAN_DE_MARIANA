@@ -339,3 +339,16 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | Virgilio | 2 | I, III | Eneida, mitos fundacionales (Hércules), geografía, referente literario de la hispanidad |
 
 **Total de autores distintos: 83 (82 fuentes externas + 1 autoreferencias de Juan de Mariana)**
+
+## Autores y Obras
+
+Menciones explícitas de Mariana de un autor junto con la obra de la que extrae la información. Sección limitada a las entradas ya revisadas (1–45).
+
+| Autores | Obras |
+|---|---|
+| Antonino | *Itinerario* |
+| Filón de Biblos | *Historia de los Fenicios* |
+| Florián de Ocampo | *Su historia* |
+| Josefo | *Antigüedades* |
+| Platón | *Timeo* |
+| Plinio | *Historia Natural* |
