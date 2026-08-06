@@ -236,6 +236,7 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | 213 | Orosio | XXI | 3160 | conforme a la cuenta mas acertada: dado q Paulo Orofio y Profpero Aqui- tanico,aefte numeroparcce añadendos años. En aquella ciudad prendiero | conforme a la cuenta mas acertada: dado que Paulo Orosio y Prospero Aquitano, a este numero parece anadir dos anos. En aquella ciudad prendiero- | Orosio: discrepancia de dos años |
 | 214 | Prospero de Aquitania | XXI | 3160 | conforme a la cuenta mas acertada: dado q Paulo Orofio y Profpero Aqui- tanico,aefte numeroparcce añadendos años. En aquella ciudad prendiero | conforme a la cuenta mas acertada: dado que Paulo Orosio y Prospero Aquitano, a este numero parece anadir dos anos. En aquella ciudad prendiero- | Prospero: misma discrepancia cronológica |
 | 215 | San Ildefonso de Toledo | XX | 3077 | Afturio,elqual firmó en elfextolugar,era ala facón obifpo de Toledo,y q es aquelde quien teílifica fanlllcfonfo en fusclaros varones, que halló los <io cuerpos de losfantos martyres IuftoyPaftoren Alcala deHenares, do pa¬ | Asturio, el cual firmo en el sexto lugar, era a la sazon obispo de Toledo, y que es aquel de quien testifica San Ildefonso en sus claros varones, que hallo los sanctos cuerpos de los santos martires Justo y Pastor en Alcala de Henares, do pa- | San Ildefonso: Varones ilustres de Toledo - hallazgo de Justo y Pastor en Alcalá |
+
 **Total de apariciones (fuentes externas): 215**
 
 ## Autoreferencias de Juan de Mariana
