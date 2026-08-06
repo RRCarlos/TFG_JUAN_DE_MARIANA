@@ -1,6 +1,8 @@
 # Relación de datos
 
-Análisis cuantitativo de las citas a autores en los Libros I–IV de la *Historia General de España* de Juan de Mariana (edición de 1601). Fuente: [Tabla de autores 1](../Tablas/Tabla%20de%20autores%201.md) (215 entradas, 81 autores únicos).
+Análisis cuantitativo de las citas a autores en los Libros I–IV de la *Historia General de España* de Juan de Mariana (edición de 1601). Fuente: [Tabla de autores 1](../Tablas/Tabla%20de%20autores%201.md) (215 entradas, 83 autores únicos).
+
+> **Nota de estado:** el proyecto se encuentra en fase de **verificación manual** de la tabla de autores (la revisión de entradas actualmente va por la 45). Las cifras de este documento son provisionales y pueden variar al completarse la revisión.
 
 ---
 
@@ -9,17 +11,17 @@ Análisis cuantitativo de las citas a autores en los Libros I–IV de la *Histor
 | Métrica | Valor |
 |---------|-------|
 | Total de apariciones (citas) | 215 |
-| Autores únicos | 81 |
+| Autores únicos | 83 (82 externos + 1 autoreferencia de Juan de Mariana) |
 | Libros cubiertos | 4 (I–IV) |
 | Capítulos con al menos 1 cita | 69 de 93 totales |
-| Autores que suponen el 50 % de las citas | 13 de 81 (16,0 %) |
+| Autores que suponen el 50 % de las citas | 13 de 82 (15,9 %) |
 | Autor más citado | Plinio (20 citas, 9,3 %) |
-| Libro con más citas | Libro Cuarto (78 citas, 36,3 %) |
-| Libro con más autores únicos | Libro Cuarto (44 autores) |
-| Autores citados en 3+ libros | 7 de 81 (8,6 %) |
-| Autores de una sola aparición | 44 de 81 (54,3 %) |
+| Libro con más citas | Libro Cuarto (82 citas, 38,1 %) |
+| Libro con más autores únicos | Libro Cuarto (46 autores) |
+| Autores citados en 3+ libros | 8 de 82 (9,8 %) |
+| Autores de una sola aparición | 46 de 82 (56,1 %) |
 
-Los 10 autores más citados (12,3 % del total) suman 94 apariciones, el 43,7 % del total. Los 20 primeros (24,7 %) suman 133 citas, el 61,9 %.
+Los 10 autores más citados (12,2 % del total) suman 94 apariciones, el 43,7 % del total. Los 20 primeros (24,4 %) suman 133 citas, el 61,9 %.
 
 ---
 
@@ -31,41 +33,41 @@ Los 10 autores más citados (12,3 % del total) suman 94 apariciones, el 43,7 % d
 |------|-------|-------------|-------------|--------|-----------|
 | 1 | Plinio | 20 | 9,3 % | I, II, III, IV | Geógrafo/enciclopedista |
 | 2 | Claudio Ptolomeo | 14 | 6,5 % | I, II, III, IV | Geógrafo |
-| 3 | Marco Varrón | 11 | 5,1 % | I, II, III, IV | Erudito/gramático |
-| 4 | Dion Casio | 8 | 3,7 % | III, IV | Historiador |
-| 5 | Plutarco | 8 | 3,7 % | I, II, III, IV | Biógrafo/moralista |
-| 6 | Cicerón | 7 | 3,3 % | III, IV | Filósofo/orador |
-| 7 | San Isidoro de Sevilla | 7 | 3,3 % | I, III, IV | Polígrafo eclesiástico |
-| 8 | Séneca | 7 | 3,3 % | III, IV | Filósofo/orador |
+| 3 | Marco Varrón | 11 | 5,1 % | I, II, III | Erudito/gramático |
+| 4 | Plutarco | 9 | 4,2 % | I, II, III, IV | Biógrafo/moralista |
+| 5 | Dion Casio | 8 | 3,7 % | III, IV | Historiador |
+| 6 | San Isidoro de Sevilla | 7 | 3,3 % | I, III, IV | Polígrafo eclesiástico |
+| 7 | Séneca | 7 | 3,3 % | IV | Filósofo/orador |
+| 8 | Cayo Silio Italico | 6 | 2,8 % | I, II, III, IV | Poeta épico |
 | 9 | Prudencio | 6 | 2,8 % | IV | Poeta cristiano |
 | 10 | Tito Livio | 6 | 2,8 % | I, II, IV | Historiador |
 | 11 | Apiano | 5 | 2,3 % | I, III | Historiador |
-| 12 | Cayo Silio Italico | 5 | 2,3 % | II, IV | Poeta épico |
-| 13 | Estrabón | 5 | 2,3 % | I, III | Geógrafo |
-| 14 | Quintiliano | 5 | 2,3 % | IV | Retórico |
-| 15 | Polibio | 4 | 1,9 % | I, II | Historiador |
-| 16 | Amiano Marcelino | 3 | 1,4 % | IV | Historiador |
-| 17 | Aristóteles | 3 | 1,4 % | I, II | Filósofo |
-| 18 | Cayo Julio Solino | 3 | 1,4 % | I | Compilador |
-| 19 | Cayo Suetonio Tranquilo | 3 | 1,4 % | I, IV | Biógrafo |
-| 20 | Diodoro Sículo | 3 | 1,4 % | I | Historiador |
-| 21 | Eusebio Cesariense | 3 | 1,4 % | IV | Eclesiástico |
-| 22 | Justino | 3 | 1,4 % | I | Epitomador |
+| 12 | Estrabón | 5 | 2,3 % | I, III | Geógrafo |
+| 13 | Quintiliano | 5 | 2,3 % | IV | Retórico |
+| 14 | Cicerón | 4 | 1,9 % | III | Filósofo/orador |
+| 15 | Justino | 4 | 1,9 % | I | Epitomador |
+| 16 | Polibio | 4 | 1,9 % | I, II | Historiador |
+| 17 | Amiano Marcelino | 3 | 1,4 % | IV | Historiador |
+| 18 | Aristóteles | 3 | 1,4 % | I, II | Filósofo |
+| 19 | Cayo Julio Solino | 3 | 1,4 % | I | Compilador |
+| 20 | Cayo Suetonio Tranquilo | 3 | 1,4 % | I, IV | Biógrafo |
+| 21 | Diodoro Sículo | 3 | 1,4 % | I | Historiador |
+| 22 | Eusebio Cesariense | 3 | 1,4 % | IV | Eclesiástico |
 | 23 | Moro Rasis | 3 | 1,4 % | III, IV | Historiador árabe |
 | 24 | Orosio | 3 | 1,4 % | II, III, IV | Cronista cristiano |
 | 25–36 | 12 autores con 2 apariciones | 24 | 11,2 % | — | Varios |
-| 37–80 | 44 autores con 1 aparición | 44 | 20,5 % | — | Varios |
+| 37–82 | 46 autores con 1 aparición | 46 | 21,4 % | — | Varios |
 
 ### 2.2 Curva de concentración (Pareto)
 
 | Grupo | Autores | % de autores | Citas | % de citas |
 |-------|---------|-------------|-------|------------|
-| Top 5 | Plinio, Ptolomeo, Varrón, Dion, Plutarco | 6,2 % | 61 | 28,4 % |
-| Top 10 | + Cicerón, Isidoro, Séneca, Prudencio, T. Livio | 12,3 % | 94 | 43,7 % |
-| Top 15 | + Apiano, Silio, Estrabón, Quintiliano, Polibio | 18,5 % | 118 | 54,9 % |
-| Top 20 | + Amiano, Aristóteles, Solino, Suetonio, Diodoro | 24,7 % | 133 | 61,9 % |
-| Top 24 | + Eusebio, Justino, Moro Rasis, Orosio | 29,6 % | 145 | 67,4 % |
-| Todos (81) | – | 100 % | 215 | 100 % |
+| Top 5 | Plinio, Ptolomeo, Varrón, Plutarco, Dion | 6,1 % | 62 | 28,4 % |
+| Top 10 | + San Isidoro, Séneca, Silio, Prudencio, T. Livio | 12,2 % | 94 | 43,7 % |
+| Top 15 | + Apiano, Estrabón, Quintiliano, Cicerón, Justino | 18,3 % | 117 | 54,4 % |
+| Top 20 | + Polibio, Amiano, Aristóteles, Solino, Suetonio | 24,4 % | 133 | 61,9 % |
+| Top 24 | + Diodoro, Eusebio Cesariense, Moro Rasis, Orosio | 29,3 % | 145 | 67,4 % |
+| Todos (82) | – | 100 % | 215 | 100 % |
 
 ---
 
@@ -75,11 +77,11 @@ Los 10 autores más citados (12,3 % del total) suman 94 apariciones, el 43,7 % d
 
 | Libro | Entradas | % | Autores únicos | Densidad (citas/capítulo) |
 |-------|----------|---|----------------|--------------------------|
-| Libro Primero | 49 | 22,8 % | 27 | 2,2 |
+| Libro Primero | 50 | 23,3 % | 29 | 2,3 |
 | Libro Segundo | 30 | 14,0 % | 17 | 1,2 |
-| Libro Tercero | 56 | 26,0 % | 23 | 2,3 |
-| Libro Cuarto | 78 | 36,3 % | 44 | 3,7 |
-| **Total** | **213** | **100 %** | **81** | **2,3** |
+| Libro Tercero | 53 | 24,7 % | 21 | 2,2 |
+| Libro Cuarto | 82 | 38,1 % | 46 | 3,9 |
+| **Total** | **215** | **100 %** | **82** | **2,3** |
 
 ### 3.2 Capítulos más densos en citas
 
@@ -126,29 +128,30 @@ De los 93 capítulos totales, 24 no tienen entrada alguna en la tabla de autores
 
 | Libros citados | Autores | % | Autores |
 |----------------|---------|---|---------|
-| 4 libros | 3 | 3,7 % | Plinio, Ptolomeo, Plutarco |
+| 4 libros | 4 | 4,9 % | Plinio, Ptolomeo, Plutarco, Cayo Silio Italico |
 | 3 libros | 4 | 4,9 % | San Isidoro, Marco Varrón, Tito Livio, Orosio |
-| 2 libros | 14 | 17,3 % | Dion, Séneca, Apiano, Silio, Polibio, Prudencio, Suetonio, Eusebio(s), Lucano, Mela, Crinito, Amiano, San Agustín, etc. |
-| 1 libro | 59 | 72,8 % | Los demás (incl. Juan Margarite) |
+| 2 libros | 11 | 13,4 % | Dion, Apiano, Polibio, Estrabón, Suetonio, Lucano, Mela, Aristóteles, Moro Rasis, Virgilio, Rufo Festo |
+| 1 libro | 63 | 76,8 % | Los demás |
 
 ### 4.2 Autores citados en los 4 libros
 
 | Autor | LI | LII | LIII | LIV | Total |
 |-------|-----|------|------|-----|-------|
-| Plinio | 9 | 4 | 5 | 2 | 20 |
-| Ptolomeo | 5 | 3 | 5 | 1 | 14 |
-| Plutarco | 1 | 2 | 3 | 2 | 8 |
+| Plinio | 7 | 6 | 4 | 3 | 20 |
+| Ptolomeo | 3 | 2 | 7 | 2 | 14 |
+| Plutarco | 2 | 1 | 4 | 2 | 9 |
+| Cayo Silio Italico | 1 | 1 | 1 | 3 | 6 |
 
-Marco Varrón aparece en 3 libros (I, II, III) con 11 citas y 0 en LIV. San Isidoro (7 citas en II, III, IV) y Tito Livio (6 citas en I, III, IV) también aparecen en múltiples libros.
+Marco Varrón aparece en 3 libros (I, II, III) con 11 citas y 0 en LIV. San Isidoro (7 citas en I, III, IV) y Tito Livio (6 citas en I, II, IV) también aparecen en múltiples libros.
 
 ### 4.3 Autores de un solo libro
 
 | Libro | Autores exclusivos | Ejemplos |
 |-------|-------------------|----------|
-| I | 12 | Platón, Heródoto, Filón, Festo Pompeyo, Fabio Pictor |
-| II | 6 | Tucides, Rufo Festo, Valerio Máximo, Aulo Gelio |
-| III | 8 | Nebrija, Tertuliano, Andrea de' Bardi, Floro, Ambrosio de Morales, Juan Margarite |
-| IV | 23 | Prudencio, Quintiliano, Amiano, Procopio, San Basilio, Claudiano, San Jerónimo, Trebellio Polión, San Agustín |
+| I | 14 | Platón, Heródoto, Filón de Biblos, Festo Pompeyo, Fabio Pictor, Justino, Diodoro Sículo, Cayo Julio Solino, Sexto Rufo, Florián de Ocampo, Anaxiteonte, Antonino, Falso Beroso, Tito Flavio Josefo |
+| II | 7 | Arriano, Aulo Gelio, Dionisio de Halicarnaso, Hipócrates, Tucides, Valerio Máximo, Eusebio de Cesarea |
+| III | 8 | Cicerón, Floro, Tertuliano, Hilderico, Juan Margarite, Antonio de Nebrija, Andrea de' Bardi, Ambrosio de Morales |
+| IV | 34 | Prudencio, Quintiliano, Amiano Marcelino, Procopio, San Basilio, Claudiano, San Jerónimo, Trebellio Polión, San Agustín, Séneca, Tacito, Casiodoro, Beda, Columela, etc. |
 
 ---
 
@@ -194,6 +197,8 @@ Plinio y Cicerón nunca aparecen juntos en la misma línea OCR.
 
 ### 6.1 Clasificación por disciplina
 
+> **Nota:** la asignación de autores a categorías es provisional y está pendiente de la revisión manual completa. Los recuentos por autor (columna Apariciones) sí proceden de la tabla verificada.
+
 | Categoría | Autores | Apariciones | % |
 |-----------|---------|-------------|---|
 | Historiadores | 15 | 55 | 25,6 % |
@@ -209,17 +214,19 @@ Plinio y Cicerón nunca aparecen juntos en la misma línea OCR.
 
 ### 6.2 Detalle por categoría
 
-**Historiadores (55 apariciones):** Tito Livio (5), Dion (8), Polibio (4), Apiano (5), Estrabón (5), Amiano (3), Arriano (2), Floro (1), Justino (3), Orosio (3), Diodoro (3), Procopio (2), Moro Rasis (3), Rufo Festo (1), Severo Sulpicio (1)
+> **Nota:** mismo criterio que en 6.1: la asignación es provisional y los totales por categoría pueden no coincidir entre 6.1 y 6.2 hasta completar la revisión. Los recuentos por autor sí proceden de la tabla verificada.
 
-**Geógrafos (41):** Plinio (20), Ptolomeo (14), Mela (2), Antonino (1), plus las citas geográficas dentro de otros autores.
+**Historiadores:** Tito Livio (6), Dion (8), Polibio (4), Apiano (5), Estrabón (5), Amiano (3), Arriano (2), Floro (1), Justino (4), Orosio (3), Diodoro (3), Procopio (2), Moro Rasis (3), Rufo Festo (2), Severo Sulpicio (1).
 
-**Filósofos/oradores (21):** Cicerón (7), Séneca (7), Aristóteles (3), Platón (1), Tertuliano (1), plus menciones secundarias.
+**Geógrafos:** Plinio (20), Ptolomeo (14), Mela (2), Antonino (1), plus las citas geográficas dentro de otros autores.
 
-**Poetas/literatos (17):** Prudencio (6), Silio (5), Lucano (2), Virgilio (2), Claudiano (1), Ovidio (1).
+**Filósofos/oradores:** Cicerón (4), Séneca (7), Aristóteles (3), Platón (1), Tertuliano (1), plus menciones secundarias.
 
-**Eclesiásticos (31):** San Isidoro (7), San Agustín (2), Eusebio Cesariense (3), Eusebio Capadocia (2), San Basilio (2), Eusebio Nicomedia (1), Eusebio Vercelli (1), Braulio (1), San Lucas (2), San Gregorio Nacianceno (1), Beda (1), Pelayo (1), Nicéforo (1), Prospero (1), Usuardo (1), Prudencio (6), Juan Margarite (1).
+**Poetas/literatos:** Prudencio (6), Silio (6), Lucano (2), Virgilio (2), Claudiano (1), Ovidio (1).
 
-**Compiladores/eruditos (20):** Varrón (11), Solino (3), Suetonio (3), Plutarco (8).
+**Eclesiásticos:** San Isidoro (7), San Agustín (2), Eusebio Cesariense (3), Eusebio Capadocia (2), San Basilio (2), Eusebio Nicomedia (1), Eusebio Vercelli (1), Braulio (1), San Lucas (2), San Gregorio Nacianceno (1), Beda (1), Pelayo (1), Nicéforo (1), Prospero (1), Usuardo (1), Prudencio (6), Juan Margarite (1).
+
+**Compiladores/eruditos:** Varrón (11), Solino (3), Suetonio (3), Plutarco (9).
 
 ### 6.3 Proporción pagano vs. cristiano
 
@@ -430,7 +437,7 @@ Plinio el Viejo → Ptolomeo → Mariana
 
 ## 15. Metodología
 
-- **Fuente primaria:** [Tabla de autores 1.md](../Tablas/Tabla%20de%20autores%201.md) (213 entradas principales + 2 autoreferencias = 215 citas verificadas).
+- **Fuente primaria:** [Tabla de autores 1.md](../Tablas/Tabla%20de%20autores%201.md) (215 entradas principales + 2 autoreferencias = 217 citas verificadas).
 - **Verificación cruzada:** Notas del investigador (`Notas/Apuntes sobre HGE Cap I-IV.txt`) + archivos OCR individuales (`Ediciones_HGE/01_libro_primero.txt` a `04_libro_cuarto.txt`).
 - **Criterio de inclusión:** Solo autores citados explícitamente por Mariana como fuentes o autoridades. Personajes históricos mencionados de pasada se registran en la tabla principal.
 - **Limitaciones:** El OCR contiene corrupciones significativas que pueden ocultar menciones. La tabla refleja las citas encontradas, no necesariamente las totales de la edición completa.
