@@ -44,7 +44,7 @@ Comprender el sistema de citas de Mariana permite:
 
 ### Estado actual del proyecto (Julio 2026)
 
-> **Nota de estado:** el proyecto se encuentra en fase de **verificación manual** de las citas, entrada por entrada (la revisión del Libro Primero está completa, entradas 1–50, y comienza la del Libro Segundo). Las cifras de este documento son provisionales y pueden variar hasta completar la revisión.
+> **Nota de estado:** el proyecto se encuentra en fase de **verificación manual** de las citas, entrada por entrada (la revisión del Libro Primero está completa, entradas 1–54, y comienza la del Libro Segundo). Las cifras de este documento son provisionales y pueden variar hasta completar la revisión.
 
 #### Verificación de autores
 
