@@ -1,6 +1,6 @@
 # Tabla de autores 1
 
-Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Historia General de España* (edición de 1601). Cada fila indica una aparición concreta del autor, ordenada por libro y capítulo. Las filas marcadas con * fueron añadidas en la revisión de julio 2026. La columna **Cita** reproduce el pasaje original del OCR sin normalizar. La columna **Cita normalizada** aplica ortografía moderna (s larga→s, espacios) con revisión manual pendiente. La columna **Contexto** describe brevemente el contexto historiográfico de cada cita. La revisión de entradas actualmente va por la 45.
+Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Historia General de España* (edición de 1601). Cada fila indica una aparición concreta del autor, ordenada por libro y capítulo. Las filas marcadas con * fueron añadidas en la revisión de julio 2026. La columna **Cita** reproduce el pasaje original del OCR sin normalizar. La columna **Cita normalizada** aplica ortografía moderna (s larga→s, espacios) con revisión manual pendiente. La columna **Contexto** describe brevemente el contexto historiográfico de cada cita. La revisión del Libro Primero está completa (entradas 1–50) y comienza la del Libro Segundo.
 
 ## Libro Primero
 
@@ -54,7 +54,7 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | 46 | Tito Livio | XVIII | 2155 | co abaxo de Córdoba pasado el río Guadalquivir tocaba a Sierra Morena, y ocupaba el mediterráneo fasta lo postrero de la Bética. Tito Livio y Polibio nacen los mismos a los Turdulos y Turdetanos, y los más confunden | co abajo de Córdoba pasado el río Guadalquivir tocaba a Sierra Morena, y ocupaba el mediterráneo fasta lo postrero de la Bética. Tito Livio y Polibio nacen los mismos a los Turdulos y Turdetanos, y los más confunden | Tito Livio: Turdulos y Turdetanos |
 | 47 | *Polibio | XVIII | 2155 | co abaxo de Córdoba pasado el río Guadalquivir tocaba a Sierra Morena, y ocupaba el mediterráneo fasta lo postrero de la Bética. Tito Livio y Polibio nacen los mismos a los Turdulos y Turdetanos, y los más confunden | co abajo de Córdoba pasado el río Guadalquivir tocaba a Sierra Morena, y ocupaba el mediterráneo fasta lo postrero de la Bética. Tito Livio y Polibio nacen los mismos a los Turdulos y Turdetanos, y los más confunden | Polibio: Turdulos y Turdetanos (junto con Tito Livio) |
 | 48 | *Festo Pompeyo | XX | 2575 | llamado a Cartago, con color de darle el gobierno de la ciudad, y el cargo y magistrado más principal: el qual como dize Festo Pompeyo, se llamaba | llamado a Cartago, con color de darle el gobierno de la ciudad, y el cargo y magistrado más principal: el cual como dize Festo Pompeyo, se llamaban | Festo Pompeyo: Suffetes en Cartago |
-| 49 | *Rufo Festo | XXI | 2657 | pos: Io que a penas se puede creer de ingenios tan groseros como eran los de aquel tiempo. Rufo Festo que escribió las navegaciones dize, que Guadalquivir entraba en la mar por quatro bocas: los antiguos Geógra | pos: lo que a penas se puede creer de ingenios tan groseros como eran los de aquel tiempo. Rufo Festo que escribió las navegaciones dize, que Guadalquivir entraba en la mar por cuatro bocas: los antiguos Geógra | Rufo Festo: bocas del Guadalquivir |
+| 49 | *Rufo Festo | XXI | 2657 | pos: Io que a penas se puede creer de ingenios tan groseros como eran los de aquel tiempo. Rufo Festo que escribió las navegaciones dize, que Guadalquivir entraba en la mar por quatro bocas: los antiguos Geógra | pos: lo que a penas se puede creer de ingenios tan groseros como eran los de aquel tiempo. Rufo Festo que escribió las navegaciones dize, que Guadalquivir entraba en la mar por cuatro bocas: los antiguos Geógra | Rufo Festo: bocas del Guadalquivir (en sus *Navegaciones*, periplo — *Ora Maritima*) |
 | 50 | *Tito Livio | XXI | 2672 | propósito de teñir lanas y paños de negro. En la misma ribera hacia el poniente vieron la ciudad de Iberia, de la qual hizo mención Tito Livio, la qual era del mismo nombre de otra que está assentada en la ribe | propósito de teñir lanas y paños de negro. En la misma ribera hacia el poniente vieron la ciudad de Iberia, de la cual hizo mención Tito Livio, la cual era del mismo nombre de otra que está assentada en la ribe | Tito Livio: ciudad de Iberia |
 
 ## Libro Segundo
@@ -342,7 +342,7 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 
 ## Autores y Obras
 
-Menciones explícitas de Mariana de un autor junto con la obra de la que extrae la información. Sección limitada a las entradas ya revisadas (1–45).
+Menciones explícitas de Mariana de un autor junto con la obra de la que extrae la información. Sección limitada a las entradas ya revisadas (1–50).
 
 | Autores | Obras |
 |---|---|
@@ -352,3 +352,4 @@ Menciones explícitas de Mariana de un autor junto con la obra de la que extrae 
 | Josefo | *Antigüedades* |
 | Platón | *Timeo* |
 | Plinio | *Historia Natural* |
+| Rufo Festo | *Las navegaciones* (periplo — la *Ora Maritima* de Rufo Festo Avieno) |
