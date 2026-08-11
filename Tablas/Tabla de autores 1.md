@@ -1,6 +1,6 @@
 # Tabla de autores 1
 
-Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Historia General de España* (edición de 1601). Cada fila indica una aparición concreta del autor, ordenada por libro y capítulo. Las filas marcadas con * fueron añadidas en la revisión de julio 2026. La columna **Cita** reproduce el pasaje original del OCR sin normalizar. La columna **Cita normalizada** aplica ortografía moderna (s larga→s, espacios) con revisión manual pendiente. La columna **Contexto** describe brevemente el contexto historiográfico de cada cita. La revisión manual está completa hasta la entrada 203 (San Ildefonso, capítulo XXVI del Libro Cuarto).
+Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Historia General de España* (edición de 1601). Cada fila indica una aparición concreta del autor, ordenada por libro y capítulo. Las filas marcadas con * fueron añadidas en la revisión de julio 2026. La columna **Cita** reproduce el pasaje original del OCR sin normalizar. La columna **Cita normalizada** aplica ortografía moderna (s larga→s, espacios) con revisión manual pendiente. La columna **Contexto** describe brevemente el contexto historiográfico de cada cita. La revisión manual está completa (203 de 203 apariciones verificadas contra el OCR de los Libros Primero a Cuarto).
 
 ## Libro Primero
 

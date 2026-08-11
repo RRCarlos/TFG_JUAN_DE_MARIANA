@@ -44,7 +44,7 @@ Comprender el sistema de citas de Mariana permite:
 
 ### Estado actual del proyecto (Agosto 2026)
 
-> **Nota de estado:** el proyecto se encuentra en fase de **verificación manual** de las citas, entrada por entrada (la revisión está completa hasta la entrada 203, correspondiente a San Ildefonso, capítulo XXVI del Libro Cuarto). Las cifras de este documento son provisionales y pueden variar hasta completar la revisión.
+> **Nota de estado:** la **verificación manual** de las citas está **completa** (203 de 203 apariciones de autores externos, más 2 autoreferencias de Mariana, contrastadas con el OCR de los Libros Primero a Cuarto). Las cifras de este documento son definitivas salvo correcciones puntuales.
 
 #### Verificación de autores
 
