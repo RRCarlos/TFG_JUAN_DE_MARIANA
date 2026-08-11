@@ -15,7 +15,7 @@ La pregunta que guía este proyecto es:
 
 No se trata de determinar si Mariana tuvo acceso físico a las obras que menciona, sino de identificar la **función historiográfica** de cada cita dentro de la construcción del relato. Cuando Mariana se refiere a un tema dudoso —reyes fabulosos, genealogías fantásticas, falsificaciones—, suele contrastar varios autores.
 
-El objeto de estudio son **203 citas a fuentes externas y 2 autoreferencias distribuidas en los Libros I–IV**, referenciadas contra la edición de 1601 y clasificadas según su función en el argumento de Mariana.
+El objeto de estudio son **204 citas a fuentes externas y 2 autoreferencias distribuidas en los Libros I–IV**, referenciadas contra la edición de 1601 y clasificadas según su función en el argumento de Mariana.
 
 ---
 
@@ -44,11 +44,11 @@ Comprender el sistema de citas de Mariana permite:
 
 ### Estado actual del proyecto (Agosto 2026)
 
-> **Nota de estado:** la **verificación manual** de las citas está **completa** (203 de 203 apariciones de autores externos, más 2 autoreferencias de Mariana, contrastadas con el OCR de los Libros Primero a Cuarto). Las cifras de este documento son definitivas salvo correcciones puntuales.
+> **Nota de estado:** la **verificación manual** de las citas está **completa** (204 de 204 apariciones de autores externos, más 2 autoreferencias de Mariana, contrastadas con el OCR de los Libros Primero a Cuarto). Las cifras de este documento son definitivas salvo correcciones puntuales.
 
 #### Verificación de autores
 
-Se realizó una verificación exhaustiva de las **203 citas** contra los archivos OCR de la edición de 1601. Además, se hizo un barrido sistemático de los capítulos sin citas en busca de nuevas referencias. Resultados:
+Se realizó una verificación exhaustiva de las **204 citas** contra los archivos OCR de la edición de 1601. Además, se hizo un barrido sistemático de los capítulos sin citas en busca de nuevas referencias. Resultados:
 
 - **Autores verificados como fuentes citadas**: 82 autores externos resultaron ser citaciones genuinas (incluidos Casiodoro, Hilderico, San Ildefonso, San Agustín y Juan Margarite, localizados e indexados en julio de 2026)
 - **Autores no encontrados en el OCR**: 1 autor no aparece como fuente citada en los Libros I–IV (Hernando del Pulgar)
@@ -60,7 +60,7 @@ La tabla principal (`Tabla de autores 1.md`) contiene:
 
 | Columna | Contenido |
 |---------|-----------|
-| # | Número de entrada (1–203) |
+| # | Número de entrada (1–204) |
 | Autor | Nombre del autor tal como aparece en Mariana |
 | Capítulo | Libro y capítulo de la cita |
 | Línea | Línea exacta en el archivo OCR |
@@ -142,7 +142,7 @@ proyecto-autores/
 ├── README.md                          — Bitácora del proyecto
 │
 ├── Tablas/
-│   ├── Tabla de autores 1.md          — Tabla principal: 203 citas con Cita y Contexto
+│   ├── Tabla de autores 1.md          — Tabla principal: 204 citas con Cita y Contexto
 │   ├── Tabla de autores 2.md          — Versión resumida: sin columnas Línea ni Cita
 │   ├── Tabla de autores 2 (PDF).pdf   — Tabla 2 exportada a PDF (vista previa)
 │   └── Tabla de capítulos.md          — Estructura de capítulos de los Libros I–IV
@@ -172,7 +172,7 @@ El análisis completo se encuentra en [`Datos/Relación_de_datos.md`](Datos/Rela
 
 | Métrica | Valor |
 |---------|-------|
-| Total de citas (apariciones) | 203 |
+| Total de citas (apariciones) | 204 |
 | Autores únicos | 82 (81 externos + 1 autoref) |
 | Libros cubiertos | 4 (I–IV) |
 | Capítulos con al menos 1 cita | 69 de 93 |
@@ -211,8 +211,8 @@ El análisis completo se encuentra en [`Datos/Relación_de_datos.md`](Datos/Rela
 | Top 10 | + Tito Livio, Séneca, Prudencio, Silio Italico, Estrabón | 12,2 % | 87 | 42,9 % |
 | Top 15 | + Quintiliano, Apiano, Cicerón, Justino, Polibio | 18,3 % | 109 | 53,7 % |
 | Top 20 | + Aristóteles, Orosio, Amiano, Moro Rasis, Diodoro | 24,4 % | 124 | 61,1 % |
-| Top 24 | + Eusebio Cesariense, Suetonio, Solino, San Basilio | 29,3 % | 135 | 66,5 % |
-| Todos (82) | — | 100 % | 203 | 100 % |
+| Top 24 | + Eusebio Cesariense, Suetonio, Solino, San Basilio | 29,3 % | 135 | 66,2 % |
+| Todos (82) | — | 100 % | 204 | 100 % |
 
 **Interpretación:** Los 24 autores más citados (29,3 % del total) concentran el 66,5 % de las citas. Los 58 autores restantes se reparten entre 1 y 2 apariciones cada uno.
 
@@ -223,8 +223,8 @@ El análisis completo se encuentra en [`Datos/Relación_de_datos.md`](Datos/Rela
 | Libro Primero | 54 | 26,6 % | 30 | 3,0 |
 | Libro Segundo | 26 | 12,8 % | 15 | 1,9 |
 | Libro Tercero | 46 | 22,7 % | 23 | 2,7 |
-| Libro Cuarto | 77 | 37,9 % | 43 | 4,5 |
-| **Total** | **203** | **100 %** | **82** | **3,1** |
+| Libro Cuarto | 77 | 37,7 % | 43 | 4,5 |
+| **Total** | **204** | **100 %** | **82** | **3,1** |
 
 **Interpretación:** El Libro Cuarto concentra la mayor densidad de citas (4,5 por capítulo) y el mayor número de autores únicos (43). El Libro Segundo es el de menor densidad (1,9), con 26 citas de 15 autores.
 
@@ -293,7 +293,7 @@ El análisis completo se encuentra en [`Datos/Relación_de_datos.md`](Datos/Rela
 
 ### 5.10 Mariana como crítico (13 citas)
 
-En 13 de las 203 citas, Mariana no cita para fundamentar, sino para **desacreditar o corregir** a un autor:
+En 13 de las 204 citas, Mariana no cita para fundamentar, sino para **desacreditar o corregir** a un autor:
 
 - **Juan Margarite** (III, XXIIII): Mariana corrige su cálculo sobre la Era del César.
 - **San Agustín** (IV, I): Mariana señala la discrepancia en los nombres de los cónsules del año de fundación de Roma.
@@ -301,7 +301,7 @@ En 13 de las 203 citas, Mariana no cita para fundamentar, sino para **desacredit
 - **Nepote, Floro, Orosio, M. Varrón, Eusebio**: Correcciones o matices en cálculos cronológicos.
 - **Dion, Justino, Plutarco, Tito Livio**: Variantes narrativas o desacuerdos sobre hechos concretos.
 
-**Interpretación:** En 13 de las 203 citas (6,4 %), Mariana corrige o matiza a un autor en lugar de limitarse a transmitir su contenido. El registro de estas correcciones figura en la columna **Contexto** de la tabla.
+**Interpretación:** En 13 de las 204 citas (6,4 %), Mariana corrige o matiza a un autor en lugar de limitarse a transmitir su contenido. El registro de estas correcciones figura en la columna **Contexto** de la tabla.
 
 ---
 
