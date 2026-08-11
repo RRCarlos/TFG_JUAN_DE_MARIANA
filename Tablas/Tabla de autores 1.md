@@ -1,6 +1,6 @@
 # Tabla de autores 1
 
-Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Historia General de España* (edición de 1601). Cada fila indica una aparición concreta del autor, ordenada por libro y capítulo. Las filas marcadas con * fueron añadidas en la revisión de julio 2026. La columna **Cita** reproduce el pasaje original del OCR sin normalizar. La columna **Cita normalizada** aplica ortografía moderna (s larga→s, espacios) con revisión manual pendiente. La columna **Contexto** describe brevemente el contexto historiográfico de cada cita. La revisión del Libro Primero está completa (entradas 1–54) y comienza la del Libro Segundo.
+Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Historia General de España* (edición de 1601). Cada fila indica una aparición concreta del autor, ordenada por libro y capítulo. Las filas marcadas con * fueron añadidas en la revisión de julio 2026. La columna **Cita** reproduce el pasaje original del OCR sin normalizar. La columna **Cita normalizada** aplica ortografía moderna (s larga→s, espacios) con revisión manual pendiente. La columna **Contexto** describe brevemente el contexto historiográfico de cada cita. La revisión manual está completa hasta la entrada 106 (Plutarco, capítulo XXI del Libro Tercero).
 
 ## Libro Primero
 
@@ -249,14 +249,14 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | *Antonio de Nebrija | 1 | III | Verificación arqueológica de la Vía de la Plata |
 | *Antonino | 1 | I | Itinerario geográfico, fuentes de viajeros |
 | Aristóteles | 3 | I, II | Costumbres funerarias hispanas, política cartaginesa, fenicios en el estrecho de Cádiz |
-| Arriano | 2 | II | Topografía de la costa africana, crónicas de Alejandro Magno y embajadas |
+| Arriano | 2 | I, II | Topografía de la costa africana, crónicas de Alejandro Magno y embajadas |
 | *Appiano | 5 | I, III | Conquista romana de Hispania, guerras numantinas, sitio de Numancia, ubicación de Segeda en la Celtiberia |
 | *Aulo Gelio | 1 | II | Campañas militares de Catón contra Numancia |
 | *Beda | 1 | IV | Cronología apostólica (predicación de Pablo en Narbona) |
 | Braulio de Zaragoza | 1 | IV | Hagiografía de Santa Leocadia |
 | *Claudiano | 1 | IV | Poesía épica, batalla de Frígido (394) |
 | Cayo Julio Solino | 3 | I | Etnografía antigua, fundaciones de ciudades (Valencia, Tarragona), mitología de Ultramediterráneo |
-| Cayo Silio Italico | 5 | I, II, III, IV | Guerras púnicas en Hispania (Córdoba), biografía imperial (Nerón), consulado, longevidad de Argantonio |
+| Cayo Silio Italico | 5 | I, II, IV | Guerras púnicas en Hispania (Córdoba), biografía imperial (Nerón), consulado, longevidad de Argantonio |
 | Cayo Suetonio Tranquilo | 3 | I, IV | Religiones antiguas (templo de los Gériones), persecuciones imperiales (Domiciano) |
 | *Casiodoro | 1 | III | Sobrenombre Magnus de Pompeyo, cita conjunta con Tertuliano |
 | Cicerón | 4 | III | Retórica y elocuencia, biografías de oradores hispanos, etimología de «Era», costumbres de pueblos |
@@ -291,14 +291,14 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | *Moro Rasis | 3 | III, IV | Historiador árabe: Mérida (Emerita Augusta), murallas de Toledo, dioceses de Constantino |
 | Nicéforo | 1 | IV | Martirio de Cristóbal |
 | Orosio | 3 | II, III, IV | Cronología universal, embajadas a Alejandro, saqueos de Roma |
-| Ovidio Naso | 1 | IV | Poemas de destierro, referencias a poetas hispanos |
+| Ovidio Naso | 1 | III | Poemas de destierro, referencias a poetas hispanos |
 | *Pelayo obispo de Oviedo | 1 | IV | Historia de la evangelización, discípulos de Santiago |
 | *Platón | 1 | I | Timeo, Atlántides y Cádiz |
 | *Polibio | 4 | I, II | Guerras púnicas, asedio de Sagunto, tácticas militares, Turdulos y Turdetanos |
 | Pietro Ricci (Crinito) | 2 | IV | Biografía de Silio Itálico, erudición literaria |
 | Plinio | 20 | I, II, III, IV | Geografía de Hispania, flora y fauna, costumbres púnicas y romanas, etnografía, datos numéricos |
 | Plutarco | 9 | I, II, III, IV | Biografías comparadas, etimología, costumbres, enfermedades, guerras civiles, Clunia/Colonia |
-| Pomponio Mela | 2 | I, IV | Geografía costera de Galicia, monumentos augustales |
+| Pomponio Mela | 2 | I, III | Geografía costera de Galicia, monumentos augustales |
 | Poggio Florentín | 1 | IV | Recuperación de las *Instituciones oratorias* de Quintiliano |
 | Procopio | 2 | IV | Usurpaciones imperiales, historia bizantina tardía |
 | Prospero de Aquitania | 1 | IV | Cronología del saqueo de Roma (410) |
@@ -313,7 +313,7 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | San Isidoro de Sevilla | 7 | I, III, IV | Etimología, división provincial de Hispania, erudición enciclopédica, fuentes visigodas |
 | San Lucas | 2 | IV | Hechos apostólicos (Agripa), martirio de Santiago |
 | *Severo Sulpicio | 1 | IV | Crónica eclesiástica, excomunión de Priscilianos |
-| Seneca | 7 | IV | Retórica hispana, destierro, oradores españoles, muerte bajo Nerón, filosofía |
+| Seneca | 7 | III, IV | Retórica hispana, destierro, oradores españoles, muerte bajo Nerón, filosofía |
 | Sexto Rufo | 1 | I | División constantiniana de Hispania en tres provincias |
 | Sigiberto de Gembloux | 1 | IV | Discrepancias sobre sedes episcopales (Lamego vs. Empañas) |
 | Tacito | 1 | IV | Religión romana, prodigios (ave fénix) |

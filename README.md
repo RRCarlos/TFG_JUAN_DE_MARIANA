@@ -7,7 +7,7 @@
 
 ## 1. Qué investigamos
 
-Juan de Mariana (1536–1624), jesuita e historiador, publicó en 1601 la primera traducción al castellano de su *Historia General de España* (*Historia General de España, compuesta primero en latín, después vuelta en castellano por Juan de Mariana*). En los cuatro primeros libros —que abarcan desde los orígenes míticos de Hispania hasta la caída del Imperio romano de Occidente—, Mariana recurre a **83 autores distintos (82 fuentes externas + 1 autoreferencia de Juan de Mariana)** para fundamentar su relato.
+Juan de Mariana (1536–1624), jesuita e historiador, publicó en 1601 la primera traducción al castellano de su *Historia General de España* (*Historia General de España, compuesta primero en latín, después vuelta en castellano por Juan de Mariana*). En los cuatro primeros libros —que abarcan desde los orígenes míticos de Hispania hasta la caída del Imperio romano de Occidente—, Mariana recurre a **82 autores distintos (81 fuentes externas + 1 autoreferencia de Juan de Mariana)** para fundamentar su relato.
 
 La pregunta que guía este proyecto es:
 
@@ -15,7 +15,7 @@ La pregunta que guía este proyecto es:
 
 No se trata de determinar si Mariana tuvo acceso físico a las obras que menciona, sino de identificar la **función historiográfica** de cada cita dentro de la construcción del relato. Cuando Mariana se refiere a un tema dudoso —reyes fabulosos, genealogías fantásticas, falsificaciones—, suele contrastar varios autores.
 
-El objeto de estudio son **215 citas a fuentes externas y 2 autoreferencias distribuidas en los Libros I–IV**, referenciadas contra la edición de 1601 y clasificadas según su función en el argumento de Mariana.
+El objeto de estudio son **203 citas a fuentes externas y 2 autoreferencias distribuidas en los Libros I–IV**, referenciadas contra la edición de 1601 y clasificadas según su función en el argumento de Mariana.
 
 ---
 
@@ -42,13 +42,13 @@ Comprender el sistema de citas de Mariana permite:
 - Detectar los casos en que Mariana opera con **escepticismo** (cita para desacreditar) frente a los que opera con **adhesión** (cita para fundamentar).
 - Distinguir entre el uso de **fuentes directas** (ediciones impresas), **transmisión indirecta** (compilaciones medievales) y **fuentes problemáticas** (obras perdidas, falsificaciones).
 
-### Estado actual del proyecto (Julio 2026)
+### Estado actual del proyecto (Agosto 2026)
 
-> **Nota de estado:** el proyecto se encuentra en fase de **verificación manual** de las citas, entrada por entrada (la revisión del Libro Primero está completa, entradas 1–54, y comienza la del Libro Segundo). Las cifras de este documento son provisionales y pueden variar hasta completar la revisión.
+> **Nota de estado:** el proyecto se encuentra en fase de **verificación manual** de las citas, entrada por entrada (la revisión está completa hasta la entrada 106, correspondiente a Plutarco, capítulo XXI del Libro Tercero). Las cifras de este documento son provisionales y pueden variar hasta completar la revisión.
 
 #### Verificación de autores
 
-Se realizó una verificación exhaustiva de las **215 citas** contra los archivos OCR de la edición de 1601. Además, se hizo un barrido sistemático de los capítulos sin citas en busca de nuevas referencias. Resultados:
+Se realizó una verificación exhaustiva de las **203 citas** contra los archivos OCR de la edición de 1601. Además, se hizo un barrido sistemático de los capítulos sin citas en busca de nuevas referencias. Resultados:
 
 - **Autores verificados como fuentes citadas**: 82 autores externos resultaron ser citaciones genuinas (incluidos Casiodoro, Hilderico, San Ildefonso, San Agustín y Juan Margarite, localizados e indexados en julio de 2026)
 - **Autores no encontrados en el OCR**: 1 autor no aparece como fuente citada en los Libros I–IV (Hernando del Pulgar)
@@ -60,7 +60,7 @@ La tabla principal (`Tabla de autores 1.md`) contiene:
 
 | Columna | Contenido |
 |---------|-----------|
-| # | Número de entrada (1–215) |
+| # | Número de entrada (1–203) |
 | Autor | Nombre del autor tal como aparece en Mariana |
 | Capítulo | Libro y capítulo de la cita |
 | Línea | Línea exacta en el archivo OCR |
@@ -69,10 +69,10 @@ La tabla principal (`Tabla de autores 1.md`) contiene:
 | Contexto | Descripción del contexto historiográfico de la cita |
 
 Se incluyen además:
-- **Resumen por autor** (83 autores con temática y frecuencia de aparición)
+- **Resumen por autor** (82 autores con temática y frecuencia de aparición)
 - **Autoreferencias de Juan de Mariana** (2 remisiones a su *Historiae de Rebus Hispaniae* de 1592)
 - **Autores no encontrados** (1 autor sin citas genuinas en el OCR)
-- **Notas sobre la revisión** (2 notas restantes: duplicación OCR en Libro IV (líneas 2580–2593 y 2678–2693), entrada 137 sobre atribución errónea (Silio, marido de Mesalina, no el poeta)
+- **Notas sobre la revisión** (2 notas restantes: duplicación OCR en Libro IV (líneas 2580–2593 y 2678–2693), entrada 134 sobre atribución errónea (Silio, marido de Mesalina, no el poeta)
 
 ---
 
@@ -142,7 +142,7 @@ proyecto-autores/
 ├── README.md                          — Bitácora del proyecto
 │
 ├── Tablas/
-│   ├── Tabla de autores 1.md          — Tabla principal: 215 citas con Cita y Contexto
+│   ├── Tabla de autores 1.md          — Tabla principal: 203 citas con Cita y Contexto
 │   ├── Tabla de autores 2.md          — Versión resumida: sin columnas Línea ni Cita
 │   ├── Tabla de autores 2 (PDF).pdf   — Tabla 2 exportada a PDF (vista previa)
 │   └── Tabla de capítulos.md          — Estructura de capítulos de los Libros I–IV
@@ -172,72 +172,72 @@ El análisis completo se encuentra en [`Datos/Relación_de_datos.md`](Datos/Rela
 
 | Métrica | Valor |
 |---------|-------|
-| Total de citas (apariciones) | 215 |
-| Autores únicos | 83 (82 externos + 1 autoref) |
+| Total de citas (apariciones) | 203 |
+| Autores únicos | 82 (81 externos + 1 autoref) |
 | Libros cubiertos | 4 (I–IV) |
 | Capítulos con al menos 1 cita | 69 de 93 |
-| Autores que acaparan el 50 % de las citas | 13 de 82 (15,9 %) |
-| Autor más citado | Plinio (20 citas, 9,3 %) |
-| Libro con más citas | Libro Cuarto (82 citas, 38,1 %) |
-| Libro con más autores únicos | Libro Cuarto (46 autores) |
-| Autores citados en 3+ libros | 8 de 82 (9,8 %) |
+| Autores que acaparan el 50 % de las citas | 14 de 82 (17,1 %) |
+| Autor más citado | Plinio (20 citas, 9,9 %) |
+| Libro con más citas | Libro Cuarto (77 citas, 37,9 %) |
+| Libro con más autores únicos | Libro Cuarto (43 autores) |
+| Autores citados en 3+ libros | 7 de 82 (8,5 %) |
 | Autores de una sola aparición | 46 de 82 (56,1 %) |
 
 ### 5.2 Ranking de frecuencia — Top 15
 
 | Pos. | Autor | Apariciones | % | Libros | Categoría |
 |------|-------|-------------|---|--------|-----------|
-| 1 | Plinio | 20 | 9,3 % | I–IV | Geógrafo/enciclopedista |
-| 2 | Claudio Ptolomeo | 14 | 6,5 % | I–IV | Geógrafo |
-| 3 | Marco Varrón | 11 | 5,1 % | I–III | Erudito/gramático |
-| 4 | Plutarco | 9 | 4,2 % | I–IV | Biógrafo/moralista |
-| 5 | Dion Casio | 8 | 3,7 % | III, IV | Historiador |
-| 6 | San Isidoro de Sevilla | 7 | 3,3 % | I, III, IV | Polígrafo eclesiástico |
-| 7 | Séneca | 7 | 3,3 % | IV | Filósofo/orador |
-| 8 | Cayo Silio Italico | 6 | 2,8 % | I–IV | Poeta épico |
-| 9 | Prudencio | 6 | 2,8 % | IV | Poeta cristiano |
-| 10 | Tito Livio | 6 | 2,8 % | I, II, IV | Historiador |
-| 11 | Apiano | 5 | 2,3 % | I, III | Historiador |
-| 12 | Estrabón | 5 | 2,3 % | I, III | Geógrafo |
-| 13 | Quintiliano | 5 | 2,3 % | IV | Retórico |
-| 14 | Cicerón | 4 | 1,9 % | III | Filósofo/orador |
-| 15 | Justino | 4 | 1,9 % | I | Historiador |
+| 1 | Plinio | 20 | 9,9 % | I–IV | Geógrafo/enciclopedista |
+| 2 | Claudio Ptolomeo | 13 | 6,4 % | I–IV | Geógrafo |
+| 3 | Plutarco | 9 | 4,4 % | I–IV | Biógrafo/moralista |
+| 4 | Dion Casio | 8 | 3,9 % | III, IV | Historiador |
+| 5 | San Isidoro de Sevilla | 7 | 3,4 % | I, III, IV | Polígrafo eclesiástico |
+| 6 | Tito Livio | 7 | 3,4 % | I, II, IV | Historiador |
+| 7 | Séneca | 7 | 3,4 % | III, IV | Filósofo/orador |
+| 8 | Prudencio | 6 | 3,0 % | IV | Poeta cristiano |
+| 9 | Cayo Silio Italico | 5 | 2,5 % | I, II, IV | Poeta épico |
+| 10 | Estrabón | 5 | 2,5 % | I, III | Geógrafo |
+| 11 | Quintiliano | 5 | 2,5 % | IV | Retórico |
+| 12 | Apiano | 5 | 2,5 % | I, III | Historiador |
+| 13 | Cicerón | 4 | 2,0 % | III | Filósofo/orador |
+| 14 | Justino | 4 | 2,0 % | I | Historiador |
+| 15 | Polibio | 4 | 2,0 % | I, II | Historiador |
 
 ### 5.3 Curva de Pareto
 
 | Grupo | Autores | % autores | Citas | % citas |
 |-------|---------|-----------|-------|---------|
-| Top 5 | Plinio, Ptolomeo, Varrón, Plutarco, Dion | 6,1 % | 62 | 28,8 % |
-| Top 10 | + San Isidoro, Séneca, Silio Italico, Prudencio, T. Livio | 12,2 % | 94 | 43,7 % |
-| Top 15 | + Apiano, Estrabón, Quintiliano, Cicerón, Justino | 18,3 % | 117 | 54,4 % |
-| Top 20 | + Polibio, Amiano, Aristóteles, Solino, Suetonio | 24,4 % | 133 | 61,9 % |
-| Top 24 | + Diodoro, Eusebio Cesariense, Moro Rasis, Orosio | 29,3 % | 145 | 67,4 % |
-| Todos (82) | — | 100 % | 215 | 100 % |
+| Top 5 | Plinio, Ptolomeo, Plutarco, Dion, San Isidoro | 6,1 % | 57 | 28,1 % |
+| Top 10 | + Tito Livio, Séneca, Prudencio, Silio Italico, Estrabón | 12,2 % | 87 | 42,9 % |
+| Top 15 | + Quintiliano, Apiano, Cicerón, Justino, Polibio | 18,3 % | 109 | 53,7 % |
+| Top 20 | + Aristóteles, Orosio, Amiano, Moro Rasis, Diodoro | 24,4 % | 124 | 61,1 % |
+| Top 24 | + Eusebio Cesariense, Suetonio, Solino, San Basilio | 29,3 % | 135 | 66,5 % |
+| Todos (82) | — | 100 % | 203 | 100 % |
 
-**Interpretación:** Los 24 autores más citados (29,3 % del total) concentran el 67,4 % de las citas. Los 58 autores restantes se reparten entre 1 y 2 apariciones cada uno.
+**Interpretación:** Los 24 autores más citados (29,3 % del total) concentran el 66,5 % de las citas. Los 58 autores restantes se reparten entre 1 y 2 apariciones cada uno.
 
 ### 5.4 Distribución por libro
 
 | Libro | Entradas | % | Autores únicos | Densidad (citas/cap.) |
 |-------|----------|---|----------------|-----------------------|
-| Libro Primero | 50 | 23,3 % | 29 | 2,3 |
-| Libro Segundo | 30 | 14,0 % | 17 | 1,2 |
-| Libro Tercero | 53 | 24,7 % | 21 | 2,2 |
-| Libro Cuarto | 82 | 38,1 % | 46 | 3,9 |
-| **Total** | **215** | **100 %** | **82** | **2,3** |
+| Libro Primero | 54 | 26,6 % | 30 | 3,0 |
+| Libro Segundo | 26 | 12,8 % | 15 | 1,9 |
+| Libro Tercero | 46 | 22,7 % | 23 | 2,7 |
+| Libro Cuarto | 77 | 37,9 % | 43 | 4,5 |
+| **Total** | **203** | **100 %** | **82** | **3,1** |
 
-**Interpretación:** El Libro Cuarto concentra la mayor densidad de citas (3,9 por capítulo) y el mayor número de autores únicos (46). El Libro Segundo es el de menor densidad (1,2), con 30 citas de 17 autores.
+**Interpretación:** El Libro Cuarto concentra la mayor densidad de citas (4,5 por capítulo) y el mayor número de autores únicos (43). El Libro Segundo es el de menor densidad (1,9), con 26 citas de 15 autores.
 
 ### 5.5 Autores transculturales (presentes en varios libros)
 
 | Libros | N.º autores | Ejemplos |
 |--------|-------------|----------|
-| 4 libros (I–IV) | 4 | Plinio, Claudio Ptolomeo, Plutarco, Cayo Silio Italico |
-| 3 libros | 4 | San Isidoro, Marco Varrón, Tito Livio, Orosio |
-| 2 libros | 11 | Dion Casio, Lucano, Pomponio Mela, Rufo Festo, Virgilio, etc. |
-| 1 libro | 63 | El resto |
+| 4 libros (I–IV) | 3 | Plinio, Claudio Ptolomeo, Plutarco |
+| 3 libros | 4 | San Isidoro, Cayo Silio Italico, Tito Livio, Orosio |
+| 2 libros | 11 | Aristóteles, Appiano, Estrabón, Lucano, Polibio, etc. |
+| 1 libro | 64 | El resto |
 
-**Interpretación:** Cuatro autores aparecen en los cuatro libros: Plinio, Claudio Ptolomeo, Plutarco y Cayo Silio Italico. Los 63 autores de un solo libro representan referencias localizadas en un único libro.
+**Interpretación:** Tres autores aparecen en los cuatro libros: Plinio, Claudio Ptolomeo y Plutarco. Los 64 autores de un solo libro representan referencias localizadas en un único libro.
 
 ### 5.6 Categorías de autores
 
@@ -291,9 +291,9 @@ El análisis completo se encuentra en [`Datos/Relación_de_datos.md`](Datos/Rela
 
 **Interpretación:** El capítulo XII del Libro Cuarto es el de mayor número de citas (14).
 
-### 5.10 Mariana como crítico (14 citas)
+### 5.10 Mariana como crítico (13 citas)
 
-En 14 de las 215 citas, Mariana no cita para fundamentar, sino para **desacreditar o corregir** a un autor:
+En 13 de las 203 citas, Mariana no cita para fundamentar, sino para **desacreditar o corregir** a un autor:
 
 - **Juan Margarite** (III, XXIIII): Mariana corrige su cálculo sobre la Era del César.
 - **San Agustín** (IV, I): Mariana señala la discrepancia en los nombres de los cónsules del año de fundación de Roma.
@@ -301,7 +301,7 @@ En 14 de las 215 citas, Mariana no cita para fundamentar, sino para **desacredit
 - **Nepote, Floro, Orosio, M. Varrón, Eusebio**: Correcciones o matices en cálculos cronológicos.
 - **Dion, Justino, Plutarco, Tito Livio**: Variantes narrativas o desacuerdos sobre hechos concretos.
 
-**Interpretación:** En 14 de las 215 citas (6,5 %), Mariana corrige o matiza a un autor en lugar de limitarse a transmitir su contenido. El registro de estas correcciones figura en la columna **Contexto** de la tabla.
+**Interpretación:** En 13 de las 203 citas (6,4 %), Mariana corrige o matiza a un autor en lugar de limitarse a transmitir su contenido. El registro de estas correcciones figura en la columna **Contexto** de la tabla.
 
 ---
 
@@ -334,5 +334,5 @@ Mariana, J. de. *Historia General de España*. Toledo, 1601.
 
 ---
 
-*Última actualización: 6 de agosto de 2026*
+*Última actualización: 11 de agosto de 2026*
 [Repositorio en GitHub](https://github.com/RRCarlos/proyecto-autores)
