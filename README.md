@@ -44,7 +44,7 @@ Comprender el sistema de citas de Mariana permite:
 
 ### Estado actual del proyecto (Agosto 2026)
 
-> **Nota de estado:** el proyecto se encuentra en fase de **verificación manual** de las citas, entrada por entrada (la revisión está completa hasta la entrada 106, correspondiente a Plutarco, capítulo XXI del Libro Tercero). Las cifras de este documento son provisionales y pueden variar hasta completar la revisión.
+> **Nota de estado:** el proyecto se encuentra en fase de **verificación manual** de las citas, entrada por entrada (la revisión está completa hasta la entrada 124, correspondiente a Plinio, capítulo XXV del Libro Tercero). Las cifras de este documento son provisionales y pueden variar hasta completar la revisión.
 
 #### Verificación de autores
 
