@@ -167,42 +167,51 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | 144 | Gregorio Giraldo | III | [parece] que confiesan que fue Español: Crinito dice que nació en Roma, pero los [antiguos] descendencia de España: Gregorio Giraldo afirma que en lo uno teniendo | Gregorio Giraldo afirma que Silio Itálico fue español | Biografia |
 | 145 | Quintiliano | III | muchos lo sospechan, por convenir en el nombre, y ser casi del mismo tiempo. Quintiliano haze mención de una sola tragedia que andaba en nombre de Séneca el Filósofo, que debió perderse con el tiempo. Volvamos a | Quintiliano hace mención de una sola tragedia de Séneca el Filósofo, que debió perderse con el tiempo | Historiografia |
 | 146 | Cayo Suetonio Tranquilo | IIII | todos los filósofos, como lo dice Suetonio. Yo por filósofos entiendo los que abrazarían la filosofía cristiana, por señalarse en costumbres y bondad a la manera que los filósofos se aventajaban en esto a los demás del pueblo. | Domiciano destierra filósofos | Politica/Militar |
-| 147 | Cayo Suetonio Tranquilo | IIII | todos los filósofos, como lo dice Suetonio. Yo por filósofos entiendo los que abrazarían la filosofía cristiana, por señalarse en costumbres y bondad a la manera que los filósofos se aventajaban en esto a los demás del pueblo. | Domiciano destierra filósofos (segunda mención de la misma cita) | Politica/Militar |
-| 148 | Miguel Sincelo | IIII | por Michael Sincelo, fue el que nosotros llamamos Eugenio, y que este nombre de Eugenio, que es lo mismo que bien nacido, le dieron por la nobleza de su linaje, y el otro, cualquiera que fuese de los dos, era su nombre propio que recibió de sus padres. | Miguel Sincelo: en la Vida de San Clemente, el santo que nosotros llamamos Eugenio recibió ese nombre por la nobleza de su linaje | Religion |
-| 149 | Plinio | V | en lo que hacía. Aplacóse algún tanto cinco años adelante, a causa que Plinio el más mozo, procónsul a la sazón de Bitinia, le avisó por una carta suya, que la superstición cristiana (así la llamaba) se debía reprimir más con maña que con fuerza, por andar derramada, no sólo por las ciudades, sino también por las aldeas. | Plinio el Mozo, procónsul de Bitinia, avisó a Trajano por carta de que la superstición cristiana se debía reprimir más con maña que con fuerza | Religion |
-| 150 | Julio Capitolino | VI | quedaban de cara a los enemigos, quedó la victoria por los Romanos. Muchos hacen mención de este suceso tan notable. Julio Capitolino dice que por las oraciones del emperador se aplacaron los dioses y cayó la lluvia. | Julio Capitolino: Legion Fulminatrix, lluvia milagrosa | Religion |
-| 151 | Dion | VI | otros escritores, muchos y muy antiguos, que refieren la cosa como ella dicha, favorece Dion, y una carta del emperador que anda en Griego y en Latín, sobre el caso, además del nombre de Fulminatrix que se dio a aquella legión. | Dion y una carta del emperador, en griego y latín, corroboran el nombre de Fulminatrix dado a la legión por la lluvia | Religion |
-| 152 | Nicéforo | IX | los eclesiásticos, de muchas maneras extrañada. En aquella persecución padeció el martyr san Cristóbal, según que lo refiere Nicéforo. Destruían los Getas o Godos (que algunos entienden ser lo mismo) las provincias de | Nicéforo: martirio de Cristóbal | Religion |
-| 153 | Quintiliano | X | hijo del mismo nombre, por cuyas se tienen las declamaciones que andan impresas al fin de las Instituciones de Quintiliano. Otro por nombre Tétrico, se apoderó de España, el cual asimismo acudió a favor de los Alemanes. | Quintiliano: las declamaciones impresas al fin de sus Instituciones son de un hijo suyo del mismo nombre | Historiografia |
-| 154 | Trebellio Polión | X | esto sucedió en el imperio de Decio, van fuera de camino, y no menos los que por autoridad de Trebelio Polión, para concordar las opiniones, fazen no sé que Divo César, nieto del emperador Valeriano, por cuya | Trebellio citado para concordar cronologías — Mariana lo refuta por errado | Historiografia |
-| 155 | Prudencio | X | soldado, vio juntamente con él las almas de estos santos que volaban al cielo, según que lo testifica Prudencio. Las reliquias de estos mártires, no se sabe por qué causa y en qué tiempo, pero es cierto que fueron llevadas a Ita | Prudencio: soldado vio almas de mártires volar al cielo | Religion |
-| 156 | San Agustín | XII | Nuevos y muy crueles edictos contra los cristianos, el año de Christo de trezientos y tres. Consules Diocleciano la octava vez, y Maximiano la setena, según que lo refiere San Agustín. | San Agustín: edictos contra los cristianos del año 303 (Diocleciano y Maximiano) | Religion |
-| 157 | Prudencio | XII | diferente de otra que del mismo nombre fue muerta en Mérida. En Zaragoza dio la muerte a Santa Engracia, Prudencio la llama Encratis: la cual desde lo postrero de la Lusitania, pasaba a Arriente a verse con su esposo: | Prudencio: Santa Engracia, llamada Encratis, muerta en Zaragoza | Religion |
-| 158 | Prudencio | XII | por virtud de Dios, y juntadas entre sí las llamaron masa candida, o masa blanca. Prudencio refiere que sucedió lo mismo a las cenizas de trescientos mártires que fueron muertos en África, y echados en cal viva, el mismo día | Prudencio: las cenizas de trescientos mártires muertos en África, echados en cal viva, se juntaron en masa cándida o blanca | Religion |
-| 159 | Braulio de Zaragoza | XIII | uo, se entienden mejor por la historia de la vida y muerte de Santa Leocadia, como está en los libros eclesiásticos muy antiguos, escrito por Braulio obispo de Zaragoza, según que muchos lo sienten. La cual no ponemos aquí | Braulio: vida de Santa Leocadia | Religion |
-| 160 | Claudio Ptolomeo | XIII | Historia de España. Por lo menos Ptolomeo le da nombre de Libora, y cerca del ponente Hurtada, que se puede entender es el sitio donde al presente una aldea llamada Lotunza, una legua de Talavera, de la otra parte del Tajo y en frente de dos | Ptolomeo: Talavera = Libora | Geografia |
-| 161 | Tito Livio | XIII | le junta el río Alagón, que se derriba de los montes de Ávila. Demás de ello Tito Livio en los Carpetanos, que es el reino de Toledo, pone un pueblo y lo llama Ebura, muy notable por la batalla muy memorable que cerca del | Tito Livio: Talavera = Ebura | Geografia |
-| 162 | Claudio Ptolomeo | XIII | de poniente. Las palabras no quise poner aquí. Para nuestro propósito basta saber que el pueblo de que se trata en Ptolomeo, por la demarcación y distancia de los lugares, es Libora, y que en tiempo de los Romanos en el reino de | Ptolomeo: Elbora, antiguo nombre de Talavera | Geografia |
-| 163 | Moro Rasis | XIV | mayormente las dichas torres, con la parte de los muros de Toledo que edificó el rey Vuamba. Lo qual testifica el Moro Rasis, que levantaron los Moros aquella fuerza a propósito de impedir las correrías que hacían los Cristianos por | Moro Rasis: murallas de Toledo | Arqueologia |
-| 164 | Pietro Ricci (Crinito) | XV | escritor de las cosas y historia de Roma, y aún poeta señalado. Así lo dize Crinito. El año siguiente después que el emperador Constancio murió, Maxencio hijo de Maximiano, se apoderó de Roma, y se llamó emperador. Acu | Crinito: Rufo Festo Avieno, escritor e historiador de Roma | Biografia |
-| 165 | San Basilio | XVI | padecieron en Sebas tia los santos cuarenta mártires muy conocidos por su valor, y por una homilía que hizo San Basilio en su festividad. Por esta mane ra los movimientos, así bien los de dentro, como los de fuera del imperio, | San Basilio: 40 mártires de Sebaste | Religion |
-| 166 | Moro Rasis | XVI | pero la division de las diocesis que dicen hizo el emperador Constantino, se pondra en otro lugar mas a proposito, por las mismas palabras del Moro Rasis, historiador antiguo y grave. Lo mas cierto es, que en tiempo del rey | Moro Rasis: dioceses de Constantino | Religion |
-| 167 | Eusebio Cesariense | XVI | para que atribuyesen al padre lo que sucedio al hijo el emperador Constante: principalmente hizo errar a muchos el testimonio de Eusebio Cesariense, el cual con deseo de ennoblecer la secta de Arrio, con tantas fabulas dio ocasion | Eusebio Cesariense favoreció la secta de Arrio con fábulas | Religion |
-| 168 | San Isidoro de Sevilla | XVII | mundo. Bien se que algunos modernos tienen este cuento por falso, y tacha el testimonio de Marcelino presbitero, del cual San Isidoro en los varones illustres toma lo que queda dicho. Pero a mi mucha fuerza me haze lo que dice | San Isidoro cita a Marcelino presbítero en Varones ilustres | Historiografia |
-| 169 | Amiano Marcelino | XVII | que querian decir otra cosa. Puso mano a la espada, y degollo al huesped y a toda su familia: que fue caso notable, referido por Amiano Marcelino, sin senalar otras circunstancias. Fueron de este tiempo Clemente Prudencio, | Amiano: caso de romano que degolló a su familia | Biografia |
-| 170 | San Jerónimo | XVII | exercitaba el estilo contra los Novacianos: cuyo hijo fue Dextro, al cual San Jeronimo dedico el libro de los escritores eclesiasticos. | San Jerónimo: De viris illustribus dedicado a Dextro | Historiografia |
-| 171 | Amiano Marcelino | XIX | como lo cuenta Amiano Marcelino historiador gentil, y de aquel tiempo, en solo un dia dentro de la iglesia de Sicinino fueron muertos ciento y treinta | Amiano: elección del Papa (Damaso vs Ursino) | Religion |
+| 147 | Miguel Sincelo | IIII | por Michael Sincelo, fue el que nosotros llamamos Eugenio, y que este nombre de Eugenio, que es lo mismo que bien nacido, le dieron por la nobleza de su linaje, y el otro, cualquiera que fuese de los dos, era su nombre propio que recibió de sus padres. | Miguel Sincelo: en la Vida de San Clemente, el santo que nosotros llamamos Eugenio recibió ese nombre por la nobleza de su linaje | Religion |
+| 148 | Plinio | V | en lo que hacía. Aplacóse algún tanto cinco años adelante, a causa que Plinio el más mozo, procónsul a la sazón de Bitinia, le avisó por una carta suya, que la superstición cristiana (así la llamaba) se debía reprimir más con maña que con fuerza, por andar derramada, no sólo por las ciudades, sino también por las aldeas. | Plinio el Mozo, procónsul de Bitinia, avisó a Trajano por carta de que la superstición cristiana se debía reprimir más con maña que con fuerza | Religion |
+| 149 | Julio Capitolino | VI | quedaban de cara a los enemigos, quedó la victoria por los Romanos. Muchos hacen mención de este suceso tan notable. Julio Capitolino dice que por las oraciones del emperador se aplacaron los dioses y cayó la lluvia. | Julio Capitolino: Legion Fulminatrix, lluvia milagrosa | Religion |
+| 150 | Dion | VI | otros escritores, muchos y muy antiguos, que refieren la cosa como ella dicha, favorece Dion, y una carta del emperador que anda en Griego y en Latín, sobre el caso, además del nombre de Fulminatrix que se dio a aquella legión. | Dion y una carta del emperador, en griego y latín, corroboran el nombre de Fulminatrix dado a la legión por la lluvia | Religion |
+| 151 | Nicéforo | IX | los eclesiásticos, de muchas maneras extrañada. En aquella persecución padeció el martyr san Cristóbal, según que lo refiere Nicéforo. Destruían los Getas o Godos (que algunos entienden ser lo mismo) las provincias de | Nicéforo: martirio de Cristóbal | Religion |
+| 152 | Quintiliano | X | hijo del mismo nombre, por cuyas se tienen las declamaciones que andan impresas al fin de las Instituciones de Quintiliano. Otro por nombre Tétrico, se apoderó de España, el cual asimismo acudió a favor de los Alemanes. | Quintiliano: las declamaciones impresas al fin de sus Instituciones son de un hijo suyo del mismo nombre | Historiografia |
+| 153 | Trebellio Polión | X | esto sucedió en el imperio de Decio, van fuera de camino, y no menos los que por autoridad de Trebelio Polión, para concordar las opiniones, fazen no sé que Divo César, nieto del emperador Valeriano, por cuya | Trebellio citado para concordar cronologías — Mariana lo refuta por errado | Historiografia |
+| 154 | Prudencio | X | soldado, vio juntamente con él las almas de estos santos que volaban al cielo, según que lo testifica Prudencio. Las reliquias de estos mártires, no se sabe por qué causa y en qué tiempo, pero es cierto que fueron llevadas a Ita | Prudencio: soldado vio almas de mártires volar al cielo | Religion |
+| 155 | San Agustín | XII | Nuevos y muy crueles edictos contra los cristianos, el año de Christo de trezientos y tres. Consules Diocleciano la octava vez, y Maximiano la setena, según que lo refiere San Agustín. | San Agustín: edictos contra los cristianos del año 303 (Diocleciano y Maximiano) | Religion |
+| 156 | Prudencio | XII | diferente de otra que del mismo nombre fue muerta en Mérida. En Zaragoza dio la muerte a Santa Engracia, Prudencio la llama Encratis: la cual desde lo postrero de la Lusitania, pasaba a Arriente a verse con su esposo: | Prudencio: Santa Engracia, llamada Encratis, muerta en Zaragoza | Religion |
+| 157 | Prudencio | XII | por virtud de Dios, y juntadas entre sí las llamaron masa candida, o masa blanca. Prudencio refiere que sucedió lo mismo a las cenizas de trescientos mártires que fueron muertos en África, y echados en cal viva, el mismo día | Prudencio: las cenizas de trescientos mártires muertos en África, echados en cal viva, se juntaron en masa cándida o blanca | Religion |
+| 158 | Braulio de Zaragoza | XIII | uo, se entienden mejor por la historia de la vida y muerte de Santa Leocadia, como está en los libros eclesiásticos muy antiguos, escrito por Braulio obispo de Zaragoza, según que muchos lo sienten. La cual no ponemos aquí | Braulio: vida de Santa Leocadia | Religion |
+| 159 | Claudio Ptolomeo | XIII | Historia de España. Por lo menos Ptolomeo le da nombre de Libora, y cerca del ponente Hurtada, que se puede entender es el sitio donde al presente una aldea llamada Lotunza, una legua de Talavera, de la otra parte del Tajo y en frente de dos | Ptolomeo: Talavera = Libora | Geografia |
+| 160 | Tito Livio | XIII | le junta el río Alagón, que se derriba de los montes de Ávila. Demás de ello Tito Livio en los Carpetanos, que es el reino de Toledo, pone un pueblo y lo llama Ebura, muy notable por la batalla muy memorable que cerca del | Tito Livio: Talavera = Ebura | Geografia |
+| 161 | Claudio Ptolomeo | XIII | de poniente. Las palabras no quise poner aquí. Para nuestro propósito basta saber que el pueblo de que se trata en Ptolomeo, por la demarcación y distancia de los lugares, es Libora, y que en tiempo de los Romanos en el reino de | Ptolomeo: Elbora, antiguo nombre de Talavera | Geografia |
+| 162 | Moro Rasis | XIV | mayormente las dichas torres, con la parte de los muros de Toledo que edificó el rey Vuamba. Lo qual testifica el Moro Rasis, que levantaron los Moros aquella fuerza a propósito de impedir las correrías que hacían los Cristianos por | Moro Rasis: murallas de Toledo | Arqueologia |
+| 163 | Pietro Ricci (Crinito) | XV | escritor de las cosas y historia de Roma, y aún poeta señalado. Así lo dize Crinito. El año siguiente después que el emperador Constancio murió, Maxencio hijo de Maximiano, se apoderó de Roma, y se llamó emperador. Acu | Crinito: Rufo Festo Avieno, escritor e historiador de Roma | Biografia |
+| 164 | San Basilio | XVI | padecieron en Sebas tia los santos cuarenta mártires muy conocidos por su valor, y por una homilía que hizo San Basilio en su festividad. Por esta mane ra los movimientos, así bien los de dentro, como los de fuera del imperio, | San Basilio: 40 mártires de Sebaste | Religion |
+| 165 | Moro Rasis | XVI | pero la division de las diocesis que dicen hizo el emperador Constantino, se pondra en otro lugar mas a proposito, por las mismas palabras del Moro Rasis, historiador antiguo y grave. Lo mas cierto es, que en tiempo del rey | Moro Rasis: dioceses de Constantino | Religion |
+| 166 | Eusebio Cesariense | XVI | para que atribuyesen al padre lo que sucedio al hijo el emperador Constante: principalmente hizo errar a muchos el testimonio de Eusebio Cesariense, el cual con deseo de ennoblecer la secta de Arrio, con tantas fabulas dio ocasion | Eusebio Cesariense favoreció la secta de Arrio con fábulas | Religion |
+| 167 | San Isidoro de Sevilla | XVII | mundo. Bien se que algunos modernos tienen este cuento por falso, y tacha el testimonio de Marcelino presbitero, del cual San Isidoro en los varones illustres toma lo que queda dicho. Pero a mi mucha fuerza me haze lo que dice | San Isidoro cita a Marcelino presbítero en Varones ilustres | Historiografia |
+| 168 | Amiano Marcelino | XVII | que querian decir otra cosa. Puso mano a la espada, y degollo al huesped y a toda su familia: que fue caso notable, referido por Amiano Marcelino, sin senalar otras circunstancias. Fueron de este tiempo Clemente Prudencio, | Amiano: caso de romano que degolló a su familia | Biografia |
+| 169 | San Jerónimo | XVII | exercitaba el estilo contra los Novacianos: cuyo hijo fue Dextro, al cual San Jeronimo dedico el libro de los escritores eclesiasticos. | San Jerónimo: De viris illustribus dedicado a Dextro | Historiografia |
+| 170 | Amiano Marcelino | XIX | como lo cuenta Amiano Marcelino historiador gentil, y de aquel tiempo, en solo un dia dentro de la iglesia de Sicinino fueron muertos ciento y treinta | Amiano: elección del Papa (Damaso vs Ursino) | Religion |
+| 171 | Severo Sulpicio | XX | notificar ella sentencia a Itacio obispo Soisobense, como se lee en Severo Sulpicio, pero ha de decir Osetobense, que es de Estombar en Portugal. San Isidro solo dice que era obispo de las Espanas, y Sigiberto, que de Lame | Severo Sulpicio: sentencia a Itacio, obispo Osetobense | Religion |
+| 172 | Sigiberto de Gembloux | XX | Sulpicio, pero ha de decir Osetobense, que es de Estombar en Portugal. San Isidro solo dice que era obispo de las Espanas, y Sigiberto, que de Lamego. Lo cierto es, que era hombre colerico y hablador, reprehendia a los que | Sigiberto: sobre la sede de Itacio, a quien San Isidoro dice obispo de las Españas y Sigiberto de Lamego; lo tenía por colérico y hablador | Religion |
+| 173 | San Isidoro de Sevilla | XX | San Isidro solo dice que era obispo de las Españas | San Isidoro: Itacio obispo de las Españas, sin precisar su sede | Religion |
+| 174 | San Isidoro de Sevilla | XX | esta carta de ser estimada en mucho, pues en el concilio Toledano primero sin nombrarla vian de sus mismas palabras: y Isidoro expresamente haze della mencion en los varones illustres en Siricio. El ano quinto despues de la | San Isidoro: carta de Siricio, estimada en concilio Toledano | Religion |
+| 175 | Claudiano | XX | como lo canto Claudiano poeta de aquel tiempo, muy famoso, si pagano, si fiel no se sabe: lo mas cierto es que no fue Cristiano. Mucho tambien ayu- | Claudiano: batalla de Frígido (394) | Politica/Militar |
+| 176 | Orosio | XXI | conforme a la cuenta mas acertada: dado que Paulo Orosio y Prospero Aquitano, a este numero parece anadir dos anos. En aquella ciudad prendiero- | Orosio: añade dos años a la cronología | Cronologia |
+| 177 | Prospero de Aquitania | XXI | conforme a la cuenta mas acertada: dado que Paulo Orosio y Prospero Aquitano, a este numero parece anadir dos anos. En aquella ciudad prendiero- | Próspero Aquitano: añade dos años a la cronología | Cronologia |
+| 178 | San Ildefonso de Toledo | XX | Asturio, el cual firmo en el sexto lugar, era a la sazon obispo de Toledo, y que es aquel de quien testifica San Ildefonso en sus claros varones, que hallo los sanctos cuerpos de los santos martires Justo y Pastor en Alcala de Henares, do pa- | San Ildefonso: Varones ilustres de Toledo - hallazgo de Justo y Pastor en Alcalá | Religion |
 
-| 172 | Severo Sulpicio | XX | notificar ella sentencia a Itacio obispo Soisobense, como se lee en Severo Sulpicio, pero ha de decir Osetobense, que es de Estombar en Portugal. San Isidro solo dice que era obispo de las Espanas, y Sigiberto, que de Lame | Severo Sulpicio: sentencia a Itacio, obispo Osetobense | Religion |
-| 173 | Sigiberto de Gembloux | XX | Sulpicio, pero ha de decir Osetobense, que es de Estombar en Portugal. San Isidro solo dice que era obispo de las Espanas, y Sigiberto, que de Lamego. Lo cierto es, que era hombre colerico y hablador, reprehendia a los que | Sigiberto: sobre la sede de Itacio, a quien San Isidoro dice obispo de las Españas y Sigiberto de Lamego; lo tenía por colérico y hablador | Religion |
-| 174 | San Isidoro de Sevilla | XX | San Isidro solo dice que era obispo de las Españas | San Isidoro: Itacio, obispo de las Españas | Religion |
-| 175 | San Isidoro de Sevilla | XX | esta carta de ser estimada en mucho, pues en el concilio Toledano primero sin nombrarla vian de sus mismas palabras: y Isidoro expresamente haze della mencion en los varones illustres en Siricio. El ano quinto despues de la | San Isidoro: carta de Siricio, estimada en concilio Toledano | Religion |
-| 176 | Claudiano | XX | como lo canto Claudiano poeta de aquel tiempo, muy famoso, si pagano, si fiel no se sabe: lo mas cierto es que no fue Cristiano. Mucho tambien ayu- | Claudiano: batalla de Frígido (394) | Politica/Militar |
-| 177 | Orosio | XXI | conforme a la cuenta mas acertada: dado que Paulo Orosio y Prospero Aquitano, a este numero parece anadir dos anos. En aquella ciudad prendiero- | Orosio: añade dos años a la cronología | Cronologia |
-| 178 | Prospero de Aquitania | XXI | conforme a la cuenta mas acertada: dado que Paulo Orosio y Prospero Aquitano, a este numero parece anadir dos anos. En aquella ciudad prendiero- | Próspero Aquitano: añade dos años a la cronología | Cronologia |
-| 179 | San Ildefonso de Toledo | XX | Asturio, el cual firmo en el sexto lugar, era a la sazon obispo de Toledo, y que es aquel de quien testifica San Ildefonso en sus claros varones, que hallo los sanctos cuerpos de los santos martires Justo y Pastor en Alcala de Henares, do pa- | San Ildefonso: Varones ilustres de Toledo - hallazgo de Justo y Pastor en Alcalá | Religion |
+**Total de apariciones (fuentes externas): 178**
 
-**Total de apariciones (fuentes externas): 179**
+## Autoreferencias de Juan de Mariana
+
+Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempre remitiendo a su *Historiae de Rebus Hispaniae* (1592) como depósito erudito del que la versión castellana extracta o prescinde. Ninguna de las dos es una cita de autoridad factual, sino una decisión editorial sobre qué incluir y dónde.
+
+| # | Autor | Capítulo | Cita normalizada | Contexto | Temática |
+|---|-------|----------|-----------------|----------|----------|
+| AR1 | Juan de Mariana | III | no lo tenemos por cierto, dado que en nuestra historia Latina pusimos aquel letrero, tomado con otros algunos de Ambrosio de Morales, a su riesgo y por su cuenta | Mariana se distancia de una inscripción dudosa sobre el sepulcro de Sertorio en Ébora (Évora), incluida en su *Historiae* por conducto de Ambrosio de Morales. En la castellana la omite por falta de testigos fiables. | Historiografia |
+| AR2 | Juan de Mariana | IV | En nuestra historia Latina la hallará quien gustare de estas antiguallas | Mariana remite al lector a su obra latina para consultar la epístola de Vespasiano hallada en Cañete (antigua Sabora). No la reproduce ni en latín ni en romance. | Historiografia |
+
+**Total de autoreferencias: 2**
 
 ## Conteo de citas
 
@@ -210,3 +219,85 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | --- | --- |
 | Total de citas | 181 |
 | Autores únicos | 75 |
+
+## Resumen por autor
+
+| Autor | Apariciones | Libros | Temática |
+|-------|-------------|--------|----------|
+| Ambrosio de Morales | 1 | III | Fuentes epigráficas, letreros antiguos |
+| Amiano Marcelino | 2 | IV | Relatos de costumbres sociales romanas, disputas papales (Damaso vs. Ursino) |
+| Anaxiteonte | 1 | I | Longevidad de Argantonio (ciento y cincuenta años) |
+| Andrea de' Bardi | 1 | III | Inscripciones y epigrafía antigua (Anconitano) |
+| Antonino | 1 | I | Itinerario geográfico, fuentes de viajeros |
+| Antonio de Nebrija | 1 | III | Verificación arqueológica de la Vía de la Plata |
+| Appiano | 5 | I, III | Conquista romana de Hispania, guerras numantinas, ubicación de Segeda en la Celtiberia |
+| Aristoteles | 3 | I, II | Llegada de los fenicios a Cádiz, costumbres funerarias hispanas, política cartaginesa |
+| Arriano | 2 | I, II | Topografía de la costa africana, crónicas de Alejandro Magno y embajadas |
+| Aulo Gelio | 1 | II | Campañas militares de Catón contra Numancia |
+| Beda | 1 | IV | Cronología apostólica (predicación de Pablo en Narbona) |
+| Braulio de Zaragoza | 1 | IV | Hagiografía de Santa Leocadia |
+| Casiodoro | 1 | III | Sobrenombre Magnus de Pompeyo, cita conjunta con Tertuliano |
+| Cayo Julio Solino | 3 | I | Antiguo nombre de Roma, Ulises en España, etnografía antigua |
+| Cayo Silio Italico | 2 | I, II | Longevidad de Argantonio, Córdoba en tiempo de Aníbal |
+| Cayo Suetonio Tranquilo | 3 | I, IV | Oráculo de los Gériones en Padua, Domiciano destierra filósofos |
+| Ciceron | 4 | II | Retórica y elocuencia, biografías de oradores hispanos, etimología de «Era» |
+| Claudiano | 1 | IV | Batalla de Frígido (394) |
+| Claudio Ptolomeo | 13 | I, II, III, IV | Geografía de Hispania: localización de pueblos, ciudades, ríos y provincias |
+| Diodoro Siculus | 3 | I | Mitología egipcia (Osiris/Baccho), orígenes divinos, guerras de Heracles |
+| Dion | 8 | II, III, IV | Guerras civiles romanas en Hispania, imperio de Augusto y Nerón, prodigios militares |
+| Dionisio de Halicarnaso | 1 | II | Epidemias antiguas |
+| Estrabon | 5 | I, III | Geografía de Hispania, diversidad lingüística, etnografía, colonizaciones griegas |
+| Eusebio Cesariense | 2 | IV | Cronología eclesiástica, herejía arriana |
+| Eusebio de Cesarea | 2 | II | Cronología antigua, datos numéricos de batallas navales |
+| Fabio Pictor | 1 | I | Autoridad sobre la fundación de Roma |
+| Falso Beroso | 1 | I | Crónicas fabulosas del Oriente (rechazadas por Mariana) |
+| Festo Pompeyo | 1 | I | Instituciones políticas de Cartago (sufetes) |
+| Filón de Biblos | 1 | I | Costumbres fenicias de sacrificio humano |
+| Florián de Ocampo | 1 | I | Nombres antiguos de las Baleares según el Itinerario de Antonino |
+| Floro | 1 | III | Guerras civiles en Hispania |
+| Gregorio Giraldo | 1 | IV | Biografía de Silio Itálico y su patria |
+| Herodoto | 1 | I | Curiosidades etnográficas (derrota asiria por ratones) |
+| Hilderico | 1 | III | Fuente sobre la cronología de la Era |
+| Hipócrates | 1 | II | Remedio contra la peste antigua (quema de montes en Tesalia) |
+| Juan Margarite | 1 | III | Discrepancia sobre la Era del César (Mariana lo corrige) |
+| Julio Capitolino | 1 | IV | Legion Fulminatrix, lluvia milagrosa |
+| Justino | 4 | I | Reyes de Tartessos, mitología, colonizaciones antiguas, venida de Teucro |
+| Lucano | 1 | III | Geografía fluvial hispana (río Segre) |
+| Lucilio | 1 | III | Etimología de «Era» como partida de libros de cuentas |
+| Marco Varron | 1 | I | Etimología del nombre «España» |
+| Miguel Sincelo | 1 | IV | Fuentes hagiográficas bizantinas, Vida de San Clemente |
+| Moro Rasis | 3 | III, IV | Historiador árabe: Mérida, murallas de Toledo, dioceses de Constantino |
+| Nicéforo | 1 | IV | Martirio de Cristóbal |
+| Orosio | 3 | II, III, IV | Cronología universal, embajadas a Alejandro, saqueos de Roma |
+| Pelayo obispo de Oviedo | 1 | IV | Historia de la evangelización, discípulos de Santiago |
+| Pietro Ricci (Crinito) | 2 | IV | Biografía de Silio Itálico, erudición literaria |
+| Platón | 1 | I | Timeo, Atlántides y Cádiz |
+| Plinio | 21 | I, II, III, IV | Geografía de Hispania, flora y fauna, costumbres púnicas y romanas, etnografía |
+| Plutarco | 8 | I, II, III, IV | Biografías comparadas, etimología, costumbres, guerras civiles |
+| Poggio Florentín | 1 | IV | Recuperación de las *Instituciones oratorias* de Quintiliano |
+| Polibio | 4 | I, II | Guerras púnicas, asedio de Sagunto, tácticas militares, Turdulos y Turdetanos |
+| Pomponio Mela | 3 | I, III | Geografía costera de Galicia, monumentos augustales |
+| Prospero de Aquitania | 1 | IV | Cronología del saqueo de Roma (410) |
+| Prudencio | 3 | IV | Martirologio cristiano, poesía hispanolatina, martyres |
+| Quintiliano | 3 | IV | Retórica, biografías de oradores, teatro y tragedia |
+| Rufo Festo | 2 | I, II | Topografía de Hispania (Solorio, bocas del Guadalquivir) |
+| San Agustín | 2 | IV | Discrepancia en los cónsules del año de fundación de Roma, edictos del 303 |
+| San Basilio | 1 | IV | Martirologio oriental (40 mártires de Sebaste) |
+| San Ildefonso de Toledo | 1 | IV | Varones ilustres de Toledo, hallazgo de Justo y Pastor en Alcalá |
+| San Isidoro de Sevilla | 8 | I, III, IV | Etimología, división provincial de Hispania, erudición enciclopédica |
+| San Jerónimo | 1 | IV | Filología patrística, *De viris illustribus* dedicado a Dextro |
+| San Lucas | 2 | IV | Hechos apostólicos (Agripa), martirio de Santiago |
+| Seneca | 1 | IV | Mención de oradores españoles en sus declamaciones |
+| Severo Sulpicio | 1 | IV | Crónica eclesiástica, sentencia a Itacio |
+| Sexto Rufo | 1 | I | División constantiniana de Hispania en tres provincias |
+| Sigiberto de Gembloux | 1 | IV | Discrepancias sobre sedes episcopales (Lamego vs. Empañas) |
+| Tacito | 1 | IV | Religión romana, prodigios (ave fénix) |
+| Tertuliano | 1 | III | Sobrenombre de Pompeyo, cita conjunta con Casiodoro |
+| Tito Flavio Josefo | 1 | I | Historia de Judea, invasiones babilónicas |
+| Tito Livio | 7 | III | Guerras púnicas, conquista de Hispania, etnografía, topografía |
+| Trebellio Polión | 1 | IV | Cronología de la Historia Augusta — Mariana lo refuta por errado |
+| Tucides | 1 | II | Epidemias antiguas |
+| Usuardo | 1 | IV | Cronología apostólica (predicación de Pablo) |
+| Virgilio | 2 | I, III | Mitos fundacionales (Hércules), geografía, referente literario |
+
+**Total de autores distintos: 75 fuentes externas + 1 autor propio (Juan de Mariana) = 76**
