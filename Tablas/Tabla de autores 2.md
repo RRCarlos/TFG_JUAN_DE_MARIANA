@@ -217,7 +217,7 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 
 | Concepto | Valor |
 | --- | --- |
-| Total de citas | 181 |
+| Total de citas | 180 |
 | Autores únicos | 75 |
 
 ## Resumen por autor
@@ -246,7 +246,7 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | Diodoro Siculus | 3 | I | Mitología egipcia (Osiris/Baccho), orígenes divinos, guerras de Heracles |
 | Dion | 8 | II, III, IV | Guerras civiles romanas en Hispania, imperio de Augusto y Nerón, prodigios militares |
 | Dionisio de Halicarnaso | 1 | II | Epidemias antiguas |
-| Estrabon | 5 | I, III | Geografía de Hispania, diversidad lingüística, etnografía, colonizaciones griegas |
+| Estrabon | 5 | II, III | Geografía de Hispania, diversidad lingüística, etnografía, colonizaciones griegas |
 | Eusebio Cesariense | 2 | IV | Cronología eclesiástica, herejía arriana |
 | Eusebio de Cesarea | 2 | II | Cronología antigua, datos numéricos de batallas navales |
 | Fabio Pictor | 1 | I | Autoridad sobre la fundación de Roma |
