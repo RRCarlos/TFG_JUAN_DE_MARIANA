@@ -10,14 +10,7 @@ De los 94 capítulos que componen los cuatro libros, 31 no contienen citas regis
 
 ## Bibliografía académica de apoyo
 
-*Referencias que servirán de base para el análisis de los capítulos sin citas.*
-
-- Eguiguren, E. (1950). *Juan de Mariana: Historia General de España*. Madrid: Bailly-Baillière (edición del III Centenario).
-- Feros, A. (2000). "La *Historia General de España* de Juan de Mariana: ¿una historia pragmática?" en *Manuel Chueca: officium studiosi*. Zaragoza.
-- Maravall, J. A. (1975). *El concepto de la historia en los historiadores españoles del siglo XVI*. Madrid: Guadarrama.
-- Mestre, A. & Pérez, J. P. (eds.) (1998). *Historiografía e historiografía moderna en Europa*. Barcelona: Crítica.
-- Rodríguez, J. R. (1999). *Los historiadores y el poder*. Madrid: Siglo XXI.
-- Vollgraff, J. (1902). "Thucydides and the Plague of Athens". *Bulletin de Correspondance Hellénique*, 26, pp. 1–49.
+*Por completar tras el análisis en profundidad de cada capítulo.*
 
 ---
 
