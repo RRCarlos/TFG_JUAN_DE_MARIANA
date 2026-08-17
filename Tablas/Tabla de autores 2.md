@@ -1,6 +1,6 @@
 # Tabla de autores 2
 
-Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Historia General de España* (edición de 1601). Cada fila indica una aparición concreta del autor, ordenada por libro y capítulo. La columna **Cita normalizada** aplica ortografía moderna (s larga→s, espacios) con revisión manual completa. La columna **Contexto** describe brevemente el contexto historiográfico de cada cita. La columna **Temática** clasifica cada cita en grandes grupos temáticos: Geografía, Etnografía, Historiografía, Cronología, Biografía, Genealogía, Política/Militar, Religión, Arqueología y Lingüística.
+Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Historia General de España* (edición de 1601). La tabla incluye únicamente citas historiográficas, es decir, aquellos pasajes en que Mariana emplea a un autor como fuente o testimonio; se han excluido las menciones biográficas de personajes (aunque fuesen historiadores) cuando el autor es simplemente nombrado en la narración sin aportar testimonio propio. Cada fila indica una aparición concreta del autor, ordenada por libro y capítulo. La columna **Cita normalizada** aplica ortografía moderna (s larga→s, espacios) con verificación manual completa. La columna **Contexto** describe brevemente el contexto historiográfico de cada cita. La columna **Temática** clasifica cada cita en grandes grupos temáticos: Geografía, Etnografía, Historiografía, Cronología, Biografía, Genealogía, Política/Militar, Religión, Arqueología y Lingüística.
 
 ## Libro Primero
 
@@ -203,3 +203,10 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | 179 | San Ildefonso de Toledo | XX | Asturio, el cual firmo en el sexto lugar, era a la sazon obispo de Toledo, y que es aquel de quien testifica San Ildefonso en sus claros varones, que hallo los sanctos cuerpos de los santos martires Justo y Pastor en Alcala de Henares, do pa- | San Ildefonso: Varones ilustres de Toledo - hallazgo de Justo y Pastor en Alcalá | Religion |
 
 **Total de apariciones (fuentes externas): 179**
+
+## Conteo de citas
+
+| Concepto | Valor |
+| --- | --- |
+| Total de citas | 181 |
+| Autores únicos | 75 |
