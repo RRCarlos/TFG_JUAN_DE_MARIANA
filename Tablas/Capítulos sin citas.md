@@ -53,7 +53,7 @@ Capítulos de los Libros I–IV de la *Historia General de España* (edición de
 
 ## Resultados del análisis OCR
 
-Dos pasadas línea por línea de los 27 capítulos. Se localizaron **6 citas** en 5 capítulos: 4 citas historiográficas nuevas (Solino, crónica de Alfonso XI, Tito Livio y Papa Antero) más 2 menciones dudosas incluidas tras la verificación (Terencio y Arístides). Los 22 capítulos restantes quedan confirmados como sin citas. La segunda pasada, con foco en nombres ocultos por corrupción del OCR, **confirmó las citas y no halló ninguna adicional**: los marcos de testimonio restantes tienen sujeto anónimo o colectivo y no son atribuibles a autor de la tabla. Mismo esquema de columnas que `Tabla de autores.md`.
+Dos pasadas línea por línea de los 27 capítulos, más una tercera pasada exhaustiva y redundante (dos analistas independientes por grupo). Se localizaron **6 citas** en 5 capítulos: 4 citas historiográficas nuevas (Solino, crónica de Alfonso XI, Tito Livio y Papa Antero) más 2 menciones dudosas incluidas tras la verificación (Terencio y Arístides). Los 22 capítulos restantes quedan confirmados como sin citas tras la tercera pasada. La segunda pasada, con foco en nombres ocultos por corrupción del OCR, **confirmó las citas y no halló ninguna adicional** en los capítulos sin cita; la tercera pasada redundante **halló 1 cita nueva de un autor no registrado** (Valerio Máximo, cap. XXIII del Libro Segundo) en un capítulo vecino incluido por solape de rangos de líneas. Los marcos de testimonio restantes tienen sujeto anónimo o colectivo y no son atribuibles a autor de la tabla. Mismo esquema de columnas que `Tabla de autores.md`.
 
 ### Primera pasada — citas localizadas
 
@@ -69,6 +69,7 @@ Dos pasadas línea por línea de los 27 capítulos. Se localizaron **6 citas** e
 |---|-------|----------|------------------|----------|----------|
 | 2 | Don Alonso el Onzeno (su historia) | XV | En el cual tiempo se acabó la muralla de aquella ciudad, como se entiende por el letrero de una piedra antigua, la cual se conservaba en tiempo de don Alonso el onceno rey de Castilla, según que se refiere en su historia. | La crónica de Alfonso XI documenta el letrero de la piedra antigua (inscripción de la muralla romana de Tarragona) | Arqueologia |
 | 3 | Tito Livio | XXIIII | Y en otros lugares comarcanos se encendió también la llama, que pasó en breve a los Sedetaños, como dice Livio (yo más quisiera que dijera Ceretanos, los cuales adelante de los Ilergetes y de los Aufetanos, se extendían hasta los Pirineos). | Mariana sigue a Livio sobre la extensión de la rebelión a los Sedetaños, pero prefiere la lectura «Ceretanos» | Etnografia |
+| 7 | Valerio Máximo | XXIII | Lo cierto es que en aquellas exequias hubo juegos de diversas maneras, y en particular de gladiatores o esgrimidores, que de su voluntad se ofrecieron a la pelea, entre los cuales hicieron campo dos primos hermanos, llamado el uno Corbis y el otro Orsua, por cierta diferencia que tenían sobre el señorío de la ciudad llamada Iba. Valerio Máximo dice que eran hermanos. | Autor no registrado en la tabla, hallado en la tercera pasada (l. 2611, capítulo vecino del XXII, incluido por solape de rangos). Mariana discrepa de Valerio Máximo sobre el parentesco de los gladiadores Corbis y Orsua | Genealogia |
 
 ### Libro Tercero
 
@@ -84,4 +85,4 @@ Sin citas incluidas: Cicerón (cap. XX, l. 2143–2145) fue descartado en la ver
 
 ---
 
-**Total: 27 capítulos sin citas analizados (dos pasadas) → 6 citas incluidas en 5 capítulos (4 nuevas + 2 menciones incluidas tras verificación), 22 verificados como sin cita** (nota: el Libro Tercero no tiene capítulo XIX, la numeración salta de XVIII a XX).
+**Total: 27 capítulos sin citas analizados (tres pasadas) → 6 citas incluidas en 5 capítulos (4 nuevas + 2 menciones incluidas tras verificación) + 1 cita nueva adicional de autor no registrado (Valerio Máximo, cap. XXIII del Libro Segundo), 22 verificados como sin cita** (nota: el Libro Tercero no tiene capítulo XIX, la numeración salta de XVIII a XX).

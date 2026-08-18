@@ -198,9 +198,31 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 | 175 | Claudiano | XX | como lo canto Claudiano poeta de aquel tiempo, muy famoso, si pagano, si fiel no se sabe: lo mas cierto es que no fue Cristiano. Mucho tambien ayu- | Claudiano: batalla de Frígido (394) | Politica/Militar |
 | 176 | Orosio | XXI | conforme a la cuenta mas acertada: dado que Paulo Orosio y Prospero Aquitano, a este numero parece anadir dos anos. En aquella ciudad prendiero- | Orosio: añade dos años a la cronología | Cronologia |
 | 177 | Prospero de Aquitania | XXI | conforme a la cuenta mas acertada: dado que Paulo Orosio y Prospero Aquitano, a este numero parece anadir dos anos. En aquella ciudad prendiero- | Próspero Aquitano: añade dos años a la cronología | Cronologia |
-| 178 | San Ildefonso de Toledo | XX | Asturio, el cual firmo en el sexto lugar, era a la sazon obispo de Toledo, y que es aquel de quien testifica San Ildefonso en sus claros varones, que hallo los sanctos cuerpos de los santos martires Justo y Pastor en Alcala de Henares, do pa- | San Ildefonso: Varones ilustres de Toledo - hallazgo de Justo y Pastor en Alcalá | Religion |
+| 178 | San Ildefonso de Toledo | XXI | Asturio, el cual firmo en el sexto lugar, era a la sazon obispo de Toledo, y que es aquel de quien testifica San Ildefonso en sus claros varones, que hallo los sanctos cuerpos de los santos martires Justo y Pastor en Alcala de Henares, do pa- | San Ildefonso: Varones ilustres de Toledo - hallazgo de Justo y Pastor en Alcalá | Religion |
 
-**Total de apariciones (fuentes externas): 178**
+### Hallazgos de la tercera pasada (colaterales, pendientes de verificación manual)
+
+Apariciones localizadas en los capítulos XII–XXI del Libro Cuarto durante la pasada redundante de 2026-08-18. Los autores marcados como **NUEVO** no estaban registrados en la tabla; los marcados como **DUDOSA** requieren verificación antes de confirmarse. El usuario decidirá en verificación manual cuáles se mantienen.
+
+| # | Autor | Capítulo | Cita normalizada | Contexto | Temática |
+|---|-------|----------|------------------|----------|----------|
+| 179 | Lucas de Tuy | XIII | don Lucas de Tuy atestigua lo mismo | Lucas de Tuy (*Chronicon mundi*) atestigua la identificación de Elbora con Talavera — **NUEVO autor** | Geografia |
+| 180 | Eusebio Cesariense | XIIII | Eusebio refiere que vio las bestias fieras que no acometían a los mártires | Eusebio: testimonio sobre la persecución de Diocleciano (mártires y bestias fieras) — nueva aparición (la tabla solo registra cap. XVI) | Religion |
+| 181 | Claudio Ptolomeo | XIIII | le llamó Libera | Ptolomeo: nomenclatura de la ciudad (Libera/Ebura), duplica la cita del cap. XIII — **DUDOSA** | Geografia |
+| 182 | Tito Livio | XIIII | Ebura | Tito Livio: nomenclatura de Ebura, cita conjunta con Ptolomeo — **DUDOSA** | Geografia |
+| 183 | Severo Sulpicio | XVI | Senero Sulpictoi... los dos Arrios... y de entrambos se hace mención | Severo Sulpicio: mención de los dos Arrios (nota marginal corrupta por OCR, reconstruida) — **DUDOSA** | Historiografia |
+| 184 | San Jerónimo | XVII | son las mismas palabras de san Jeronymo | San Jerónimo: filiación de una frase sobre el mundo hecho arriano tras el concilio de Arimino — segunda aparición en cap. XVII | Religion |
+| 185 | San Hilario de Poitiers | XVII | lo que dize san Hilario de Osio, que amó demasiadamente su sepulcro | San Hilario: juicio sobre Osio de Córdoba — **NUEVO autor** | Biografia |
+| 186 | Amiano Marcelino | XIX | según lo refiere Marcellino | Amiano: política de libertad religiosa de Valentiniano — segunda aparición en cap. XIX | Religion |
+| 187 | Prospero de Aquitania | XX | Próspero le llama Vrsino | Próspero: identificación de Ursino como sucesor de Dámaso — nueva aparición (la tabla solo registra cap. XXI) | Religion |
+| 188 | San Isidoro de Sevilla | XX | Isidoro dize Vrfacio, en lugar de Idacio | San Isidoro: lectura Vrfacio en lugar de Idacio — nueva aparición en cap. XX | Linguistica |
+| 189 | San Ambrosio | XX | los santos Ambrollo y Augustino en particulares sermones declararon las virtudes de Teodosio | San Ambrosio (con San Agustín): sermones sobre las virtudes de Teodosio — **NUEVO autor, DUDOSA** | Religion |
+| 190 | Aurelio Víctor | XX | como lo dize Aurelio Victor | Aurelio Víctor: etimología del nombre Teodosio («dado de Dios») — **NUEVO autor** | Linguistica |
+| 191 | Luciano (de Kfar Gamala) | XX | un librito de Luciano, sobre la invención del cuerpo del protomártir Estéfano | Luciano: *Inventio* del cuerpo de San Esteban (traducido por Avito de Braga) — **NUEVO autor, DUDOSA** | Religion |
+| 192 | San Jerónimo | XX | según que lo testifican el libro que escribió contra él san Jeronymo | San Jerónimo: obra *Contra Vigilancio* citada como testimonio — nueva aparición en cap. XX | Religion |
+| 193 | Juan de Biclaro | XXI | De lo que escribe el abbad Biclarense | Juan de Biclaro (abad Biclarense): Novello, obispo de Alcalá en tiempo de Leovigildo — **NUEVO autor** | Religion |
+
+**Total de apariciones (fuentes externas): 193**
 
 ## Autoreferencias de Juan de Mariana
 
@@ -217,15 +239,15 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 
 | Concepto | Valor |
 | --- | --- |
-| Total de citas | 180 |
-| Autores únicos | 75 |
+| Total de citas | 195 |
+| Autores únicos | 81 |
 
 ## Resumen por autor
 
 | Autor | Apariciones | Libros | Temática |
 |-------|-------------|--------|----------|
 | Ambrosio de Morales | 1 | III | Fuentes epigráficas, letreros antiguos |
-| Amiano Marcelino | 2 | IV | Relatos de costumbres sociales romanas, disputas papales (Damaso vs. Ursino) |
+| Amiano Marcelino | 3 | IV | Relatos de costumbres sociales romanas, disputas papales (Damaso vs. Ursino), libertad religiosa de Valentiniano |
 | Anaxiteonte | 1 | I | Longevidad de Argantonio (ciento y cincuenta años) |
 | Andrea de' Bardi | 1 | III | Inscripciones y epigrafía antigua (Anconitano) |
 | Antonino | 1 | I | Itinerario geográfico, fuentes de viajeros |
@@ -234,6 +256,7 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | Aristoteles | 3 | I, II | Llegada de los fenicios a Cádiz, costumbres funerarias hispanas, política cartaginesa |
 | Arriano | 2 | I, II | Topografía de la costa africana, crónicas de Alejandro Magno y embajadas |
 | Aulo Gelio | 1 | II | Campañas militares de Catón contra Numancia |
+| Aurelio Víctor | 1 | IV | Etimología del nombre Teodosio (hallazgo pasada 3) |
 | Beda | 1 | IV | Cronología apostólica (predicación de Pablo en Narbona) |
 | Braulio de Zaragoza | 1 | IV | Hagiografía de Santa Leocadia |
 | Casiodoro | 1 | III | Sobrenombre Magnus de Pompeyo, cita conjunta con Tertuliano |
@@ -242,12 +265,12 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | Cayo Suetonio Tranquilo | 3 | I, IV | Oráculo de los Gériones en Padua, Domiciano destierra filósofos |
 | Ciceron | 4 | II | Retórica y elocuencia, biografías de oradores hispanos, etimología de «Era» |
 | Claudiano | 1 | IV | Batalla de Frígido (394) |
-| Claudio Ptolomeo | 13 | I, II, III, IV | Geografía de Hispania: localización de pueblos, ciudades, ríos y provincias |
+| Claudio Ptolomeo | 14 | I, II, III, IV | Geografía de Hispania: localización de pueblos, ciudades, ríos y provincias |
 | Diodoro Siculus | 3 | I | Mitología egipcia (Osiris/Baccho), orígenes divinos, guerras de Heracles |
 | Dion | 8 | II, III, IV | Guerras civiles romanas en Hispania, imperio de Augusto y Nerón, prodigios militares |
 | Dionisio de Halicarnaso | 1 | II | Epidemias antiguas |
 | Estrabon | 5 | II, III | Geografía de Hispania, diversidad lingüística, etnografía, colonizaciones griegas |
-| Eusebio Cesariense | 2 | IV | Cronología eclesiástica, herejía arriana |
+| Eusebio Cesariense | 3 | IV | Cronología eclesiástica, herejía arriana, persecución de Diocleciano (mártires y bestias fieras) |
 | Eusebio de Cesarea | 2 | II | Cronología antigua, datos numéricos de batallas navales |
 | Fabio Pictor | 1 | I | Autoridad sobre la fundación de Roma |
 | Falso Beroso | 1 | I | Crónicas fabulosas del Oriente (rechazadas por Mariana) |
@@ -259,11 +282,14 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | Herodoto | 1 | I | Curiosidades etnográficas (derrota asiria por ratones) |
 | Hilderico | 1 | III | Fuente sobre la cronología de la Era |
 | Hipócrates | 1 | II | Remedio contra la peste antigua (quema de montes en Tesalia) |
+| Juan de Biclaro | 1 | IV | Novello, obispo de Alcalá en tiempo de Leovigildo (hallazgo pasada 3) |
 | Juan Margarite | 1 | III | Discrepancia sobre la Era del César (Mariana lo corrige) |
 | Julio Capitolino | 1 | IV | Legion Fulminatrix, lluvia milagrosa |
 | Justino | 4 | I | Reyes de Tartessos, mitología, colonizaciones antiguas, venida de Teucro |
 | Lucano | 1 | III | Geografía fluvial hispana (río Segre) |
+| Lucas de Tuy | 1 | IV | Identificación de Elbora con Talavera (hallazgo pasada 3) |
 | Lucilio | 1 | III | Etimología de «Era» como partida de libros de cuentas |
+| Luciano (de Kfar Gamala) | 1 | IV | Invención del cuerpo de San Esteban (hallazgo pasada 3, dudosa) |
 | Marco Varron | 1 | I | Etimología del nombre «España» |
 | Miguel Sincelo | 1 | IV | Fuentes hagiográficas bizantinas, Vida de San Clemente |
 | Moro Rasis | 3 | III, IV | Historiador árabe: Mérida, murallas de Toledo, dioceses de Constantino |
@@ -277,27 +303,29 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | Poggio Florentín | 1 | IV | Recuperación de las *Instituciones oratorias* de Quintiliano |
 | Polibio | 4 | I, II | Guerras púnicas, asedio de Sagunto, tácticas militares, Turdulos y Turdetanos |
 | Pomponio Mela | 3 | I, III | Geografía costera de Galicia, monumentos augustales |
-| Prospero de Aquitania | 1 | IV | Cronología del saqueo de Roma (410) |
+| Prospero de Aquitania | 2 | IV | Cronología del saqueo de Roma (410), identificación de Ursino como sucesor de Dámaso |
 | Prudencio | 3 | IV | Martirologio cristiano, poesía hispanolatina, martyres |
 | Quintiliano | 3 | IV | Retórica, biografías de oradores, teatro y tragedia |
 | Rufo Festo | 2 | I, II | Topografía de Hispania (Solorio, bocas del Guadalquivir) |
 | San Agustín | 2 | IV | Discrepancia en los cónsules del año de fundación de Roma, edictos del 303 |
+| San Ambrosio | 1 | IV | Sermones sobre las virtudes de Teodosio (hallazgo pasada 3, dudosa) |
 | San Basilio | 1 | IV | Martirologio oriental (40 mártires de Sebaste) |
+| San Hilario de Poitiers | 1 | IV | Juicio sobre Osio de Córdoba (hallazgo pasada 3) |
 | San Ildefonso de Toledo | 1 | IV | Varones ilustres de Toledo, hallazgo de Justo y Pastor en Alcalá |
-| San Isidoro de Sevilla | 8 | I, III, IV | Etimología, división provincial de Hispania, erudición enciclopédica |
-| San Jerónimo | 1 | IV | Filología patrística, *De viris illustribus* dedicado a Dextro |
+| San Isidoro de Sevilla | 9 | I, III, IV | Etimología, división provincial de Hispania, erudición enciclopédica |
+| San Jerónimo | 3 | IV | Filología patrística, *De viris illustribus*, Contra Vigilancio, mundo arriano |
 | San Lucas | 2 | IV | Hechos apostólicos (Agripa), martirio de Santiago |
 | Seneca | 1 | IV | Mención de oradores españoles en sus declamaciones |
-| Severo Sulpicio | 1 | IV | Crónica eclesiástica, sentencia a Itacio |
+| Severo Sulpicio | 2 | IV | Crónica eclesiástica, sentencia a Itacio, mención de los dos Arrios (dudosa) |
 | Sexto Rufo | 1 | I | División constantiniana de Hispania en tres provincias |
 | Sigiberto de Gembloux | 1 | IV | Discrepancias sobre sedes episcopales (Lamego vs. Empañas) |
 | Tacito | 1 | IV | Religión romana, prodigios (ave fénix) |
 | Tertuliano | 1 | III | Sobrenombre de Pompeyo, cita conjunta con Casiodoro |
 | Tito Flavio Josefo | 1 | I | Historia de Judea, invasiones babilónicas |
-| Tito Livio | 7 | III | Guerras púnicas, conquista de Hispania, etnografía, topografía |
+| Tito Livio | 8 | III, IV | Guerras púnicas, conquista de Hispania, etnografía, topografía, nomenclatura de Ebura (dudosa) |
 | Trebellio Polión | 1 | IV | Cronología de la Historia Augusta — Mariana lo refuta por errado |
 | Tucides | 1 | II | Epidemias antiguas |
 | Usuardo | 1 | IV | Cronología apostólica (predicación de Pablo) |
 | Virgilio | 2 | I, III | Mitos fundacionales (Hércules), geografía, referente literario |
 
-**Total de autores distintos: 75 fuentes externas + 1 autor propio (Juan de Mariana) = 76**
+**Total de autores distintos: 81 fuentes externas + 1 autor propio (Juan de Mariana) = 82**
