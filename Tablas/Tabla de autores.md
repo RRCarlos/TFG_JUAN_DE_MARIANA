@@ -209,27 +209,25 @@ Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la *Histor
 
 ### Hallazgos de la tercera pasada (colaterales, pendientes de verificación manual)
 
-Apariciones localizadas en los capítulos XII–XXI del Libro Cuarto durante la pasada redundante de 2026-08-18. Los autores marcados como **NUEVO** no estaban registrados en la tabla; los marcados como **DUDOSA** requieren verificación antes de confirmarse. El usuario decidirá en verificación manual cuáles se mantienen.
+Apariciones localizadas en los capítulos XII–XXI del Libro Cuarto durante la pasada redundante de 2026-08-18. Los autores marcados como **DUDOSA** requieren verificación antes de confirmarse. El usuario decidirá en verificación manual cuáles se mantienen.
 
 | # | Autor | Capítulo | Cita normalizada | Contexto | Temática |
 |---|-------|----------|------------------|----------|----------|
-| 179 | Lucas de Tuy | XIII | don Lucas de Tuy atestigua lo mismo | Lucas de Tuy (*Chronicon mundi*) atestigua la identificación de Elbora con Talavera — **NUEVO autor** | Geografia |
+| 179 | Lucas de Tuy | XIII | don Lucas de Tuy atestigua lo mismo | Lucas de Tuy (*Chronicon mundi*) atestigua la identificación de Elbora con Talavera | Geografia |
 | 180 | Eusebio Cesariense | XIIII | Eusebio refiere que vio las bestias fieras que no acometían a los mártires | Eusebio: testimonio sobre la persecución de Diocleciano (mártires y bestias fieras) — nueva aparición (la tabla solo registra cap. XVI) | Religion |
-| 181 | Claudio Ptolomeo | XIIII | le llamó Libera | Ptolomeo: nomenclatura de la ciudad (Libera/Ebura), duplica la cita del cap. XIII — **DUDOSA** | Geografia |
-| 182 | Tito Livio | XIIII | Ebura | Tito Livio: nomenclatura de Ebura, cita conjunta con Ptolomeo — **DUDOSA** | Geografia |
 | 183 | Severo Sulpicio | XVI | Senero Sulpictoi... los dos Arrios... y de entrambos se hace mención | Severo Sulpicio: mención de los dos Arrios (nota marginal corrupta por OCR, reconstruida) — **DUDOSA** | Historiografia |
 | 184 | San Jerónimo | XVII | son las mismas palabras de san Jeronymo | San Jerónimo: filiación de una frase sobre el mundo hecho arriano tras el concilio de Arimino — segunda aparición en cap. XVII | Religion |
-| 185 | San Hilario de Poitiers | XVII | lo que dize san Hilario de Osio, que amó demasiadamente su sepulcro | San Hilario: juicio sobre Osio de Córdoba — **NUEVO autor** | Biografia |
+| 185 | San Hilario de Poitiers | XVII | lo que dize san Hilario de Osio, que amó demasiadamente su sepulcro | San Hilario: juicio sobre Osio de Córdoba | Biografia |
 | 186 | Amiano Marcelino | XIX | según lo refiere Marcellino | Amiano: política de libertad religiosa de Valentiniano — segunda aparición en cap. XIX | Religion |
 | 187 | Prospero de Aquitania | XX | Próspero le llama Vrsino | Próspero: identificación de Ursino como sucesor de Dámaso — nueva aparición (la tabla solo registra cap. XXI) | Religion |
 | 188 | San Isidoro de Sevilla | XX | Isidoro dize Vrfacio, en lugar de Idacio | San Isidoro: lectura Vrfacio en lugar de Idacio — nueva aparición en cap. XX | Linguistica |
-| 189 | San Ambrosio | XX | los santos Ambrollo y Augustino en particulares sermones declararon las virtudes de Teodosio | San Ambrosio (con San Agustín): sermones sobre las virtudes de Teodosio — **NUEVO autor, DUDOSA** | Religion |
-| 190 | Aurelio Víctor | XX | como lo dize Aurelio Victor | Aurelio Víctor: etimología del nombre Teodosio («dado de Dios») — **NUEVO autor** | Linguistica |
-| 191 | Luciano (de Kfar Gamala) | XX | un librito de Luciano, sobre la invención del cuerpo del protomártir Estéfano | Luciano: *Inventio* del cuerpo de San Esteban (traducido por Avito de Braga) — **NUEVO autor, DUDOSA** | Religion |
+| 189 | San Ambrosio | XX | los santos Ambrollo y Augustino en particulares sermones declararon las virtudes de Teodosio | San Ambrosio (con San Agustín): sermones sobre las virtudes de Teodosio — **DUDOSA** | Religion |
+| 190 | Aurelio Víctor | XX | como lo dize Aurelio Victor | Aurelio Víctor: etimología del nombre Teodosio («dado de Dios») | Linguistica |
+| 191 | Luciano (de Kfar Gamala) | XX | un librito de Luciano, sobre la invención del cuerpo del protomártir Estéfano | Luciano: *Inventio* del cuerpo de San Esteban (traducido por Avito de Braga) — **DUDOSA** | Religion |
 | 192 | San Jerónimo | XX | según que lo testifican el libro que escribió contra él san Jeronymo | San Jerónimo: obra *Contra Vigilancio* citada como testimonio — nueva aparición en cap. XX | Religion |
-| 193 | Juan de Biclaro | XXI | De lo que escribe el abbad Biclarense | Juan de Biclaro (abad Biclarense): Novello, obispo de Alcalá en tiempo de Leovigildo — **NUEVO autor** | Religion |
+| 193 | Juan de Biclaro | XXI | De lo que escribe el abbad Biclarense | Juan de Biclaro (abad Biclarense): Novello, obispo de Alcalá en tiempo de Leovigildo | Religion |
 
-**Total de apariciones (fuentes externas): 193**
+**Total de apariciones (fuentes externas): 191**
 
 ## Autoreferencias de Juan de Mariana
 
