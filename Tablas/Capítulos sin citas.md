@@ -52,7 +52,7 @@ Apariciones localizadas en los capítulos XII–XXI del Libro Cuarto durante la 
 
 | # | Autor | Capítulo | Cita normalizada | Contexto | Temática |
 |---|-------|----------|------------------|----------|----------|
-|  | Lucas de Tuy | XIII | y entre nuestros historiadores don Lucas de Tuy atestigua lo mismo. | Lucas de Tuy (*Chronicon mundi*) atestigua la identificación de Elbora con Talavera; Mariana defiende su testimonio contra quien lo desestima | Geografia |
+|  | Lucas de Tuy | XIII | y entre nuestros historiadores don Lucas de Tuy atestigua lo mismo. | Lucas de Tuy atestigua la identificación de Elbora con Talavera; Mariana defiende su testimonio contra quien lo desestima | Geografia |
 |  | Eusebio Cesariense | XIIII | Eusebio refiere que vio las bestias fieras, ni por hambre, poder irritarlas para que acometiesen a los mártires. | Eusebio: testimonio sobre la persecución de Diocleciano (las bestias fieras no acometían a los mártires) | Religion |
 |  | San Jerónimo | XVII | todo el mundo gimió de verse de repente hecho Arriano: que son las mismas palabras de san Ieronymo. | San Jerónimo: filiación de la frase «todo el mundo gimió de verse hecho arriano» tras el concilio de Arimino | Religion |
 |  | San Hilario de Poitiers | XVII | Pero a mí mucha fuerza me haze lo que dize san Hilario de Osio, que amó demasiadamente su sepulcro. | San Hilario: juicio sobre Osio de Córdoba (su debilidad final contradice su fama de firmeza) | Biografia |
@@ -60,6 +60,6 @@ Apariciones localizadas en los capítulos XII–XXI del Libro Cuarto durante la 
 |  | Prospero de Aquitania | XX | Próspero le llama Vrsino, que pretendió el Pontificado en competencia de Damaso y le succedió después de él muerto. | Próspero: identificación de Ursino como sucesor de Dámaso | Religion |
 |  | San Isidoro de Sevilla | XX | Itacio y Idacio (Isidoro dize Vrfacio, en lugar de Idacio) fueron accusados y condenados en destierro. | San Isidoro: lectura Vrfacio en lugar de Idacio | Linguistica |
 |  | Aurelio Víctor | XX | El nombre de Theodosio, que quiere dezir dado de Dios, como lo dize Aurelio Víctor. | Aurelio Víctor: etimología del nombre Teodosio («dado de Dios») | Linguistica |
-|  | Luciano (de Kfar Gamala) | XX | Abundio Auito traduxo en lengua Latina vn librito de Luciano, sobre la inuención del cuerpo del protomártir Stephano. | Luciano: *Inventio* del cuerpo de San Esteban; el presbítero Abundio Avito de Tarragona tradujo su librillo al latín | Religion |
+|  | Luciano (de Kfar Gamala) | XX | Abundio Auito traduxo en lengua Latina vn librito de Luciano, sobre la inuención del cuerpo del protomártir Stephano. | Luciano: hallazgo del cuerpo de San Esteban; el presbítero Abundio Avito de Tarragona tradujo su librillo al latín | Religion |
 |  | San Jerónimo | XX | exercitaron la pluma contra Vigilancio natural de Pamplona, según que lo testifican el libro que escriuió contra él san Ieronymo. | San Jerónimo: libro contra Vigilancio, crítico del culto a los santos, citado como testimonio de la controversia | Religion |
 |  | Juan de Biclaro | XXI | De lo que escriue el abbad Biclarense, se entiende que en tiempo de Leouigildo rey de los Godos, Nouello fue obispo de Alcala. | Juan de Biclaro (abad Biclarense): Novello, obispo de Alcalá en tiempo de Leovigildo, sin sucesión inmediata de Asturio | Religion |
