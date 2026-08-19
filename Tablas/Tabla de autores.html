@@ -3,25 +3,38 @@
 <head>
 <meta charset="utf-8">
 <style>
-  @page { size: A3 landscape; margin: 1.5cm; }
-  body { font-family: Georgia, serif; font-size: 9pt; color: #222; }
-  h1 { font-size: 16pt; text-align: center; margin-bottom: 4pt; }
-  h2 { font-size: 12pt; border-bottom: 1px solid #999; padding-bottom: 3pt; margin-top: 14pt; }
-  p { font-size: 9pt; line-height: 1.4; text-align: justify; }
-  table { border-collapse: collapse; width: 100%; font-size: 7.5pt; margin-top: 6pt; }
-  th, td { border: 1px solid #aaa; padding: 3pt 4pt; vertical-align: top; }
-  th { background: #f0f0f0; font-weight: bold; }
-  td:nth-child(1) { text-align: center; white-space: nowrap; width: 28pt; }
-  td:nth-child(3) { white-space: nowrap; width: 36pt; }
-  td:nth-child(6) { white-space: nowrap; width: 60pt; }
+  @page { size: A4; margin: 1cm; }
+  * { box-sizing: border-box; }
+  body { font-family: Georgia, "Times New Roman", serif; font-size: 9pt; color: #1a1a1a; line-height: 1.35; }
+  h1 { font-size: 15pt; text-align: center; margin: 0 0 6pt 0; color: #1F4E79; }
+  h2 { font-size: 11pt; border-bottom: 2px solid #1F4E79; color: #1F4E79; padding-bottom: 2pt; margin: 12pt 0 4pt 0; page-break-after: avoid; }
+  p { font-size: 8.5pt; line-height: 1.35; text-align: justify; }
+  table { border-collapse: collapse; width: 100%; font-size: 7pt; margin: 4pt 0; }
+  table.wide { table-layout: fixed; }
+  th, td { border: 1px solid #b0b0b0; padding: 2pt 3pt; vertical-align: top; overflow-wrap: break-word; word-wrap: break-word; }
+  thead th { background: #1F4E79; color: #ffffff; font-weight: bold; text-align: left; }
+  thead th:nth-child(1) { text-align: center; }
+  tbody tr:nth-child(even) td { background: #EDF2F8; }
+  table.wide thead th:nth-child(1) { width: 4%; }
+  table.wide thead th:nth-child(2) { width: 14%; }
+  table.wide thead th:nth-child(3) { width: 8%; }
+  table.wide thead th:nth-child(4) { width: 33%; }
+  table.wide thead th:nth-child(5) { width: 31%; }
+  table.wide thead th:nth-child(6) { width: 10%; }
+  table.wide td:nth-child(1) { text-align: center; }
+  tr { page-break-inside: avoid; }
+  thead { display: table-header-group; }
   strong { font-weight: bold; }
+  em { font-style: italic; }
+  @media print { th, td { -webkit-print-color-adjust: exact; print-color-adjust: exact; } }
 </style>
 </head>
 <body>
 <h1>Tabla de autores</h1>
 <p>Autores citados por Juan de Mariana en los Libros Primero a Cuarto de la <em>Historia General de España</em> (edición de 1601). La tabla incluye únicamente citas historiográficas, es decir, aquellos pasajes en que Mariana emplea a un autor como fuente o testimonio; se han excluido las menciones biográficas de personajes (aunque fuesen historiadores) cuando el autor es simplemente nombrado en la narración sin aportar testimonio propio. Cada fila indica una aparición concreta del autor, ordenada por libro y capítulo. La columna <strong>Cita normalizada</strong> aplica ortografía moderna (s larga→s, espacios) con verificación manual completa. La columna <strong>Contexto</strong> describe brevemente el contexto historiográfico de cada cita. La columna <strong>Temática</strong> clasifica cada cita en grandes grupos temáticos: Geografía, Etnografía, Historiografía, Cronología, Biografía, Genealogía, Política/Militar, Religión, Arqueología y Lingüística.</p>
 <h2>Libro Primero</h2>
-<table>
+<table class="wide">
+<thead>
 <tr>
 <th>#</th>
 <th>Autor</th>
@@ -30,6 +43,8 @@
 <th>Contexto</th>
 <th>Temática</th>
 </tr>
+</thead>
+<tbody>
 <tr>
 <td>1</td>
 <td>Plinio</td>
@@ -470,9 +485,11 @@
 <td>Plinio: Hannón llegó en su navegación hasta el cabo de Buena Esperanza</td>
 <td>Geografia</td>
 </tr>
+</tbody>
 </table>
 <h2>Libro Segundo</h2>
-<table>
+<table class="wide">
+<thead>
 <tr>
 <th>#</th>
 <th>Autor</th>
@@ -481,6 +498,8 @@
 <th>Contexto</th>
 <th>Temática</th>
 </tr>
+</thead>
+<tbody>
 <tr>
 <td>56</td>
 <td>Dionisio de Halicarnaso</td>
@@ -713,9 +732,11 @@
 <td>Córdoba en tiempo de Aníbal</td>
 <td>Geografia</td>
 </tr>
+</tbody>
 </table>
 <h2>Libro Tercero</h2>
-<table>
+<table class="wide">
+<thead>
 <tr>
 <th>#</th>
 <th>Autor</th>
@@ -724,6 +745,8 @@
 <th>Contexto</th>
 <th>Temática</th>
 </tr>
+</thead>
+<tbody>
 <tr>
 <td>85</td>
 <td>Appiano</td>
@@ -1100,9 +1123,11 @@
 <td>Plinio: las medidas de la Bética o Andalucía no estaban de todo punto ajustadas</td>
 <td>Geografia</td>
 </tr>
+</tbody>
 </table>
 <h2>Libro Cuarto</h2>
-<table>
+<table class="wide">
+<thead>
 <tr>
 <th>#</th>
 <th>Autor</th>
@@ -1111,6 +1136,8 @@
 <th>Contexto</th>
 <th>Temática</th>
 </tr>
+</thead>
+<tbody>
 <tr>
 <td>132</td>
 <td>San Agustín</td>
@@ -1631,10 +1658,12 @@
 <td>Juan de Biclaro (abad Biclarense): Novello, obispo de Alcalá en tiempo de Leovigildo, sin sucesión inmediata de Asturio</td>
 <td>Religion</td>
 </tr>
+</tbody>
 </table>
 <h2>Autoreferencias de Juan de Mariana</h2>
 <p>Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempre remitiendo a su <em>Historiae de Rebus Hispaniae</em> (1592) como depósito erudito del que la versión castellana extracta o prescinde. Ninguna de las dos es una cita de autoridad factual, sino una decisión editorial sobre qué incluir y dónde.</p>
-<table>
+<table class="wide">
+<thead>
 <tr>
 <th>#</th>
 <th>Autor</th>
@@ -1643,6 +1672,8 @@
 <th>Contexto</th>
 <th>Temática</th>
 </tr>
+</thead>
+<tbody>
 <tr>
 <td>AR1</td>
 <td>Juan de Mariana</td>
@@ -1659,14 +1690,18 @@
 <td>Mariana remite al lector a su obra latina para consultar la epístola de Vespasiano hallada en Cañete (antigua Sabora). No la reproduce ni en latín ni en romance.</td>
 <td>Historiografia</td>
 </tr>
+</tbody>
 </table>
 <p><strong>Total de autoreferencias: 2</strong></p>
 <h2>Conteo de citas</h2>
 <table>
+<thead>
 <tr>
 <th>Concepto</th>
 <th>Valor</th>
 </tr>
+</thead>
+<tbody>
 <tr>
 <td>Total de citas</td>
 <td>198</td>
@@ -1675,15 +1710,19 @@
 <td>Autores únicos</td>
 <td>85</td>
 </tr>
+</tbody>
 </table>
 <h2>Resumen por autor</h2>
 <table>
+<thead>
 <tr>
 <th>Autor</th>
 <th>Apariciones</th>
 <th>Libros</th>
 <th>Temática</th>
 </tr>
+</thead>
+<tbody>
 <tr>
 <td>Ambrosio de Morales</td>
 <td>1</td>
@@ -2194,6 +2233,7 @@
 <td>I, III</td>
 <td>Mitos fundacionales (Hércules), geografía, referente literario</td>
 </tr>
+</tbody>
 </table>
 <p><strong>Total de autores distintos: 85 fuentes externas + 1 autor propio (Juan de Mariana) = 86</strong></p>
 </body>
