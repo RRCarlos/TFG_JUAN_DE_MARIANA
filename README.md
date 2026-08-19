@@ -44,7 +44,7 @@ Comprender el sistema de citas de Mariana permite:
 
 ### Estado actual del proyecto (Agosto 2026)
 
-> **Nota de estado:** la **verificación manual** de las citas está **completa** (180 de 180 apariciones —178 externas más 2 autoreferencias— contrastadas con el OCR de los Libros Primero a Cuarto). Las cifras de este documento son definitivas salvo correcciones puntuales.
+> **Nota de estado:** la **verificación manual** de las citas está **completa** (180 de 180 apariciones —178 externas más 2 autoreferencias— contrastadas con el OCR de los Libros Primero a Cuarto). Las cifras de este documento son definitivas salvo correcciones puntuales. Existe además una sección de **13 citas colaterales** del Libro Cuarto (capítulos XII–XXI), localizadas en una pasada redundante y pendientes de verificación manual; se documentan en `Tablas/Capítulos sin citas.md` y al final de `Tablas/Tabla de autores.md`, sin integrarse todavía al conteo principal.
 
 Resultados:
 
@@ -119,7 +119,8 @@ proyecto-autores/
 ├── README.md                          — Bitácora del proyecto
 │
 ├── Tablas/
-│   ├── Tabla de autores.md            — Tabla principal: 180 citas con Cita normalizada, Contexto y Temática
+│   ├── Tabla de autores.md            — Tabla principal: 180 citas con Cita normalizada, Contexto y Temática (+ 13 citas colaterales pendientes)
+│   ├── Capítulos sin citas.md         — Capítulos de los Libros I–IV sin cita de autor + sección Citas colaterales (13)
 │   ├── Tabla de autores.html          — Exportación imprimible de la tabla (nota: desactualizada respecto al .md)
 │   └── Tabla de capítulos.md          — Índice de capítulos de los Libros I–IV (con línea inicial en el OCR)
 │
@@ -153,6 +154,11 @@ Se incluyen además:
 - **Autoreferencias de Juan de Mariana** (2 remisiones a su *Historiae de Rebus Hispaniae* de 1592).
 - **Conteo de citas** por libro.
 - **Resumen por autor** (76 autores con temática y frecuencia de aparición).
+- **Citas colaterales** (sección al final, no contada en el total): 13 apariciones del Libro Cuarto halladas en la pasada redundante, pendientes de verificación manual; la misma información se replica en `Tablas/Capítulos sin citas.md`.
+
+### Los capítulos sin cita
+
+`Tablas/Capítulos sin citas.md` lista los capítulos de los Libros I–IV en los que no se registró ninguna cita de autor, con su línea inicial en el OCR. Al final incluye la sección **Citas colaterales** con el mismo esquema de columnas que la tabla principal.
 
 ---
 
@@ -185,5 +191,5 @@ Mariana, J. de. *Historia General de España*. Toledo, 1601.
 
 ---
 
-*Última actualización: 18 de agosto de 2026*
+*Última actualización: 19 de agosto de 2026*
 [Repositorio en GitHub](https://github.com/RRCarlos/proyecto-autores)
