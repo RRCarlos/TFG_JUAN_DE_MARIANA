@@ -2,6 +2,8 @@
 
 Capítulos de los Libros I–IV de la *Historia General de España* (edición de 1601) en los que no se ha localizado ninguna cita historiográfica de autor en la tabla de autores. La columna **Línea** indica la línea inicial del capítulo en el archivo OCR correspondiente.
 
+**Revisión exhaustiva finalizada el 20 de agosto de 2026.** Todos los capítulos listados a continuación fueron sometidos a un análisis en profundidad línea por línea (pasadas redundantes con subagentes independientes). Resultado confirmado: ninguno contiene citas explícitas de autores antiguos; las únicas referencias halladas son apelaciones indirectas a fuentes anónimas («algunos», «otros», «dizen», «nuestros escritores»), que no cumplen el criterio de la tabla de autores.
+
 ## Libro Primero (3 de 22)
 
 | Cap. | Título | Línea |
