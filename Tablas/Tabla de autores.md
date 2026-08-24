@@ -232,7 +232,8 @@ Mariana se cita a sí mismo en dos ocasiones dentro de los Libros I–IV, siempr
 | Concepto | Valor |
 | --- | --- |
 | Total de citas | 194 |
-| Autores únicos | 83 |
+| Autores externos únicos | 83 |
+| Total autores distintos (incluyendo a Juan de Mariana) | 84 |
 
 ## Resumen por autor
 
