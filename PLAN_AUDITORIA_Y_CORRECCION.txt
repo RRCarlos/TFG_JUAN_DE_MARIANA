@@ -1,295 +1,155 @@
-PROYECTO: Auditoría y corrección del repositorio de investigación sobre la Historia General de España de Juan de Mariana
+PROYECTO: Auditoria y estabilizacion documental del repositorio de investigacion sobre la Historia General de Espana de Juan de Mariana
 
-ESTADO DE ESTE DOCUMENTO:
-Este documento describe un plan de trabajo por fases, con comprobaciones intermedias, controles de calidad y mecanismos anti-alucinación para evitar que una IA o cualquier persona ejecute cambios sobre documentos del proyecto sin evidencia verificable.
+PROPOSITO
+Este documento define un procedimiento breve para detectar y corregir errores documentales sin introducir afirmaciones no verificadas. Se aplica a cualquier IA, agente o persona que trabaje sobre el repositorio.
 
-POLÍTICA DE EJECUCIÓN:
-- Antes de iniciar cualquier tarea de edición, validación o corrección, el agente o IA debe leer este archivo.
-- Si este archivo está presente y el usuario no ha dado confirmación explícita, el agente debe pausar y pedir confirmación antes de ejecutar cambios.
-- No se debe asumir que el README, la tabla principal o cualquier documento es correcto solo porque parece “terminado”.
-- Cada cambio debe estar apoyado por una fuente dentro del repositorio o por una observación verificable del contenido del proyecto.
-- Si existen discrepancias entre documentos, la prioridad es la fuente primaria y la evidencia reproducible.
+REGLAS OBLIGATORIAS
+1. Leer y analizar no requiere autorizacion previa; modificar, cambiar decisiones metodologicas o cerrar una fase si requiere confirmacion explicita del usuario.
+2. Ningun dato, cifra, autor, obra, categoria o conclusion se acepta sin evidencia rastreable.
+3. Los documentos derivados no pueden corregir a los documentos base sin evidencia y una decision registrada.
+4. Si no puede resolverse una discrepancia, se conserva como incertidumbre documentada; no se completa mediante suposiciones.
+5. Cada cambio debe ser minimo, justificable y reversible.
+6. Antes de editar, se conserva el estado previo mediante un diff o commit identificable.
+7. Nunca se borran filas, citas, nombres originales ni transcripciones para resolver un problema de clasificacion o deduplicacion.
 
-OBJETIVO GENERAL:
-Auditar y corregir el repositorio con un criterio académico y metodológico estricto, especialmente en: 
-- la Tabla de autores,
-- el README,
-- la consistencia documental,
-- la coherencia entre fuentes, resúmenes, recuentos y conclusiones.
+JERARQUIA DE FUENTES
+1. Evidencia directa del corpus: apuntes, OCR y registros de observaciones.
+2. Tabla principal de autores.
+3. Analisis de autores y obras y otros documentos derivados.
+4. README y resumenes generales.
 
-El objetivo no es “hacer más trabajo”, sino eliminar errores, incoherencias y sobreinterpretaciones; especialmente aquello que podría ser resultado de alucinación de IA o de mezcla de versiones documentales.
+La jerarquia no crea una fuente unica para todo el proyecto. Cada afirmacion debe vincularse con la fuente que puede demostrarla: el texto fuente para la cita, las notas para la observacion, la tabla para la estructuracion y los documentos derivados para el resumen.
 
-------------------------------------------------------------
-FASE 0. DEFINICIÓN DEL SCOPE Y REGLAS DE AUDITORÍA
-------------------------------------------------------------
-Objetivo:
-Establecer el alcance exacto, las reglas de trabajo y la jerarquía documental antes de tocar contenido.
+Cuando dos documentos discrepen, se prioriza la evidencia mas directa y trazable, no la mas reciente ni la mejor redactada. Si la evidencia no permite resolver la discrepancia, se registra como abierta.
 
-Tareas:
-1. Enumerar los documentos que forman la capa de trabajo activo del proyecto.
-2. Definir la prioridad documental:
-   1) fuente primaria (apuntes, OCR, edición documental),
-   2) tabla principal,
-   3) documentos de análisis,
-   4) README y resumen general.
-3. Definir la regla de no-alucinación:
-   - ninguna cifra, autor, obra, tema o conclusión puede ser aceptada sin verificación documental;
-   - toda cifra final debe poder trazarse a un documento específico del repositorio;
-   - toda afirmación interpretativa debe distinguirse de la evidencia.
-4. Registrar el alcance exacto de la auditoría:
-   - Tabla de autores
-   - README
-   - Análisis de autores y obras
-   - Capítulos sin citas
-   - Evidencias documentales y recuentos numéricos
-   - Excluido del alcance inicial: textos de Ediciones_HGE, salvo que se necesite validación puntual de un caso.
+Se debe mantener una matriz de fuentes y afirmaciones con, como minimo:
+- afirmacion o dato que se quiere comprobar,
+- archivo que lo contiene,
+- fuente que puede validarlo,
+- estado: confirmado, provisional o abierto.
 
-Salida esperada de la Fase 0:
-- documento de alcance y reglas,
-- lista de archivos de entrada,
-- lista de preguntas de auditoría a responder,
-- decisión de qué archivos son “fuente de verdad” y qué archivos son “documentos derivados”.
+REGISTRO UNICO DE HALLAZGOS
+Todo hallazgo debe registrarse antes de corregirlo con estos campos:
+- ID
+- archivo y ubicacion de la evidencia
+- tipo de problema
+- descripcion de la discrepancia
+- impacto
+- severidad: CRITICO, ALTO, MEDIO o BAJO
+- decision: corregir, aclarar, mantener como provisional o dejar abierto
 
-Control de fase:
-- Se requiere revisión manual del alcance antes de continuar.
-- Si el alcance cambia, se registra por escrito.
-- NO se ejecutan correcciones sin este control.
+Si un supuesto no tiene evidencia suficiente, debe etiquetarse como interpretacion o incertidumbre, nunca como hecho.
 
-------------------------------------------------------------
-FASE 1. MAPEO DE FUENTES Y CANON DE VERDAD
-------------------------------------------------------------
-Objetivo:
-Reconocer qué documentos son fuentes primarias y qué documentos son derivados para evitar mezclar versiones o conclusiones.
+Definicion de severidad:
+- CRITICO: afecta a la integridad de la evidencia, la identificacion de una fuente, una cita, una autoría, una cifra principal o una regla de conteo; puede invalidar conclusiones o propagar un error al resto del proyecto.
+- ALTO: afecta a varios documentos, a una parte relevante de los recuentos o a una clasificacion metodologica central; puede producir conclusiones incorrectas aunque no invalide todo el corpus.
+- MEDIO: afecta a un documento, fila, etiqueta o afirmacion concreta sin alterar por si solo la estructura general ni los resultados principales.
+- BAJO: error formal, de redaccion o de formato sin efecto sobre la evidencia, los recuentos o las conclusiones.
+
+Un hallazgo puede elevarse de severidad si su correccion cambia cifras, autores unicos, inclusion o exclusion de citas, o el estado de verificacion de otro documento.
+
+============================================================
+FASE 1. ALCANCE, FUENTES Y REGLAS DE CONTEO
+============================================================
+Objetivo: fijar que se revisa, con que fuentes y bajo que definiciones.
 
 Tareas:
-1. Identificar los archivos que contienen el corpus base y la evidencia primaria:
-   - Notas del investigador
-   - OCR y texto base de HGE
-   - Tabla principal
-   - Análisis de citas y autores
-2. Construir un mapa de dependencias:
-   - ¿qué documento depende de qué otro?
-   - ¿qué documento sirve como resumen?
-   - ¿qué documento se usa como evidencia?
-3. Establecer el canon de verdad para el proyecto:
-   - Si una cifra aparece en dos documentos y difiere, se debe resolver cuál es el documento guía.
-   - Si no hay una fuente de verdad, se debe marcar como inconsistencia abierta.
-4. Detectar divergencias de versiones entre:
-   - README antiguo,
-   - tabla principal,
-   - análisis preliminar,
-   - resúmenes indirectos.
+- Enumerar los archivos incluidos: Tabla de autores, README, Analisis de datos/Autores y obras.md, Tablas/Capitulos sin citas.md y Notas/Apuntes sobre HGE Cap I-IV.txt.
+- No hacer una auditoria integra inicial de Ediciones_HGE, pero usar esos textos como fuente obligatoria para validar cualquier cita, atribucion, cifra o discrepancia que dependa del texto original.
+- Clasificar cada archivo como base o derivado y registrar sus dependencias.
+- Definir los criterios de referencia y la regla de conteo: cita, mencion indirecta, autor, obra, autoreferencia y cita colateral.
+- Identificar las decisiones metodologicas que necesitan confirmacion del usuario.
 
-Salida esperada de la Fase 1:
-- mapa de fuentes,
-- lista de inconsistencias documentales detectadas,
-- “canon de verdad” propuesto para el proyecto.
+Salida:
+- alcance aprobado,
+- mapa breve de fuentes y dependencias,
+- criterios de referencia,
+- matriz inicial de fuentes y afirmaciones,
+- regla de conteo,
+- lista inicial de discrepancias.
 
-Control de fase:
-- Cada discrepancia debe listarse con el archivo origen y la contradicción exacta.
-- No se puede cerrar la fase si quedan inconsistencias sin marcar.
+Gate: la fase se cierra solo cuando el alcance y las reglas estan escritos y confirmados. Si la matriz de fuentes no permite resolver una discrepancia, esta pasa al registro como abierta.
 
-------------------------------------------------------------
-FASE 2. AUDITORÍA DE LA TABLA DE AUTORES
-------------------------------------------------------------
-Objetivo:
-Validar la tabla principal como centro documental y detectar errores estructurales, numeración, duplicados, clasificación, exclusiones y recuentos.
+============================================================
+FASE 2. AUDITORIA DOCUMENTAL
+============================================================
+Objetivo: comprobar la evidencia, la estructura, los recuentos y las interpretaciones sin modificar archivos.
 
-Tareas:
-1. Revisión de la estructura general de la tabla.
-   - ¿están claramente separadas la base de datos de la interpretación?
-   - ¿hay columnas consistentes y definidas?
-   - ¿hay un único criterio para cada fila?
-2. Revisión de numeración y recuento de entradas.
-   - verificar si la numeración es secuencial,
-   - verificar si incluye o excluye autoreferencias,
-   - verificar si la tabla de autores y la tabla de conteo coinciden.
-3. Revisión de autores únicos.
-   - deduplicación por nombre canónico,
-   - detectar variantes del mismo nombre,
-   - decidir si “San Isidoro” y “Isidoro” son la misma entidad,
-   - decidir si “Mariana” debe contarse como autor de referencia o como caso especial.
-4. Revisión de la lógica de inclusión/exclusión.
-   - contar entradas que cumplen el criterio de cita relevante,
-   - distinguir entre cita de autor, cita con obra, mención indirecta y cita colateral.
-5. Revisión de la columna de temática.
-   - verificar si las temáticas son interpretativas o hechos documentales,
-   - detectar si una temática se usa como etiqueta o como conclusión.
-6. Revisión de la sección de citas colaterales.
-   - ¿están fuera del total principal?,
-   - ¿están completamente documentadas?,
-   - ¿qué hay de su estado de validación?
-7. Revisión de autoreferencias.
-   - confirmar que son casos especiales y no cuentan como citas objetivas de autoridad.
+Bloque A: Tabla de autores
+- Comprobar numeracion, filas, totales y reproducibilidad de los recuentos.
+- Detectar duplicados y variantes de nombres; aplicar la regla de deduplicacion aprobada sin borrar ni sobrescribir los valores originales.
+- Si dos nombres se consideran equivalentes, registrarlos en una tabla de equivalencias que conserve el nombre original, el nombre canonico, la justificacion y el impacto en los recuentos.
+- Separar citas, menciones indirectas, autoreferencias y citas colaterales.
+- Comprobar que cada columna y cada etiqueta tematica tienen un criterio consistente.
 
-Salida esperada de la Fase 2:
-- auditoría de la tabla principal,
-- lista de inconsistencias reales,
-- lista de problemas de interpretación,
-- propuesta de canon para contar citas y autores.
+Bloque B: README y documentos derivados
+- Contrastar cada cifra y afirmacion relevante con la matriz de fuentes y la tabla.
+- Detectar informacion obsoleta, contradicciones y lenguaje presentado como definitivo sin respaldo.
+- Separar hechos documentales, decisiones metodologicas, interpretaciones y estado provisional.
 
-Control de fase:
-- La tabla no puede considerarse “corregida” sin que la numeración y el conteo sean trazables.
-- Si la deduplicación cambia los resultados, debe quedar registrado.
+Bloque C: Riesgo de sobreinterpretacion
+- Identificar atribuciones de intencion, finalidad o funcion que no tengan apoyo explicito.
+- Marcar taxonomias o conclusiones que excedan lo que permite demostrar la evidencia.
 
-------------------------------------------------------------
-FASE 3. AUDITORÍA DEL README Y DOCUMENTOS RESUMIDOS
-------------------------------------------------------------
-Objetivo:
-Comprobar si el README y otros documentos resumidos reflejan el estado real del proyecto o si están describiendo un estado anterior o una narración no verificada.
+Salida:
+- registro completo de hallazgos,
+- propuesta de correccion para cada hallazgo corregible,
+- decisiones metodologicas pendientes de confirmacion.
+
+Gate: no se edita ningun archivo en esta fase. El usuario debe confirmar el conjunto de hallazgos y decisiones que se corregiran.
+
+============================================================
+FASE 3. CORRECCION DOCUMENTAL
+============================================================
+Objetivo: aplicar unicamente cambios respaldados por hallazgos confirmados.
 
 Tareas:
-1. Revisar el README línea por línea para detectar:
-   - cifras que ya no coinciden,
-   - estados “definitivos” sin evidencia,
-   - mezcla de información antigua y actual,
-   - frases que parecen conclusión de investigación en vez de registro documental.
-2. Contrastar cada afirmación del README contra la tabla principal.
-3. Contrastar cada cifra del README contra los documentos fuente.
-4. Revisar si el README está describiendo hechos históricos o el proceso de investigación.
-5. Revisar si se confunde documentación con metodología, y metodología con evidencia.
-6. Comprobar si existen conclusiones que hayan sido “sobrescritas” por la IA o por summaries sin validación.
+- Corregir cifras, numeracion y clasificaciones cuando la evidencia y la regla de conteo lo permitan.
+- Alinear README y documentos derivados con la matriz de fuentes y afirmaciones.
+- Diferenciar de forma visible evidencia, analisis, interpretacion y provisionalidad.
+- No alterar documentos base salvo que exista evidencia directa y autorizacion expresa.
+- Vincular cada cambio con el ID del hallazgo que lo justifica.
+- No eliminar informacion original para normalizar nombres, citas o categorias; las normalizaciones deben conservar el valor original y su equivalencia.
 
-Salida esperada de la Fase 3:
-- lista de inconsistencias del README,
-- lista de afirmaciones que necesitan reescritura,
-- lista de observaciones que deben ser retiradas o reformuladas.
+Salida:
+- archivos corregidos,
+- registro de cambios y justificaciones,
+- hallazgos que permanecen abiertos.
 
-Control de fase:
-- Cada cifra del README debe estar respaldada por un documento o byline del proyecto.
-- Si no hay respaldo, debe eliminarse o reformularse como hipótesis.
+Gate: si un cambio no tiene hallazgo, evidencia y confirmacion, queda bloqueado.
 
-------------------------------------------------------------
-FASE 4. AUDITORÍA DE ALUCINACIONES Y SOBREINTERPRETACIONES
-------------------------------------------------------------
-Objetivo:
-Detectar los errores más sutiles: frases que parecen “razonadas” pero no están apoyadas por la evidencia documental.
+============================================================
+FASE 4. VALIDACION Y CIERRE
+============================================================
+Objetivo: comprobar que las correcciones son coherentes, trazables y reproducibles.
 
-Tareas:
-1. Buscar signos de inferencia no documentada:
-   - atribuciones de función sin prueba textual,
-   - atribuciones de intención histórica,
-   - afirmaciones de “finalidad” del trabajo sin evidencia explícita,
-   - taxonomías demasiado firmes para lo que el corpus permite demostrar.
-2. Revisar si se ha interpretado el texto de Mariana como si fuera una conclusión definitiva y no como un corpus analizable.
-3. Revisar si los resúmenes se están presentando como “resultado final” cuando no lo son.
-4. Revisar el uso de términos como “completo”, “definitivo”, “cerrado”, “concluido” sin una prueba explícita de cierre.
-5. Revisar si los documentos mezclan análisis historiográfico con descripción de datos.
+Comprobaciones:
+- Los recuentos del README coinciden con la tabla y con la regla de conteo.
+- Las citas colaterales y autoreferencias estan diferenciadas del total principal.
+- Cada afirmacion relevante tiene fuente o esta etiquetada como interpretacion o provisional.
+- No quedan discrepancias sin registrar, aunque algunas permanezcan abiertas.
+- Cada cambio aplicado tiene un hallazgo asociado.
+- No quedan hallazgos CRITICOS o ALTOS abiertos, salvo aceptacion explicita y documentada del usuario.
 
-Salida esperada de la Fase 4:
-- lista de posible alucinación o sobreinterpretación,
-- lista de afirmaciones que requieren matización,
-- propuesta de lenguaje más preciso y menos totalizante.
-
-Control de fase:
-- No se puede pasar a corrección final si hay afirmaciones no sustentadas sin etiqueta de estado.
-
-------------------------------------------------------------
-FASE 5. PLAN DE CORRECCIÓN DOCUMENTAL
-------------------------------------------------------------
-Objetivo:
-Corregir solo aquello que se ha validado con evidencia. No hacer “mejoras” ni revisiones estéticas sin base documental.
-
-Tareas:
-1. Reescribir el README con lenguaje estrictamente factual:
-   - qué es el proyecto,
-   - cuál es la fuente base,
-   - qué se ha verificado,
-   - qué es interpretativo,
-   - qué es provisional.
-2. Corregir la tabla principal de forma que quede claro:
-   - qué se cuenta,
-   - qué se excluye,
-   - qué se considera colateral,
-   - cómo se cuentan autores,
-   - cómo se cuentan citas.
-3. Reforzar la diferenciación entre:
-   - evidencia documental,
-   - estructuración analítica,
-   - inferencia historiográfica.
-4. Eliminar o matizar frases que suenen definitivas pero no están respaldadas.
-5. Dejar en cada documento una nota de estado y una nota de límites del trabajo.
-
-Salida esperada de la Fase 5:
-- README corregido y consistente,
-- tabla principal normalizada,
-- documentos resumidos alineados con evidencia.
-
-Control de fase:
-- Toda corrección debe poder rastrearse a una inconsistencia documentada.
-- El documento final debe presentar un “estado de verificación” claro.
-
-------------------------------------------------------------
-FASE 6. VALIDACIÓN FINAL Y CIERRE
-------------------------------------------------------------
-Objetivo:
-Comprobar que el trabajo no solo mejora la redacción, sino que elimina inconsistencias reales.
-
-Tareas:
-1. Revisar que cada documento se alinee con el canon de verdad definido.
-2. Verificar que los recuentos y cifras del README coinciden con la tabla principal.
-3. Verificar que no quedan hallazgos abiertos sin registro.
-4. Verificar que las citas colaterales están claramente marcadas como no incorporadas al total principal.
-5. Verificar que la documentación separe hechos, inferencias, hipótesis y conclusiones.
-6. Preparar un resumen final de correcciones ejecutadas, con referencias a los archivos afectados.
-
-Salida esperada de la Fase 6:
-- resumen de validación final,
+Salida:
+- informe breve de validacion,
 - lista de correcciones aplicadas,
-- estabilidad documental del repositorio.
+- lista de incertidumbres y asuntos pendientes,
+- decision de cierre o reapertura de la fase correspondiente.
 
-Control de fase:
-- Antes de cerrar, hacer una auditoría final de coherencia entre README y tabla principal.
-- Si cualquier número o afirmación no puede trazarse, se vuelve a la fase correspondiente.
+Gate final: el usuario confirma el cierre. Si una comprobacion falla, se reabre la fase afectada; no se corrige mediante una suposicion nueva. Un hallazgo CRITICO o ALTO solo puede permanecer abierto si el usuario acepta expresamente el riesgo y queda constancia de esa decision.
 
-------------------------------------------------------------
-CRITERIOS DE FIN DE PROYECTO
-------------------------------------------------------------
-Se considera que la auditoría está completa cuando se cumplen todas estas condiciones:
-- la tabla principal tiene un criterio de inclusión y recuento claramente establecido;
-- el README refleja el estado real con cifras verificadas;
-- las discrepancias entre documentos han sido resueltas o marcadas como abiertas;
-- las secciones colaterales están claramente diferenciadas del total principal;
-- las afirmaciones interpretativas están separadas de la evidencia documental;
-- no quedan “hechos” sin fuente ni “conclusiones” sin rastro documental;
-- no se realizan más cambios sin confirmación explícita del usuario.
+============================================================
+CRITERIO DE FINALIZACION
+============================================================
+La auditoria termina cuando existe una matriz de fuentes y afirmaciones, una regla reproducible de conteo, un registro completo de hallazgos, documentos alineados con la evidencia, ningun hallazgo CRITICO o ALTO sin una decision explicita y ninguna modificacion sin justificacion, estado previo conservado y confirmacion del usuario.
 
-------------------------------------------------------------
-LISTA DE TAREAS EN ORDEN DE EJECUCIÓN
-------------------------------------------------------------
-1. Definir alcance y reglas anti-alucinación.
-2. Mapeo de fuentes y canon de verdad.
-3. Auditoría de la tabla de autores.
-4. Auditoría del README y resúmenes.
-5. Auditoría de alucinaciones y sobreinterpretaciones.
-6. Corrección documental validated.
-7. Validación final y cierre académico.
+INSTRUCCION PARA FUTURAS IA
+Al detectar este archivo, la IA debe:
+1. Leerlo y revisar el estado actual del repositorio.
+2. Identificar la fase activa o proponer la primera fase pendiente.
+3. Analizar y registrar hallazgos sin editar.
+4. Resumir al usuario el alcance, los hallazgos y los cambios previstos.
+5. Pedir confirmacion antes de modificar archivos, cambiar reglas metodologicas o cerrar una fase.
 
-------------------------------------------------------------
-PROHIBICIÓN DE EJECUCIÓN SIN CONFIRMACIÓN
-------------------------------------------------------------
-Si una IA o agente detecta este documento, debe tratarlo como un plan de trabajo con gates. Antes de editar archivos del proyecto, debe:
-- leer este archivo,
-- resumir el objetivo de la fase actual,
-- listar las tareas concretas a ejecutar,
-- pedir confirmación explícita del usuario,
-- y solo entonces continuar con la ejecución.
-
-Este documento existe para reducir la posibilidad de automatización ciega, sobregeneralización y alucinación. No sustituye la supervisión humana, sino que la exige explícitamente.
-
-------------------------------------------------------------
-REGISTRO DEL ESTADO DEL REPOSITORIO
-------------------------------------------------------------
-Se recomienda registrar en cada fase lo siguiente:
-- archivo revisado,
-- criterio empleado,
-- evidencia consultada,
-- decisión tomada,
-- estado final.
-
-Esto permite que la IA futura pueda auditar la evolución del trabajo y detectar si se han introducido cambios sin evidencia.
-
-------------------------------------------------------------
 FIN DEL PLAN
-------------------------------------------------------------
-Este documento debe leerse como una hoja de ruta de calidad y control de riesgo, no como una lista de tareas casuales. La prioridad es la integridad documental y la trazabilidad de cada decisión.
