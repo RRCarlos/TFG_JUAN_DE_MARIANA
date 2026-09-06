@@ -1,63 +1,86 @@
 # Proyecto Autores — Historia General de España
 
 > Análisis historiográfico de las fuentes de la *Historia General de España* de Juan de Mariana (1536–1624).
-> Trabajo de Fin de Grado · Mayo 2026
+> Trabajo de Fin de Grado · revisión final del proyecto en septiembre de 2026
 
 ---
 
 ## 1. Qué investigamos
 
-Juan de Mariana (1536–1624), jesuita e historiador, publicó en 1601 la primera traducción al castellano de su *Historia General de España* (*Historia General de España, compuesta primero en latín, después vuelta en castellano por Juan de Mariana*). En los cuatro primeros libros —que abarcan desde los orígenes míticos de Hispania hasta la caída del Imperio romano de Occidente—, Mariana recurre a **76 autores distintos (75 fuentes externas + 1 autoreferencia de Juan de Mariana)** para fundamentar su relato.
+Juan de Mariana (1536–1624), jesuita e historiador, publicó en 1601 la primera traducción al castellano de su *Historia General de España* (*Historia General de España, compuesta primero en latín, después vuelta en castellano por Juan de Mariana*). En los cuatro primeros libros —desde los orígenes míticos de Hispania hasta la caída del Imperio romano de Occidente—, Mariana recurre a un conjunto de autoridades que puede reconstruirse con precisión a partir de la tabla principal del proyecto.
 
-La pregunta que guía este proyecto es:
+La pregunta que guía esta investigación es:
 
 > **¿Para qué cita Mariana a cada autor?**
 
-No se trata de determinar si Mariana tuvo acceso físico a las obras que menciona, sino de identificar la **función historiográfica** de cada cita dentro de la construcción del relato. Cuando Mariana se refiere a un tema dudoso —reyes fabulosos, genealogías fantásticas, falsificaciones—, suele contrastar varios autores.
+No se trata de determinar si Mariana tuvo acceso físico directo a cada obra citada, sino de identificar la **función historiográfica** de cada mención dentro de la construcción del relato. Cuando Mariana aborda un tema dudoso —reyes fabulosos, etimologías problemáticas, genealogías fantásticas, falsificaciones, autoridades patrísticas o cronológicas— suele contrastar varias voces antes de adoptar o rechazar una versión.
 
-El objeto de estudio son **180 apariciones (178 a fuentes externas y 2 autoreferencias) distribuidas en los Libros I–IV**, referenciadas contra la edición de 1601 y clasificadas según su función en el argumento de Mariana.
+El objeto de estudio del proyecto son las **apariciones registradas en los Libros I–IV**, en la edición de Toledo de 1601, con clasificación por contexto, función y temática.
 
 ---
 
-## 2. Por qué lo investigamos
+## 2. Estado actual del proyecto
 
-### Contexto académico
+El README anterior estaba desactualizado. La revisión final del proyecto en la documentación del repositorio establece los siguientes datos definitivos:
 
-Este proyecto se enmarca en un **Trabajo de Fin de Grado** cuyo objetivo inicial era responder una pregunta binaria: ¿tuvo Mariana acceso real a los autores que cita? La verificación sistemática de autores en seis catálogos internacionales aportó datos valiosos, pero también puso de manifiesto los límites de esa pregunta. Demostrar que una edición existía antes de 1592 no prueba que Mariana la leyera.
+- **Citas registradas en la tabla principal**: 194.
+- **Autores externos distintos**: 83.
+- **Autores distintos en total** (incluyendo a Juan de Mariana): 84.
+- **Autoreferencias de Mariana**: 2.
+- **Citas colaterales del Libro IV**: 13, localizadas en una pasada redundante y no integradas en el total principal.
+- **Cobertura documental**: Libros I–IV de la *Historia General de España*.
 
-### El giro metodológico
+> La verificación manual de citas se considera completa para la tabla principal; la sección de citas colaterales queda documentada como material complementario, no como parte del conteo principal.
 
-La pregunta original —*¿tuvo acceso?*— se transformó en una más fértil:
+### Resultados relevantes
+
+- La relación de citas no se reduce a una mera lista de autoridades, sino a un sistema de **funciones argumentativas** dentro del relato.
+- Mariana combina fuentes clásicas, geográficas, cronológicas, patrísticas, hagiográficas, etimológicas y críticas.
+- El análisis distingue entre la cita que **fundamenta**, la que **contrasta**, la que **desacredita** y la que **remite a otra tradición documental**.
+- El proyecto trabaja con una base textual que incorpora artefactos OCR propios de la tipografía antigua y aplica corrección ortográfica para la columna de **Cita normalizada**.
+
+---
+
+## 3. Metodología del proyecto
+
+### 3.1. Pregunta de investigación
+
+La pregunta original —¿tuvo Mariana acceso real a autores que menciona?— fue reformulada porque no era suficiente para explicar la práctica efectiva del texto. El proyecto se centró en una pregunta más productiva:
 
 > **¿Para qué usa Mariana a cada autor?**
 
-Este cambio no abandona los resultados previos, sino que los recontextualiza. La verificación de existencias bibliográficas pasa a ser un dato de contexto, no el objetivo central. El objetivo nuevo es analizar la **tipología funcional de las citas**: qué categoría de autoridad representa cada autor (geográfica, narrativa, cronológica, bíblica, etimológica, crítica), y cómo se articulan esas autoridades dentro del sistema historiográfico de Mariana.
+Esto permite analizar la **lógica historiográfica** de la obra, no solo la existencia de una edición o una fuente.
 
-### Valor del estudio
+### 3.2. Fuentes materiales
 
-Comprender el sistema de citas de Mariana permite:
+La base textual del estudio es la edición de Toledo, 1601, de la *Historia General de España*, con la versión OCR digitalizada como soporte de trabajo y la lectura manual del texto como referencia principal.
 
-- Reconstituir las **estrategias argumentativas** de un historiador del siglo XVI.
-- Identificar las **tradiciones textuales** que nutrieron la historiografía española moderna.
-- Detectar los casos en que Mariana opera con **escepticismo** (cita para desacreditar) frente a los que opera con **adhesión** (cita para fundamentar).
-- Distinguir entre el uso de **fuentes directas** (ediciones impresas), **transmisión indirecta** (compilaciones medievales) y **fuentes problemáticas** (obras perdidas, falsificaciones).
+La documentación del repositorio identifica dos fuentes clave:
 
-### Estado actual del proyecto (Agosto 2026)
+1. **Edición base**: la edición de Toledo de 1601.
+2. **Notas del investigador**: el documento principal de recolección de citas y funciones, conservado en [Notas/Apuntes sobre HGE Cap I-IV.txt](Notas/Apuntes%20sobre%20HGE%20Cap%20I-IV.txt).
 
-> **Nota de estado:** la **verificación manual** de las citas está **completa** (180 de 180 apariciones —178 externas más 2 autoreferencias— contrastadas con el OCR de los Libros Primero a Cuarto). Las cifras de este documento son definitivas salvo correcciones puntuales. Existe además una sección de **13 citas colaterales** del Libro Cuarto (capítulos XII–XXI), localizadas en una pasada redundante y pendientes de verificación manual; se documentan en `Tablas/Capítulos sin citas.md` y al final de `Tablas/Tabla de autores.md`, sin integrarse todavía al conteo principal.
+### 3.3. Criterio de clasificación
 
-Resultados:
+La tabla principal clasifica cada cita según su función en el argumento de Mariana. Las categorías relevantes son, entre otras:
 
-- **Citas**: 180 apariciones totales (178 fuentes externas + 2 autoreferencias de Mariana a su *Historiae de Rebus Hispaniae* de 1592).
-- **Autores distintos**: 76 (75 fuentes externas + Juan de Mariana).
-- **Cobertura**: Libros I–IV (93 capítulos), referenciadas contra la edición de Toledo, 1601.
-- Cada cita está clasificada en uno de **10 grupos temáticos** según su función en el argumento.
+- geografía,
+- etnografía,
+- cronología,
+- genealogía,
+- política y militar,
+- religión,
+- arqueología,
+- lingüística,
+- historiografía.
+
+Este criterio no pretende identificar una única “fuente verdadera”, sino describir la manera en que Mariana articula autoridad, duda, tradición y crítica dentro de su historia.
 
 ---
 
-## 3. Fuentes
+## 4. Fuentes y edición base
 
-### Edición de 1601 — Texto base
+### Edición de 1601 — texto base
 
 La edición de referencia es la **primera traducción al castellano**, publicada en Toledo en 1601 por Pedro Rodríguez.
 
@@ -67,104 +90,83 @@ La edición de referencia es la **primera traducción al castellano**, publicada
 | Lugar | Toledo |
 | Imprenta | Pedro Rodríguez |
 | Fecha | 5 de octubre de 1601 |
-| Formato | 2 tomos en folio: Tomo I (4h + 1015 pág.), Tomo II (2h + 962 pág. + 13h) |
+| Formato | 2 tomos en folio |
 | OCLC | 36264560 |
 | USTC | 5006449 |
 
-El archivo de texto completo (`HGE_TomosI-II.txt`, ~6 MB, 98.805 líneas) fue obtenido del OCR de la digitalización BNE Digital. Para trabajar de forma más cómoda, se dividió en 5 archivos:
+Los archivos de texto correspondientes a la edición OCR se conservan en la carpeta [Ediciones_HGE](Ediciones_HGE), y el trabajo analítico del proyecto se apoya en esos textos, aunque no constituye el objeto principal del análisis.
 
-| Archivo | Contenido | Líneas |
-|---------|-----------|--------|
-| `00_portada_indice.txt` | Portada, privilegio, dedicatoria, índice | 254 |
-| `01_libro_primero.txt` | Libro I completo | 2.863 |
-| `02_libro_segundo.txt` | Libro II completo | 3.109 |
-| `03_libro_tercero.txt` | Libro III completo | 2.902 |
-| `04_libro_cuarto.txt` | Libro IV completo | 3.165 |
+### Nota sobre el OCR
 
-**Notas sobre el TXT**: El archivo proviene de un OCR de una digitalización del siglo XVI. Contiene artefactos de reconocimiento óptico propios de la tipografía de la época (ſ→f, v/u intercambiables, ligaduras rotas, abreviaturas de imprenta). Estos artefactos son predecibles y se mitigan con normalización ortográfica antes de la comparación textual. La columna **Cita normalizada** de la tabla aplica esta corrección.
-
-### Notas del investigador
-
-El punto de partida empírico del proyecto es un **documento Word** (*Historia general de España.docx*) donde el investigador recogió, durante la lectura de la edición de 1601, las menciones a autores en los Libros I–IV. Una versión en texto plano de esas notas se incluye en el repositorio (`Notas/Apuntes sobre HGE Cap I-IV.txt`, 795 líneas). Cada entrada incluye:
-
-- Libro y capítulo donde aparece la mención.
-- Nombre del autor citado (tal como aparece en Mariana).
-- Contexto de la cita.
-- Función que cumple esa cita dentro del argumento.
-- Tipo de fuente.
-
-Esas notas constituyen la **fuente primaria** del proyecto: todo lo que sigue —tablas, validaciones, clasificaciones— se construyó a partir de ellas. El documento Word original no se incluye en el repositorio por derechos de autor.
-
-### Catálogos de verificación
-
-Para verificar la existencia de los autores y la disponibilidad de ediciones anteriores a 1592, se consultaron:
-
-| Catálogo | Función |
-|----------|---------|
-| [Library of Congress (LOC)](https://www.loc.gov) | Autoridades y registros bibliográficos internacionales |
-| [Biblioteca Nacional de España (BNE)](https://www.bne.es) | Catálogo nacional español |
-| [Biblioteca de Castilla-La Mancha (CLM)](https://patrimoniodigital.castillalamancha.es) | Fondo del antiguo Colegio de Jesuitas de Toledo |
-| [VIAF](https://viaf.org) | Archivos de autoridad internacionales |
-| [USTC](https://ustc.ac.uk) | Ediciones europeas impresas antes de 1600 |
-| [GW](https://gesamtkatalogderwiegendrucke.de) | Incunables (1450–1500) |
-| [CCPB](https://bvpb.mcu.es) | Catálogo Colectivo del Patrimonio Bibliográfico Español |
+Los textos extraídos de la digitalización contienen artefactos propios del reconocimiento óptico: ſ→s, confusiones v/u, ligaduras, abreviaturas de imprenta. Estos elementos se normalizan antes de comparar o resumir una cita. La columna **Cita normalizada** de la tabla principal aplica esa corrección.
 
 ---
 
-## 4. Estructura del repositorio
+## 5. Estructura del repositorio
 
 ```
 proyecto-autores/
-│
-├── README.md                          — Bitácora del proyecto
-│
-├── Tablas/
-│   ├── Tabla de autores.md            — Tabla principal: 180 citas con Cita normalizada, Contexto y Temática (+ 13 citas colaterales pendientes)
-│   ├── Capítulos sin citas.md         — Capítulos de los Libros I–IV sin cita de autor + sección Citas colaterales (13)
-│   ├── Tabla de autores.html          — Exportación imprimible de la tabla (nota: desactualizada respecto al .md)
-│   └── Tabla de capítulos.md          — Índice de capítulos de los Libros I–IV (con línea inicial en el OCR)
-│
+├── README.md
+├── Análisis de datos/
+│   └── Autores y obras.md
 ├── Notas/
-│   └── Apuntes sobre HGE Cap I-IV.txt — Notas del investigador: menciones a autores en Libros I–IV
-│
-└── Ediciones_HGE/
-    ├── HGE_TomosI-II.txt              — Texto completo de la edición de 1601 (backup, ~6 MB)
-    ├── 00_portada_indice.txt          — Portada, privilegio, dedicatoria, índice
-    ├── 01_libro_primero.txt           — Libro I (2.863 líneas)
-    ├── 02_libro_segundo.txt           — Libro II (3.109 líneas)
-    ├── 03_libro_tercero.txt           — Libro III (2.902 líneas)
-    └── 04_libro_cuarto.txt            — Libro IV (3.165 líneas)
+│   └── Apuntes sobre HGE Cap I-IV.txt
+├── Tablas/
+│   ├── Tabla de autores.md
+│   ├── Tabla de capítulos.md
+│   └── Capítulos sin citas.md
+├── Ediciones_HGE/
+│   ├── 00_portada_indice.txt
+│   ├── 01_libro_primero.txt
+│   ├── 02_libro_segundo.txt
+│   ├── 03_libro_tercero.txt
+│   ├── 04_libro_cuarto.txt
+│   └── HGE_TomosI-II.txt
+└── .gitignore
 ```
 
-### La tabla de autores
+### Archivos principales
 
-`Tablas/Tabla de autores.md` organiza las citas por libro (Primero a Cuarto) con las columnas:
-
-| Columna | Contenido |
-|---------|-----------|
-| # | Número de entrada (1–178 para fuentes externas) |
-| Autor | Nombre del autor tal como aparece en Mariana |
-| Capítulo | Libro y capítulo de la cita |
-| Cita normalizada | Extracto textual con ortografía modernizada (ſ→s, separación de palabras, corrección de artefactos OCR) |
-| Contexto | Descripción del contexto historiográfico de la cita |
-| Temática | Grupo temático (10 categorías) según la función en el argumento |
-
-Se incluyen además:
-
-- **Autoreferencias de Juan de Mariana** (2 remisiones a su *Historiae de Rebus Hispaniae* de 1592).
-- **Conteo de citas** por libro.
-- **Resumen por autor** (76 autores con temática y frecuencia de aparición).
-- **Citas colaterales** (sección al final, no contada en el total): 13 apariciones del Libro Cuarto halladas en la pasada redundante, pendientes de verificación manual; la misma información se replica en `Tablas/Capítulos sin citas.md`.
-
-### Los capítulos sin cita
-
-`Tablas/Capítulos sin citas.md` lista los capítulos de los Libros I–IV en los que no se registró ninguna cita de autor, con su línea inicial en el OCR. Al final incluye la sección **Citas colaterales** con el mismo esquema de columnas que la tabla principal.
+- [README.md](README.md): bitácora general del proyecto y estado del trabajo.
+- [Análisis de datos/Autores y obras.md](Análisis%20de%20datos/Autores%20y%20obras.md): identificación de citas en las que Mariana menciona explícitamente una obra del autor.
+- [Notas/Apuntes sobre HGE Cap I-IV.txt](Notas/Apuntes%20sobre%20HGE%20Cap%20I-IV.txt): fuente primaria de observación y clasificación.
+- [Tablas/Tabla de autores.md](Tablas/Tabla%20de%20autores.md): tabla principal del proyecto, con autores, capítulos, citas normalizadas, contexto y temática.
+- [Tablas/Capítulos sin citas.md](Tablas/Capítulos%20sin%20citas.md): listado de capítulos sin cita de autor y sección de citas colaterales.
+- [Tablas/Tabla de capítulos.md](Tablas/Tabla%20de%20capítulos.md): índice de capítulos y referencia de línea inicial en el OCR.
 
 ---
 
-## 5. Referencias
+## 6. La tabla de autores
 
-### Catálogos
+La tabla principal ([Tablas/Tabla de autores.md](Tablas/Tabla%20de%20autores.md)) organiza las citas por libro y capítulo y contiene las siguientes columnas:
+
+| Columna | Contenido |
+|---------|-----------|
+| # | Número de entrada |
+| Autor | Nombre del autor tal como aparece en Mariana |
+| Capítulo | Libro y capítulo de referencia |
+| Cita normalizada | Extracto textual con normalización ortográfica |
+| Contexto | Descripción del uso historiográfico de la cita |
+| Temática | Grupo temático según la función en el argumento |
+
+Además, la tabla incorpora:
+
+- **Autoreferencias de Juan de Mariana** (2 entradas).
+- **Resumen por autor** con frecuencia y temática.
+- **Conteo de citas por libro**.
+- **Citas colaterales** del Libro IV, que no forman parte del total principal.
+
+---
+
+## 7. Capítulos sin cita
+
+[Tablas/Capítulos sin citas.md](Tablas/Capítulos%20sin%20citas.md) recoge los capítulos de los Libros I–IV en los que no se localizó una cita explícita de autor. El documento confirma la ausencia de autor citado en determinados pasajes y documenta además las citas colaterales identificadas en una pasada redundante.
+
+---
+
+## 8. Catálogos y referencias
+
+### Catálogos de verificación
 
 | Catálogo | URL |
 |----------|-----|
@@ -173,7 +175,7 @@ Se incluyen además:
 | Biblioteca de Castilla-La Mancha | https://patrimoniodigital.castillalamancha.es |
 | VIAF | https://viaf.org |
 | USTC | https://ustc.ac.uk |
-| GW (Wiegendrucke) | https://gesamtkatalogderwiegendrucke.de |
+| GW | https://gesamtkatalogderwiegendrucke.de |
 | CCPB | https://bvpb.mcu.es |
 
 ### Bibliotecas digitales
@@ -191,5 +193,10 @@ Mariana, J. de. *Historia General de España*. Toledo, 1601.
 
 ---
 
-*Última actualización: 19 de agosto de 2026*
+## 9. Nota de actualización
+
+El anterior README reproducía cifras anteriores a la revisión final del proyecto y no reflejaba la estructura documental definitiva del repositorio. La versión actual se ha actualizado a la evidencia disponible en la tabla principal, los apuntes del investigador y el análisis de capítulos.
+
+*Última actualización: 6 de septiembre de 2026*
+
 [Repositorio en GitHub](https://github.com/RRCarlos/proyecto-autores)
